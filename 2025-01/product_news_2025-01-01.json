@@ -1,0 +1,607 @@
+{
+    "status": "ok",
+    "total_articles": 38,
+    "articles": [
+        {
+            "published_date": "2025-01-01T23:39:43",
+            "title": "Yes, Analog Phones Work Just Fine Over a VoIP Gateway",
+            "author": "Corry Cummings",
+            "url": "https://www.techrepublic.com/article/voip-gateway",
+            "url_media": "https://assets.techrepublic.com/uploads/2024/12/voip-gateway-featured-image-12312024-min.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The article discusses VoIP gateways, which enable businesses to transition to cloud-based communication systems without replacing existing analog devices. These gateways convert analog signals into digital packets, allowing legacy devices to connect to modern VoIP phone services. The article explores different types of VoIP gateways like Single-port, Enterprise-grade, FXS, and Fax-ATA gateways, highlighting their use cases and benefits."
+        },
+        {
+            "published_date": "2025-01-01T23:14:03",
+            "title": "Kmart Australia shoppers go wild over new $79 cleaning gadget: 'I urgently need this'",
+            "author": "CARINA STATHIS",
+            "url": "https://www.dailymail.co.uk/femail/real-life/article-14242377/Kmart-Australia-cordless-spot-cleaner-79.html",
+            "url_media": "https://i.dailymail.co.uk/1s/2025/01/01/22/93603383-0-image-m-6_1735771582337.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Kmart",
+                "Kmart Australia",
+                "TikTok",
+                "Bunnings"
+            ],
+            "summary": "Kmart Australia has launched a new, affordable cordless spot cleaner priced at $79. This product is designed for cleaning carpets, car interiors, and upholstery. Currently, the spot cleaner is available in Kmart stores, but not yet online."
+        },
+        {
+            "published_date": "2025-01-01T22:28:00",
+            "title": "Free laundry services available through Rockford program",
+            "author": "Anna Sieg",
+            "url": "https://www.wifr.com/2025/01/01/free-laundry-services-available-through-rockford-program",
+            "url_media": "https://gray-wifr-prod.gtv-cdn.com/resizer/v2/H3UH5VAYVJAQBNVXE4YIWSN3GU.jpg?auth=8df5a84cfab76e025e7ce07f11b270c6753880e50d5a52f12508119bcac72c5d&width=1200&height=600&smart=true",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "RPS",
+                "5 Alarm Coin Laundry",
+                "WIFR",
+                "Rockford Police Department",
+                "Inclusive Public Service Communities",
+                "Molina Healthcare of Illinois"
+            ],
+            "summary": "Molina Healthcare of Illinois and 5 Alarm Coin Laundry collaborate with other organizations to launch the Fresh for Learning Laundry Program. This program offers free laundry services to Rockford Public School (RPS) students and their families, providing time slots for laundering two free baskets per day at 5 Alarm Coin Laundry locations."
+        },
+        {
+            "published_date": "2025-01-01T20:58:48",
+            "title": "Lucid Mattress Review: An Affordable Amazon Choice Mattress",
+            "author": "McKenzie Dillon",
+            "url": "https://news.knowledia.com/all/all/articles/lucid-mattress-review-an-affordable-amazon-choice-mattress-785546efc5db323007eecadbac82e7868cf366c2",
+            "url_media": "https://www.cnet.com/a/img/resize/b91d46605c7f33ca4c334ab7800e7ea5b4e1e6b6/hub/2021/12/01/42e4015e-0dc9-474f-9241-7c9a6d60847e/dsc01218.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Amazon"
+            ],
+            "summary": "Lucid introduced the Lucid Gel Memory Foam mattress, which is well-reviewed and affordable. The mattress has been updated with a new construction and renamed the Bamboo Charcoal Hybrid mattress. It is recommended for combination and side sleepers, especially those under 230 pounds."
+        },
+        {
+            "published_date": "2025-01-01T19:35:00",
+            "title": "SINGER opens first SAMSUNG AI Powered Smart Store in SL",
+            "author": "malinga",
+            "url": "https://www.dailynews.lk/2025/01/02/business/697852/singer-opens-first-samsung-ai-powered-smart-store-in-sl",
+            "url_media": "https://www.dailynews.lk/wp-content/uploads/2025/01/20-1.jpg",
+            "country": "LK",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Samsung SmartThings",
+                "Singer",
+                "Singer Sri Lanka",
+                "Samsung Sri Lanka",
+                "Hayleys PLC",
+                "CE Biz",
+                "MX Biz",
+                "Singer Group",
+                "Singer-Samsung SmartThings"
+            ],
+            "summary": "Singer Sri Lanka, in collaboration with Samsung, has launched Sri Lanka's first AI-powered smart electronics store, the Samsung SmartThings store. Located in One Galle Face Mall, it offers a range of AI-powered devices, including Samsung smart TVs, refrigerators, washing machines, Galaxy smartphones, and home automation systems. The initiative aims to provide Sri Lankans with smarter and more connected living experiences."
+        },
+        {
+            "published_date": "2025-01-01T18:59:00",
+            "title": "iProsper.io Unveils Revolutionary AI Business Automation Software to Global Market",
+            "author": "Newsfile Corp.",
+            "url": "https://finance.yahoo.com/news/iprosper-io-unveils-revolutionary-ai-185900591.html",
+            "url_media": "https://media.zenfs.com/en/newsfile_64/9312f655dfdd857c0a2a5d27d30945c3",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "iProsper.io",
+                "iProsper.io's",
+                "Newsfile Corp."
+            ],
+            "summary": "iProsper.io launched its AI Voice business automation software, designed to enhance marketing, sales, and lead generation for businesses globally. The software uses machine learning to automate tasks, reduce costs, and increase revenue across diverse industries. It is available to the general public and businesses worldwide."
+        },
+        {
+            "published_date": "2025-01-01T18:49:00",
+            "title": "Singer opens first Samsung AI-powered smart store",
+            "author": "DM Editorial",
+            "url": "https://www.dailymirror.lk/business-news/Singer-opens-first-Samsung-AI-powered-smart-store/273-299250",
+            "url_media": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_c204d714bc.jpg",
+            "country": "LK",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Samsung SmartThings",
+                "Samsung Sri Lanka",
+                "Singer Sri Lanka",
+                "Singer",
+                "Singer Group",
+                "Hayleys PLC",
+                "CE Biz",
+                "MX Biz",
+                "Singer-Samsung SmartThings"
+            ],
+            "summary": "Singer Sri Lanka, in partnership with Samsung, launched the first AI-powered 'Samsung SmartThings store' in Sri Lanka. The store offers a range of AI-powered devices, including Samsung smart TVs, refrigerators, washing machines, Galaxy smartphones and home automation systems. This initiative aims to provide Sri Lankans with smarter and more connected living experiences."
+        },
+        {
+            "published_date": "2025-01-01T18:35:19",
+            "title": "Popular Taiwan chain Chi Cha San Chen to debut first ever Houston location",
+            "author": "Chron",
+            "url": "https://article.wn.com/view/2025/01/01/Popular_Taiwan_chain_Chi_Cha_San_Chen_to_debut_first_ever_Ho",
+            "url_media": "https://i.ytimg.com/vi/SnYQv2A4BRQ/0.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "An internationally known boba brand promises \"teaspresso\" and brown sugar boba. These represent new products or service offerings by the company."
+        },
+        {
+            "published_date": "2025-01-01T17:00:00",
+            "title": "Everyday Cheapskate: An ingenious way to keep butter soft and fresh",
+            "author": "Everyday Cheapskate",
+            "url": "https://www.syracuse.com/advice/2025/01/everyday-cheapskate-an-ingenious-way-to-keep-butter-soft-and-fresh.html",
+            "url_media": "https://www.syracuse.com/resizer/v2/YKN4GEPACJD3BEM3GL4IODGURQ.jpeg?auth=c2ebaddcc9c08ff19e51dde832196ef3c9a2a216f0bfbf91ab4a77f6815b76a8&width=1280&quality=90",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Company A",
+                "Electrics",
+                "Walmart",
+                "Company B.",
+                "Company B"
+            ],
+            "summary": "A customer purchased the Shark Lift-Away Navigator vacuum cleaner from Walmart after reading about it. The customer expressed great satisfaction with the vacuum cleaner, emphasizing its value and performance."
+        },
+        {
+            "published_date": "2025-01-01T16:46:43",
+            "title": "New Online Grocery Website Launches, Making Shopping Easier and More Convenient",
+            "author": "Ein News",
+            "url": "http://agriculture.einnews.com/pr_news/771536595/new-online-grocery-website-launches-making-shopping-easier-and-more-convenient",
+            "url_media": "https://img.einnews.com/ampsize/800257/online-grocery.jpeg",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "Aap Ka Bazar",
+                "EINPresswire.com"
+            ],
+            "summary": "Aap Ka Bazar has launched its new website and mobile apps to provide a convenient online grocery shopping experience. The platform features a wide range of products and a user-friendly interface, offering multiple payment options to cater to customer needs."
+        },
+        {
+            "published_date": "2025-01-01T16:25:24",
+            "title": "How Does Wendy's Flavor Its Frostys?",
+            "author": "Dennis Lee",
+            "url": "https://www.thetakeout.com/1746725/how-wendys-flavors-frosty",
+            "url_media": "https://www.thetakeout.com/img/gallery/how-does-wendys-flavor-its-frostys/l-intro-1735228595.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Wendy's",
+                "Wendy",
+                "McDonald's"
+            ],
+            "summary": "Wendy's has recently launched several new Frosty flavors, including the Triple Berry Frosty in Summer 2024, the Pineapple Under the Sea Frosty (a pineapple-mango swirl) to celebrate its Spongebob Squarepants collaboration, and the Salted Caramel Frosty. These novel flavor releases represent a recent trend for Wendy's, moving beyond simpler, seasonal flavors like Strawberry, Peppermint, and Pumpkin Spice."
+        },
+        {
+            "published_date": "2025-01-01T14:50:07",
+            "title": "This time- and money-saving breakfast sandwich maker is on rare sale for $25",
+            "author": "Britt Ross",
+            "url": "https://www.yahoo.com/lifestyle/this-time--and-money-saving-breakfast-sandwich-maker-is-on-rare-sale-for-25-145007972.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/Ogd6u38XoprmlJWs1w0pjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/9ee2e3e0-5b22-11ef-bc3f-9a85333fbb42",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Mickey D's"
+            ],
+            "summary": "Hamilton Beach's Breakfast Sandwich Maker is on sale at Amazon for $25. This appliance allows users to quickly and easily make customized breakfast sandwiches at home in about five minutes. The sandwich maker has different cooking plates, nonstick surfaces, and removable parts for easy cleaning."
+        },
+        {
+            "published_date": "2025-01-01T14:12:54",
+            "title": "9 New Alcohol-Free Drinks For Dry January",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/01/9_New_AlcoholFree_Drinks_For_Dry_January",
+            "url_media": "https://article.wn.com/view/2025/01/01/[]",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Companies are introducing a variety of new alcohol-free drinks. These beverages serve as innovative alternatives for individuals participating in Dry January."
+        },
+        {
+            "published_date": "2025-01-01T14:01:02",
+            "title": "If Your New Year's Resolution Is To Clean And Organize, But You Don't Know Where To Start, Here Are 38 Products To Help",
+            "author": "Samar Hadri",
+            "url": "https://www.buzzfeed.com/samar_hadri/new-years-resolution-clean-and-organize",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/16/20/enhanced/2ea0d64dab19/original-595-1734379262-9.jpg?crop=3001:1575;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "BuzzFeed",
+                "Amazon Customer"
+            ],
+            "summary": "The article features several new cleaning and organizing products available on Amazon, such as Wet & Forget shower cleaner, ChomChom pet hair remover roller, and The Pink Stuff cleaning paste. These products promise to simplify and enhance home cleaning and organization, addressing common issues like soap scum, pet hair, and stubborn stains. Additionally, items from small businesses like Covogoods' faux book display and Tidywrap's cord organizer are highlighted."
+        },
+        {
+            "published_date": "2025-01-01T14:00:00",
+            "title": "My Skin Drinks Up Maëlys Get-Dreamy Overnight Toning Whip",
+            "author": "Angela Trakoshis",
+            "url": "https://www.allure.com/review/maelys-get-dreamy-overnight-toning-whip-review",
+            "url_media": "https://media.allure.com/photos/67634211f6ac45a2ad7e537c/16:9/w_1280,c_limit/Maelys_GET-DREAMYOvernightToningWhip-OPEN-ABB%20Product%20Reviews%202025%2001%20(January).jpg",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Maëlys is launching Get-Dreamy Overnight Toning Whip, a hydrating skin product. The product contains coconut, passion fruit oils, and shea butter. Maëlys Get-Dreamy Overnight Toning Whip is featured in January's Allure Beauty Box."
+        },
+        {
+            "published_date": "2025-01-01T12:44:19",
+            "title": "Svdaa Revolutionizes Beauty with Ayurveda & Herbal Science",
+            "author": "Devdiscourse News Desk",
+            "url": "https://www.devdiscourse.com/article/entertainment/3212219-svdaa-revolutionizes-beauty-with-ayurveda-herbal-science",
+            "url_media": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_26_59_8821975.jpg?width=920&format=jpeg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Svdaa"
+            ],
+            "summary": "Svdaa, a new beauty brand, is launching a product lineup blending Ayurveda and herbal science. The brand offers skincare solutions for men and women, including saffron-infused face washes and anti-pollution gels with argan oil. Svdaa has developed 18 products targeting skin concerns like pollution and dryness."
+        },
+        {
+            "published_date": "2025-01-01T12:08:20",
+            "title": "'Quiet and effective' dehumidifier 'dries washing quickly' now less than £100",
+            "author": "Phoebe Barton Lifestyle",
+            "url": "https://www.gloucestershirelive.co.uk/whats-on/shopping/quiet-effective-dehumidifier-dries-washing-9829852",
+            "url_media": "https://i2-prod.gloucestershirelive.co.uk/incoming/article9829874.ece/ALTERNATES/s1200/0_71WJnJv-Y9L_AC_SL1500_.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Debenhams"
+            ],
+            "summary": "HumiZap Dehumidifier is available on Amazon for £99.98, discounted from £139.99. The appliance features a 1.5-litre tank, removes six liters of humidity daily, and has multiple modes including auto, continuous, and laundry. Alternatives include the Homcom 4L Portable Quiet Dehumidifier at Debenhams and the Black & Decker 12L Smart Dehumidifier at Very."
+        },
+        {
+            "published_date": "2025-01-01T11:00:03",
+            "title": "32 Personal Care Items To Help You Look More Put Together On A Budget In 2025",
+            "author": "Amber Usher",
+            "url": "https://www.buzzfeed.com/amberusher/personal-care-items-to-look-more-put-together",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/18/19/enhanced/1200b558246e/original-1886-1734549556-2.jpg?crop=2998:1575;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "BuzzFeed",
+                "I Dew Care",
+                "TSA",
+                "Shopinista"
+            ],
+            "summary": "The article introduces a range of beauty and personal care products available on Amazon, including I Dew Care \"Tap Secret\" mattifying powder shampoo, Dermora exfoliant foot peel, Mouthwatchers manual flossing toothbrush, teeth whitening kits, and hydrating eye sticks. Other products mentioned include Mighty Patch hydrocolloid stickers from Hero Cosmetics, Nyx instant brow styler, L'Oreal Paris' Elvive 8 Second Wonder Water, Revlon one-step hair dryer and volumizer, Revlon oil-absorbing volcanic face roller, and Glamnetic press-on nails."
+        },
+        {
+            "published_date": "2025-01-01T10:42:34",
+            "title": "UXLINK reveals 2025 plans: launch of PayFi and social growth layer test net",
+            "author": "BTC Manager",
+            "url": "https://article.wn.com/view/2025/01/01/UXLINK_reveals_2025_plans_launch_of_PayFi_and_social_growth_",
+            "url_media": "https://article.wn.com/view/2025/01/01/[]",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "UXLINK"
+            ],
+            "summary": "UXLINK plans to expand its ecosystem to 100 million users by implementing new features within its existing service."
+        },
+        {
+            "published_date": "2025-01-01T09:46:00",
+            "title": "A peanut butter tribute to Carter from an Unnao startup",
+            "author": "Arvind Chauhan",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/a-peanut-butter-tribute-to-carter-from-an-unnao-startup/articleshow/116848474.cms",
+            "url_media": "https://static.toiimg.com/thumb/msid-116848539,width-1070,height-580,imgsize-1553163,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Nutty Village",
+                "Taboola",
+                "TISS",
+                "Tata Institute of Social Sciences",
+                "Startup India Initiative",
+                "GOI",
+                "MNC",
+                "Up"
+            ],
+            "summary": "Nutty Village, an Unnao-based startup, is introducing two new peanut butter flavors, coffee and barbeque, in commemoration of Jimmy Carter. These new flavors will augment their existing product line, with research and development still underway before their launch. The startup aims to source all raw materials, like cacao for the chocolate flavor, directly from farmers."
+        },
+        {
+            "published_date": "2025-01-01T09:43:38",
+            "title": "How Pakistani-origin teen CEO built seven figure AI company in US",
+            "author": "Web Desk",
+            "url": "https://www.nation.com.pk/01-Jan-2025/how-a-pakistani-origin-teen-ceo-built-a-seven-figure-ai-company-in-the-us",
+            "url_media": "https://www.nation.com.pk/digital_images/large/2025-01-01/how-a-pakistani-origin-teen-ceo-built-a-seven-figure-ai-company-in-the-us-1735724613-3042.jpeg",
+            "country": "PK",
+            "language": "en",
+            "org": [
+                "LTV.ai",
+                "Afterpay",
+                "Honey",
+                "CSC Generation",
+                "LTV.ai's",
+                "Sur La Table",
+                "Backcountry",
+                "Beginning Boutique",
+                "Cuyana",
+                "Foreign Office",
+                "Sur La TableBackcountryThe SillSpongelléFableticsFresh Clean Threads Beginning Boutique",
+                "Figure",
+                "Moonpay",
+                "TurnTo",
+                "Protagonist OVO Fund"
+            ],
+            "summary": "LTV.ai, founded by Asad and Kevin Kai, is an AI-driven service that helps e-commerce brands personalize their communication with customers through email and SMS marketing. Clients like Sur La Table and Backcountry using LTV.ai have seen 13-22% increases in sales through these channels. The company is closing its Series A round and moving its operations to Austin, aiming to become the primary method for brands to communicate with their customers."
+        },
+        {
+            "published_date": "2025-01-01T08:27:02",
+            "title": "How to link your branded YouTube content to an advertiser",
+            "author": "",
+            "url": "https://www.newsbytesapp.com/news/science/youtube-allows-linking-branded-content-to-advertiser-s-google-ads/story",
+            "url_media": "https://i.cdn.newsbytesapp.com/images/l75820250101135505.jpeg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "YouTube",
+                "YouTube Studio"
+            ],
+            "summary": "YouTube introduced a feature that allows creators to link their branded content with advertisers' Google Ads accounts. This enables advertisers to access content performance metrics and target ads at viewers of the linked YouTube video, subject to permissions granted via Google Ads. Creators maintain control, with the ability to accept, decline, or unlink videos at any time."
+        },
+        {
+            "published_date": "2025-01-01T08:15:48",
+            "title": "\"Please recommend a famous sunrise spot in Korea.\"When I type a question in the web browser address..",
+            "author": "Jeong Hojun.",
+            "url": "https://www.mk.co.kr/en/it/11207618",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202501/02/20250102_01110114000004_L00.jpg",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Naver",
+                "Weil",
+                "NAVER",
+                "Gangneung Jeongdongjin",
+                "Pohang Homigot",
+                "Ulsan Ganjeolgot",
+                "StatCounter",
+                "Whale Browser",
+                "Samsung Internet",
+                "Google",
+                "Samsung",
+                "Apple"
+            ],
+            "summary": "Naver's Whale browser has introduced AI-powered features, allowing users to access services like Clova X, ChatGPT, and Purplelexity directly from the address bar and install 'Clova X' on the sidebar. This update aims to enhance user convenience and increase Whale's market share by integrating diverse AI services, and Naver is developing a global version of Whale."
+        },
+        {
+            "published_date": "2025-01-01T08:15:00",
+            "title": "Marketing Leaders Identify Key Trends For 2025",
+            "author": "Kimberly A. Whitler",
+            "url": "https://www.forbes.com/sites/kimberlywhitler/2025/01/01/marketing-leaders-identify-key-trends-for-2025",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/676ccad533e5e964b984bd86/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Marketing",
+                "Technology Partnerships",
+                "Bold",
+                "GFT",
+                "Channel V Media"
+            ],
+            "summary": "Amazon introduced its AI shopping assistant Rufus to make it easier for shoppers to find products and quickly get their questions answered. The AI technology also increases conversion and revenue for Amazon. This sets the foundation for a more agentic future where consumers themselves use AI to handle research, discovery, selection, and more so that consumer life becomes easier."
+        },
+        {
+            "published_date": "2025-01-01T07:10:20",
+            "title": "Want to modify your video distribution on YouTube? Here's how",
+            "author": "",
+            "url": "https://www.newsbytesapp.com/news/science/guide-to-control-video-distribution-on-youtube/story",
+            "url_media": "https://i.cdn.newsbytesapp.com/images/l78420250101123750.jpeg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "YouTube",
+                "YouTube Studio"
+            ],
+            "summary": "YouTube provides content creators in its monetization program the ability to control video distribution. Creators can choose to make videos available on all platforms or only on monetized platforms through the YouTube Studio's distribution settings."
+        },
+        {
+            "published_date": "2025-01-01T06:06:48",
+            "title": "Transforming Beauty Standards with Herbal-Infused Skincare Solutions",
+            "author": "",
+            "url": "https://www.tribuneindia.com/news/business/transforming-beauty-standards-with-herbal-infused-skincare-solutions",
+            "url_media": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTliZTZmYzIwLWM4MDYtMTFlZi1hOTFjLWFkNDZjZWQzMDdiNy5qcGc=",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Svdaa",
+                "VMPL",
+                "Dabur",
+                "Reliance"
+            ],
+            "summary": "Svdaa, a new beauty brand, has launched its product line, featuring skincare products made with a combination of Ayurveda and Herbal extracts. The product line includes a face wash with saffron and white lotus, an anti-pollution gel with Argan Oil and Vitamin E, a day cream with Rice and Carrot extracts, and a night cream with Almond Oil and Saffron Flower Extract."
+        },
+        {
+            "published_date": "2025-01-01T06:00:26",
+            "title": "Transforming Beauty Standards with Herbal-Infused Skincare Solutions",
+            "author": "",
+            "url": "https://aninews.in/news/business/transforming-beauty-standards-with-herbal-infused-skincare-solutions20250101113026",
+            "url_media": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20250101060014.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Svdaa",
+                "ANI",
+                "Dabur",
+                "Reliance"
+            ],
+            "summary": "Svdaa, an emerging beauty brand, has launched a range of skin-friendly beauty products made with a combination of Ayurveda and Herbal. The product line includes face wash, anti-pollution massage gel, day cream, and night cream. The company aims to provide products with the best quality ingredients at affordable prices globally."
+        },
+        {
+            "published_date": "2025-01-01T05:48:49",
+            "title": "Samsung's Upcoming Budget Foldables and Watch: Galaxy Z Flip FE and Watch8 Classic",
+            "author": "archyde",
+            "url": "https://www.archyde.com/samsungs-upcoming-budget-foldables-and-watch-galaxy-z-flip-fe-and-watch8-classic",
+            "url_media": "https://cdn.antaranews.com/cache/1200x800/2022/08/15/pexels-pixabay-371924-1.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung"
+            ],
+            "summary": "Samsung is rumored to be developing the Galaxy Z Flip FE, a more affordable foldable smartphone. The company is also speculated to be resurrecting the Galaxy Watch 8 Classic. Furthermore, Samsung is set to introduce the Galaxy Z Fold FE, which targets a wider audience with an accessible price for foldable technology."
+        },
+        {
+            "published_date": "2025-01-01T05:44:39",
+            "title": "How a Pakistani Teenage Dropout Built a Multi-Million Dollar AI Company",
+            "author": "",
+            "url": "https://dailytimes.com.pk/1252738/how-a-pakistani-teenage-dropout-built-a-multi-million-dollar-ai-company",
+            "url_media": "https://dailytimes.com.pk/assets/uploads/2025/01/01/228ee32e-3c92-4381-ab07-90feb9569395.jpeg",
+            "country": "PK",
+            "language": "en",
+            "org": [
+                "LTV.ai",
+                "Sur La Table",
+                "Backcountry",
+                "Beginning Boutique",
+                "Cuyana",
+                "Protagonist",
+                "OVO Fund",
+                "Afterpay",
+                "Honey",
+                "CSC Generation",
+                "LTV.ai's",
+                "The Sill",
+                "Spongellé",
+                "Fabletics",
+                "Fresh Clean Threads",
+                "LT"
+            ],
+            "summary": "LTV.ai, founded by Asad, is launching an AI-powered service that creates personalized customer conversations for e-commerce brands. This service aims to replace generic marketing emails with individual interactions based on location, past purchases, and customer feedback. Several major retailers are adopting LTV.ai, and the company is expanding operations to Austin."
+        },
+        {
+            "published_date": "2025-01-01T05:41:15",
+            "title": "BNB pioneers online account opening for effortless banking",
+            "author": "Bhutan'S Daily Newspaper",
+            "url": "https://kuenselonline.com/bnb-pioneers-online-account-opening-for-effortless-banking",
+            "url_media": "https://kuenselonline.com/wp-content/uploads/2025/01/BNB.jpg",
+            "country": "BT",
+            "language": "en",
+            "org": [
+                "BNB",
+                "Bhutan National Bank"
+            ],
+            "summary": "Bhutan National Bank (BNB) has launched a new online onboarding service that integrates with the National Digital Identity (NDI) system. This service allows customers to open accounts remotely with automatically populated personal details, enhancing speed, accuracy, and security. The initiative aims to modernize banking and provide customers with a convenient account creation process."
+        },
+        {
+            "published_date": "2025-01-01T04:33:00",
+            "title": "Target Australia wows with $70 ‘dupe' of popular designer item: ‘It looks better than the $500 version'",
+            "author": "Cindy Tran",
+            "url": "https://whatsnew2day.com/target-australia-wows-with-70-dupe-of-popular-designer-item-it-looks-better-than-the-500-version",
+            "url_media": "https://whatsnew2day.com/wp-content/uploads/2025/01/Target-Australia-wows-with-70-dupe-of-popular-designer-item.jpg",
+            "country": "MY",
+            "language": "en",
+            "org": [
+                "Target",
+                "Aje",
+                "Target Australia"
+            ],
+            "summary": "Target Australia is offering a $70 pastel pink dress, marketed as an affordable alternative to Aje's $495 designer dress. The Target dress features an off-the-shoulder design accentuating the waist, while Aje's dress has layers of ruffles for a flowy look."
+        },
+        {
+            "published_date": "2025-01-01T04:23:46",
+            "title": "1.22 lakh condom packs: How India prepared for New Year 2025 afterparty, Blinkit CEO Albinder Dhindsa shares trends",
+            "author": "Sounak Mukhopadhyay",
+            "url": "https://www.livemint.com/news/trends/122-lakh-condom-packs-how-india-prepared-for-new-year-2025-afterparty-blinkit-ceo-albinder-dhindsa-shares-trends/amp-11735705086494.html",
+            "url_media": "https://www.livemint.com/lm-img/img/2025/01/01/1600x900/Condom_1735705301960_1735705302183.jpeg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Blinkit",
+                "Twitter",
+                "Swiggy Swiggy",
+                "Swiggy",
+                "Live Mint",
+                "Mint News App"
+            ],
+            "summary": "During the New Year 2025 celebrations, Blinkit delivered over 122,000 condom packs along with 45,531 bottles of mineral water, 22,322 PartySmart tablets, and 2,434 packets of Eno. Blinkit CEO Albinder Dhindsa shared this information on X, revealing trends in customer purchases during the festivities."
+        },
+        {
+            "published_date": "2025-01-01T03:27:07",
+            "title": "Start Your New Year Off Right With Up to $700 Off Roborock Robot Vacuums",
+            "author": "Oliver Haslam",
+            "url": "https://news.knowledia.com/all/all/articles/start-your-new-year-off-right-with-up-to-700-off-roborock-robot-vacuums-397ba0c723bb90ddf43b4e0c92a3c409264f9bbe",
+            "url_media": "https://www.cnet.com/a/img/resize/9fac5782f1deebe596f4a1ed2286ae14e0112eaf/hub/2024/12/31/81dee2f1-3a04-425d-afe7-23fa6310b3c3/roborock-new-year-sale.png?auto=webp&fit=crop&height=675&width=1200",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Roborock"
+            ],
+            "summary": "Amazon is offering discounts of up to $280 on Roborock robot vacuums for a limited time. This promotion focuses on making the Roborock product more accessible to consumers."
+        },
+        {
+            "published_date": "2025-01-01T01:50:48",
+            "title": "11th Street announced on the 1st that it will introduce Samsung Electronics' new laptop \"Galaxy Book..",
+            "author": "Lee Sunhee.",
+            "url": "https://www.mk.co.kr/en/business/11207445",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202501/01/news-p.v1.20250101.a784f34cbb1f4fd2b4664b60a19d0435_P1.jpg",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "11th Street",
+                "Samsung",
+                "Samsung Electronics'",
+                "Grand Hyatt",
+                "Starbucks",
+                "Shinsegae Department Store"
+            ],
+            "summary": "11th Street is launching the Samsung Galaxy Book 5 Pro laptop through a live broadcast on the 2nd, offering a first look and demonstrations of Galaxy AI functions. To commemorate the launch until the 16th, 11th Street provides discounts up to 23% off and interest-free installments. A special event for the \"Galaxy Book 5 Pro 360\" is also available with up to 530,000 won discount and the \"Galaxy Change Compensation\" program provides additional compensation of up to 300,000 won for returning used products."
+        },
+        {
+            "published_date": "2025-01-01T01:50:35",
+            "title": "32 Products Your Taste Buds Will Thank You For In 2025",
+            "author": "Emma Lord",
+            "url": "https://news.knowledia.com/all/all/articles/32-products-your-taste-buds-will-thank-you-for-in-2025-0eb0e6c3639049b2fd7da2e056d104fb446ab0a8",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/11/21/tmp/b88fb43304fe/tmp-name-2-1933-1733952812-11_dblbig.jpg?resize=1200:*",
+            "country": "FR",
+            "language": "en",
+            "org": [],
+            "summary": "In 2025, consumers can expect new food products such as DIY pickled mangoes, dessert coated in Thin Mint seasoning, and the Ghost Pepper Chicken Noodle Soup. These offerings represent new or enhanced culinary experiences anticipated in the coming year."
+        },
+        {
+            "published_date": "2025-01-01T00:00:00",
+            "title": "An Ingenious Way to Keep Butter Soft and Fresh",
+            "author": "Mary Hunt",
+            "url": "https://www.theepochtimes.com/bright/an-ingenious-way-to-keep-butter-soft-and-fresh-5784871",
+            "url_media": "https://img.theepochtimes.com/assets/uploads/2025/01/02/id5784878-shutterstock_2467302435-1080x720.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Company A",
+                "Electrics",
+                "Walmart",
+                "Company B."
+            ],
+            "summary": "The article features a user testimonial praising the 'Shark Lift-Away Navigator' vacuum cleaner, emphasizing its value and performance. It also describes the 'Original Butter Bell Crock by L. Tremain', a product designed to keep butter fresh and spreadable without refrigeration."
+        },
+        {
+            "published_date": "2025-01-01T00:00:00",
+            "title": "This AI creates logos, art, writing, and code like magic",
+            "author": "PC World",
+            "url": "https://article.wn.com/view/2025/01/01/This_AI_creates_logos_art_writing_and_code_like_magic",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "A creative AI tool is being offered with a lifetime subscription for $69.99 during a New Year's sale, reduced from its regular price of $972. This all-in-one tool targets content creators and small business owners."
+        },
+        {
+            "published_date": "2025-01-01T00:00:00",
+            "title": "Nvidia GeForce RTX 5080 Rumored For January 21st Release",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/01/Nvidia_GeForce_RTX_5080_Rumored_For_January_21st_Release",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia"
+            ],
+            "summary": "Nvidia is potentially releasing the first RTX 5000-series card. The article indicates information about which model it might be."
+        }
+    ]
+}
