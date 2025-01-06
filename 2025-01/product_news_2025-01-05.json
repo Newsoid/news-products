@@ -1,0 +1,524 @@
+{
+    "status": "ok",
+    "total_articles": 34,
+    "articles": [
+        {
+            "published_date": "2025-01-05T23:46:50",
+            "title": "AI sweeping through the tech industry and enhancing user experience with Squarespace's Blueprint AI",
+            "author": "",
+            "url": "https://www.examiner.com.au/story/8859823/ai-sweeping-through-the-tech-industry-and-enhancing-user-experience-with-squarespaces-blueprint-ai",
+            "url_media": "https://www.examiner.com.au/images/transform/v1/crop/frm/234396468/5fc3d7f5-ed57-4c78-b44d-7f91c6e9b356.jpg/r0_71_1000_596_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "Squarespace"
+            ],
+            "summary": "Squarespace introduced Blueprint AI, a new AI-powered service that simplifies website creation. Blueprint AI uses machine learning and natural language processing to understand user needs and generate appropriate website designs and engaging copy. This service aims to make website creation accessible to anyone, regardless of technical skills."
+        },
+        {
+            "published_date": "2025-01-05T23:37:27",
+            "title": "Web building for beginners - Squarespace's Blueprint AI for all",
+            "author": "",
+            "url": "https://www.standard.net.au/story/8859807/web-building-for-beginners-squarespaces-blueprint-ai-for-all",
+            "url_media": "https://www.standard.net.au/images/transform/v1/crop/frm/234396468/90bca7c5-b274-42ec-acc9-a24bee40bc4b.jpg/r0_71_1000_596_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "Squarespace"
+            ],
+            "summary": "Squarespace introduces Blueprint AI, a tool that allows users to create professional websites using AI. Blueprint AI generates personalized templates and content based on user input, optimizing websites for search engines and device flexibility. It provides an accessible solution for users seeking professional website designs."
+        },
+        {
+            "published_date": "2025-01-05T23:36:01",
+            "title": "Chinese robot vacuum cleaner company reveals model with an AI-powered arm",
+            "author": "News Feed Editor",
+            "url": "https://rocketnews.com/2025/01/chinese-robot-vacuum-cleaner-company-reveals-model-with-an-ai-powered-arm",
+            "url_media": "https://rocketnews.com/wp-content/uploads/2022/03/cropped-RocketNews-icon-logo-32x32.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock",
+                "CNBC",
+                "CNBC.Using",
+                "iRobot"
+            ],
+            "summary": "Roborock revealed its new Saros Z70 robot vacuum, equipped with an AI-powered folding arm that removes obstacles like socks and towels. The Saros Z70 is planned to be released in major global markets in the first half of the year and uses AI developed by the company to detect and remove obstructions weighing less than 300 grams."
+        },
+        {
+            "published_date": "2025-01-05T23:24:13",
+            "title": "CES 2025: Smart lighting brand Govee goes all-in with AI",
+            "author": "PC World",
+            "url": "https://article.wn.com/view/2025/01/05/CES_2025_Smart_lighting_brand_Govee_goes_allin_with_AI",
+            "url_media": "https://article.wn.com/view/2025/01/05/[]",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Govee"
+            ],
+            "summary": "Govee is launching new AI-powered gaming lights at CES. The lights aim to bring excellent depth of sound and clarity to light-scene-creating."
+        },
+        {
+            "published_date": "2025-01-05T23:01:06",
+            "title": "Chinese robot vacuum cleaner company reveals model with an AI-powered arm",
+            "author": "Evelyn Cheng",
+            "url": "https://www.cnbc.com/2025/01/06/chinese-robot-vacuum-cleaner-roborock-reveals-ai-powered-robotic-arm.html",
+            "url_media": "https://image.cnbcfm.com/api/v1/image/108081757-1735892351885-IMG_5306.jpg?v=1736117985&w=1920&h=1080",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock",
+                "The Verge",
+                "CNBC",
+                "Wired",
+                "iRobot",
+                "Amazon",
+                "CNET"
+            ],
+            "summary": "Roborock introduced the Saros Z70, a new robot vacuum cleaner with a folding arm and AI for obstacle removal. The Saros Z70 will be released in major global markets in the first half of the year. Roborock also announced updates to its washing machines, which now offer drying capabilities."
+        },
+        {
+            "published_date": "2025-01-05T22:52:58",
+            "title": "Pepsi Just Dropped a New Flavor, and It's Fruity and Creamy",
+            "author": "Cooking Chew",
+            "url": "https://www.msn.com/en-us/health/nutrition/pepsi-just-dropped-a-new-flavor-and-it-s-fruity-and-creamy/ar-AA1x0lyN",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Pepsi",
+                "Allrecipes",
+                "Dr. Pepper",
+                "Cooking Chew"
+            ],
+            "summary": "Pepsi is launching a new flavor called 'Wild Cherry & Cream' in late January, available in both full and zero-sugar options. Early taste testers describe the flavor as a mix of sweet cherry, vanilla, and cream, similar to other cherry vanilla sodas. The new flavor will be added to Pepsi's permanent portfolio."
+        },
+        {
+            "published_date": "2025-01-05T22:32:10",
+            "title": "Incredible pics of world's must luxurious public toilets featuring exotic plants, ornaments & sofas go viral",
+            "author": "Rhys James",
+            "url": "https://www.thesun.co.uk/tech/32624185/luxury-futuristic-toilet-china-shopping-mall",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/01/people-seen-waiting-area-newly-961209251.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "X+Living",
+                "The Sun",
+                "Aldi & Amazon"
+            ],
+            "summary": "Neorest's luxury toilets, particularly the Neorest NX2 Dual Flush and NX models, have gained popularity among celebrities. DJ Khaled and Drake own the Neorest NX2 Dual Flush model ($21,181), while the Kardashians and Jenners have had Neorest NX models ($22,000) for nearly a decade. These high-end toilets are marketed as gifts, boosting Neorest's visibility."
+        },
+        {
+            "published_date": "2025-01-05T22:00:00",
+            "title": "\"Rock a New Era\": Roborock Revolutionises Smart Home Cleaning at CES 2025 with robotic arm equipped Saros Z70",
+            "author": "PR Newswire",
+            "url": "https://finance.yahoo.com/news/rock-era-roborock-revolutionises-smart-220000165.html",
+            "url_media": "https://media.zenfs.com/en/prnewswire.com/59055676b95d2cd898afb8b426c9bd56",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock",
+                "PRNewswire"
+            ],
+            "summary": "Roborock introduces the Saros Z70, a robot vacuum with an OmniGrip robotic arm, along with the F25 series wet-dry vacuum cleaners featuring FlatReach Deep Cleaning and tangle-free rollers. They also unveil the Zeo One, Zeo Lite, and Zeo Mini washer-dryers, powered by Zeo-Cycle drying technology, enhancing fabric care through zeolite's water vapor absorption."
+        },
+        {
+            "published_date": "2025-01-05T19:52:00",
+            "title": "CES 2025: Artificial intelligence to take centre stage at tech show but concerns much AI is just ‘hype'",
+            "author": "Benedict Brook in Las Vegas",
+            "url": "https://www.news.com.au/technology/innovation/inventions/ces-2025-artificial-intelligence-to-take-centre-stage-at-tech-show-but-concerns-much-ai-is-just-hype/news-story/984199e6741c2e7b632f96358b899755",
+            "url_media": "https://content.api.news/v3/images/bin/4edb3291f246f91998a9337b3772f7bd",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "LG",
+                "Honda",
+                "Sony",
+                "Nvidia",
+                "Samsung",
+                "Toyota",
+                "Hisense",
+                "TCL",
+                "The Conversation",
+                "CNET",
+                "proof"
+            ],
+            "summary": "CES 2025 will feature new products and services from major companies. LG, Honda, Sony, Nvidia, Samsung, Toyota, Hisense, and TCL will showcase new TVs, intelligent dishwashers, EVs, and home robots. Nvidia is expected to launch the new RTX 50 series GPUs, while Honda and Sony will present updates on their EV developments."
+        },
+        {
+            "published_date": "2025-01-05T18:23:53",
+            "title": "Roborock's New Robot Vac Has an Arm to Pick Up Dirty Socks and Underwear",
+            "author": "David Watsky",
+            "url": "https://news.knowledia.com/all/all/articles/roborock-s-new-robot-vac-has-an-arm-to-pick-up-dirty-socks-and-underwear-86b3ab822312be79c681cbc8cf44b08f192d22b9",
+            "url_media": "https://www.cnet.com/a/img/resize/087758c9d324879e57b543e85849afdfcd5cd272/hub/2025/01/05/5f526e68-7223-43ae-a695-700779efc248/screenshot-2025-01-04-at-3-37-19pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Roborock",
+                "CNET",
+                "Soho House"
+            ],
+            "summary": "Roborock is launching the Saros Z70, a robot vacuum featuring the OmniGrip, a first-of-its-kind five-axis robotic arm. This arm picks up debris weighing less than 10.5 ounces and deposits it in a designated area, allowing the vacuum to clean unobstructed."
+        },
+        {
+            "published_date": "2025-01-05T18:03:01",
+            "title": "This robovac has an arm that can pick up your dirty laundry",
+            "author": "The Verge",
+            "url": "https://www.latestnigeriannews.com/p/4023084/this-robovac-has-an-arm-that-can-pick-up-your-dirty-laundry.html",
+            "url_media": "https://www.latestnigeriannews.com/favicon.ico",
+            "country": "NG",
+            "language": "en",
+            "org": [],
+            "summary": "A robovac now features an arm designed for picking up dirty laundry, representing a new capability for this type of product."
+        },
+        {
+            "published_date": "2025-01-05T17:50:35",
+            "title": "How long do you plan on keeping your current smartphone?",
+            "author": "Will Sattelberg",
+            "url": "https://www.msn.com/en-us/news/technology/how-long-do-you-plan-on-keeping-your-current-smartphone/ar-AA1x1odJ",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Google",
+                "AP"
+            ],
+            "summary": "Google and Samsung are providing extended software support for their Android devices. Google offers OS support for almost every Tensor-powered Pixel device except the Pixel Tablet, and Samsung provides seven years of OS and security upgrades on phones like the Galaxy S24. These companies started this trend of extended software support with the Pixel 8 and Galaxy S22 respectively."
+        },
+        {
+            "published_date": "2025-01-05T17:00:38",
+            "title": "Got a new Android phone? These are 5 first things you should do first",
+            "author": "Chris Hachey",
+            "url": "https://www.pocket-lint.com/first-things-to-do-with-new-android-device",
+            "url_media": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/12/new-android-who-this.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Google",
+                "Google Play Store"
+            ],
+            "summary": "The Samsung Galaxy S24 Ultra, a premium Android device, features 100x Space Zoom, an S Pen, and a curve-free AMOLED display. The article also instructs on updating pre-installed apps through the Google Play Store and the operating system to ensure the device has the latest features."
+        },
+        {
+            "published_date": "2025-01-05T17:00:20",
+            "title": "Roborock's new flagship robot vacuum has an arm that can grab small objects",
+            "author": "Mariella Moon",
+            "url": "https://www.yahoo.com/tech/roborocks-new-flagship-robot-vacuum-has-an-arm-that-can-grab-small-objects-170020390.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/P3eSRpaLVVt5JJaslmQ4iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/c3a53ee0-cab6-11ef-9ffa-b7aa7858b62f",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock"
+            ],
+            "summary": "Roborock is launching the Saros Z70, a robot vacuum with foldable robotic arms called OmniGrip, capable of picking up small objects like socks and toys. The company also launched two more robot vacuums, a lineup of handheld wet-dry vacuum cleaners, and three all-in-one washer-dryers and will showcase the products at CES this year."
+        },
+        {
+            "published_date": "2025-01-05T17:00:00",
+            "title": "This robovac has an arm that can pick up your dirty laundry",
+            "author": "Jennifer Pattison Tuohy",
+            "url": "https://www.theverge.com/2025/1/5/24332998/roborock-saros-z70-robot-vacuum-omnigrip-arm",
+            "url_media": "https://cdn.vox-cdn.com/thumbor/js4cN8bKzxkr0XGX_zs9V4rCJqg=/68x179:4158x2832/1200x628/filters:focal(3202x1801:3203x1802)/cdn.vox-cdn.com/uploads/chorus_asset/file/25813919/DSC00470.JPG",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock",
+                "The Verge"
+            ],
+            "summary": "Roborock introduced the Saros Z70 robot vacuum, featuring an articulating robotic arm for object pickup and StarSight Autonomous System 2.0 for object recognition. Alongside the Z70, Roborock launched the Saros 10R and Saros 10, with release on February 10th at $1,599.99 each; these models include features like AdaptLift chassis, automatic mop detachment, and improved navigation and mopping technologies. All three new models will be updated to support Matter 1.4."
+        },
+        {
+            "published_date": "2025-01-05T17:00:00",
+            "title": "The robot vacuum cleaner evolves at CES by growing an arm to clear away your mess",
+            "author": "Henry Burrell",
+            "url": "https://www.express.co.uk/life-style/science-technology/1995918/robot-vacuum-cleaner-evolves-at-CES-roborock-saros-z70",
+            "url_media": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/5867740.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Roborock"
+            ],
+            "summary": "Roborock is launching the Saros Z70, an AI-powered robot vacuum cleaner that features an OmniGrip, a retractable robotic arm for clearing obstacles. Controlled via the Roborock app, the Z70 also vacuums, mops, and automatically returns to its charging dock. The Saros Z70 will be available from April with pricing to be confirmed."
+        },
+        {
+            "published_date": "2025-01-05T15:20:27",
+            "title": "Shinsegae Group-affiliated e-commerce Gmarket will start shipping on Sunday. As CJ Korea Express, a ..",
+            "author": "Lee Sunhee.",
+            "url": "https://www.mk.co.kr/en/business/11210243",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202501/06/news-p.v1.20250103.6d9ed0e66350461a917f1ca741566741_P1.png",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Gmarket",
+                "CJ Korea Express",
+                "Coupang",
+                "Auction",
+                "Shinsegae Group",
+                "G Market",
+                "CJ Korea Express Shinsegae Group-affiliated",
+                "Coupang Logistics Service",
+                "AliExpress Korea"
+            ],
+            "summary": "Gmarket and Auction, in collaboration with CJ Korea Express, have launched Sunday delivery for their 'Star Delivery' service. This service aims to guarantee 100% arrival and is initially available for 150,000 products stocked at Gmarket's Dongtan Logistics Center. The introduction of Sunday delivery enhances the delivery competitiveness of Gmarket and Auction."
+        },
+        {
+            "published_date": "2025-01-05T15:19:29",
+            "title": "The £25 shower gel loved by the late Queen",
+            "author": "Ashlea Hickin",
+            "url": "https://www.cambridge-news.co.uk/news/royals/25-shower-gel-loved-late-30713092",
+            "url_media": "https://i2-prod.edinburghlive.co.uk/news/uk-world-news/article30572406.ece/ALTERNATES/s1200/1_President-of-Switzerland-Meets-Queen-Elizabeth-II.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Molton Brown",
+                "Hello Magazine",
+                "Mirror",
+                "Amazon",
+                "Marks and Spencer"
+            ],
+            "summary": "Molton Brown is offering their Orange and Bergamot Bath and Shower Gel, a favorite of Queen Elizabeth II, for £25. The product is described as a luxurious body wash with a citrus scent and has received high ratings from customers. A bundle featuring the shower gel and body lotion is also available for £55."
+        },
+        {
+            "published_date": "2025-01-05T14:25:46",
+            "title": "‘Fresh and luxurious' shower gel loved by Queen Elizabeth that ‘smells gorgeous' is under £30",
+            "author": "Meghan Coon",
+            "url": "https://www.mirror.co.uk/3am/style/shopping/queen-elizabeth-favourite-shower-gel-34420501",
+            "url_media": "https://i2-prod.mirror.co.uk/incoming/article34420504.ece/ALTERNATES/s1200/0_new-canva-2025-01-04T194014730.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Molton Brown",
+                "Hello Magazine",
+                "Amazon",
+                "Marks and Spencer"
+            ],
+            "summary": "Molton Brown is promoting their Orange & Bergamot Bath & Shower Gel, highlighting its popularity and association with Queen Elizabeth II. The shower gel is available for purchase on Molton Brown's website for £25 and on Amazon, with a bundle including the body lotion available for £55. The product is described as offering a luxurious and uplifting experience with a blend of citrus and floral aromas."
+        },
+        {
+            "published_date": "2025-01-05T13:55:14",
+            "title": "Things Under $15 On Amazon That Are Legitimately Awesome",
+            "author": "BDG Commerce",
+            "url": "https://www.msn.com/en-us/lifestyle/beauty/things-under-15-on-amazon-that-are-legitimately-awesome/ar-AA1wZFaK",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Amazon offers a variety of new affordable products under $15. These include a double-sided laptop cleaner brush, mushroom string lights, e.l.f multistick for multiple uses, detangling brushes, and Lanolips lip balm in glazed doughnut flavor. The products range from personal care to home accessories."
+        },
+        {
+            "published_date": "2025-01-05T13:41:38",
+            "title": "'Best machine you can buy for your kitchen' is now £30 off on Amazon",
+            "author": "Lea Dzifa Seeberg What's On",
+            "url": "https://www.mylondon.news/whats-on/shopping/ninja-possiblecooker-multi-cooker-sale-30712633",
+            "url_media": "https://i2-prod.mylondon.news/incoming/article30712685.ece/ALTERNATES/s1200/0_videoframe_641_cleanup_result.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Ninja",
+                "MyLondon",
+                "Currys",
+                "Alaskan Mountain Warehouse"
+            ],
+            "summary": "Amazon has reduced the price of the Ninja Foodi PossibleCooker to £109.99. This multi-functional cooker boasts eight different cooking functions and is available at Amazon, Currys, and Ninja. The product has received positive reviews for its versatility and ease of use."
+        },
+        {
+            "published_date": "2025-01-05T13:31:01",
+            "title": "Give your computer a 2025 glow-up with this easy upgrade",
+            "author": "Stack Commerce",
+            "url": "https://news.knowledia.com/all/all/articles/give-your-computer-a-2025-glow-up-with-this-easy-upgrade-c7ad4e8ebf140e3d1b50944ed59e88815c6ece3f",
+            "url_media": "https://www.popsci.com/wp-content/uploads/2025/01/image_044a28.png?quality=85",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Microsoft"
+            ],
+            "summary": "Microsoft encourages users to upgrade to Windows 11 to enhance PC speed and access the newest functionalities. This upgrade is suggested as an alternative to buying a new computer and is promoted with a New Year's sale for the Pro version."
+        },
+        {
+            "published_date": "2025-01-05T13:01:00",
+            "title": "2025 Smart #1 Premium review",
+            "author": "Matt Campbell",
+            "url": "https://www.newcastleherald.com.au/story/8859642/2025-smart-1-premium-review",
+            "url_media": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/silverstone-feed-data/40c741a3-3780-4468-96c9-7899202574a6.jpg/r0_57_800_477_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "Smart",
+                "Mensa",
+                "Mercedes-Benz",
+                "Geely"
+            ],
+            "summary": "Smart has launched the #1, a small electric SUV in Australia, with the Premium model potentially offering the best value. The Smart #1 Premium features the same battery capacity as other models but offers better AC charging and efficiency."
+        },
+        {
+            "published_date": "2025-01-05T12:38:42",
+            "title": "'Amazing' Ninja air fryer with near-perfect reviews is massive £60 off",
+            "author": "Lea Dzifa Seeberg What's On",
+            "url": "https://www.mylondon.news/whats-on/shopping/amazing-ninja-air-fryer-near-30712300",
+            "url_media": "https://i2-prod.mylondon.news/incoming/article29793855.ece/ALTERNATES/s1200/0_LDSR_ML_220824_NinjaFoodiMax.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Ninja",
+                "Amazon",
+                "MyLondon",
+                "Currys",
+                "Argos",
+                "Easy"
+            ],
+            "summary": "Ninja Foodi MAX Dual Zone Air Fryer is available in a stylish copper and black color exclusively at Amazon. Amazon slashed the price of the limited edition model to £179.99. The appliance features two independent drawers and has six cooking functions."
+        },
+        {
+            "published_date": "2025-01-05T09:53:02",
+            "title": "On the road in Laois - test drive of the new Suzuki Swift",
+            "author": "Hugh Maguire",
+            "url": "https://www.leinsterexpress.ie/news/motoring-news/1693549/on-the-road-in-laois-test-drive-of-the-new-suzuki-swift.html",
+            "url_media": "https://www.leinsterexpress.ie/resizer/1200/700/true/2025_01_03/ilee_01_motoring_1-1735906060800.jpg--on_the_road_in_laois___test_drive_of_the_new_suzuki_swift.jpg?1735906062700",
+            "country": "IE",
+            "language": "en",
+            "org": [
+                "Suzuki"
+            ],
+            "summary": "Suzuki has launched the fourth generation of the Swift model, a compact hybrid hatchback. It features a new 1.2 litre petrol 3 cylinder engine mated to a five speed manual gearbox, new interior and exterior styling and prices start at €21,995 for the 'Motion' version."
+        },
+        {
+            "published_date": "2025-01-05T08:47:00",
+            "title": "Karnataka to gift special hamper to Chef Vikas Khanna for introducing Mysore Sandal soap to Anne Hathaway and the world",
+            "author": "HT News Desk",
+            "url": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-to-gift-special-hamper-to-chef-vikas-khanna-for-introducing-mysore-sandal-soap-to-anne-hathaway-and-the-world-101736053217602.html",
+            "url_media": "https://www.hindustantimes.com/ht-img/img/2025/01/05/1600x900/Vikas_Khanna_Anne_Hathaway_1734683943208_1736053804345.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "KSDL",
+                "Mysore Sandal",
+                "Times of India",
+                "Karnataka Soaps and Detergents Limited",
+                "TOI",
+                "Kempegowda International Airport",
+                "House of Mysore Sandal"
+            ],
+            "summary": "Karnataka Soaps and Detergents Limited (KSDL), the maker of Mysore Sandal Soap, is planning to enhance its product line and marketing strategies. KSDL will open an exclusive store at Terminal 2 of Kempegowda International Airport showcasing Karnataka-made products, including Mysore Sandal Soap."
+        },
+        {
+            "published_date": "2025-01-05T07:01:03",
+            "title": "49 Products That'll Give You A Magical Transformation For Stuff You Already Own",
+            "author": "Elizabeth Lilly",
+            "url": "https://www.buzzfeed.com/elizabethlilly/products-magical-transform-your-stuff",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/23/21/campaign_images/7d1a6422773c/49-products-thatll-give-you-a-magical-transformat-2-983-1734991158-0_dblbig.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "BuzzFeed",
+                "Amazon",
+                "Asos",
+                "Dr. Martens"
+            ],
+            "summary": "The article presents a list of newly introduced or innovative products designed to extend the life or improve the functionality of existing household items. These include items like fabric shavers, leather stain removers, shoe stretch sprays, and a range of cleaning and repair solutions, all available on Amazon. Several products also come from small businesses."
+        },
+        {
+            "published_date": "2025-01-05T02:00:00",
+            "title": "This Handheld Vacuum Is ‘Perfect for Quick Cleanups,' and It's Just $33 Right Now for Prime Members",
+            "author": "Toni Sutton",
+            "url": "https://people.com/bossdan-handheld-vacuum-deal-amazon-january-2025-8768935",
+            "url_media": "https://people.com/thmb/Zi0mvjA6dwO4slqQQMLmGt3QEbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-one-off---amazon-handheld-vacuum-tout-339368bf9430469d855eb84a06b0e406.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Prime"
+            ],
+            "summary": "The Bossdan Handheld Vacuum is available for Prime members at a discounted price of $33. The vacuum features 6,000 pascals of suction, LED lights, and includes attachments like a couch brush and crevice tool for versatile cleaning. Users praise its cordless design, powerful suction, and portability for quick cleanups of messes, dust, pet hair, and more."
+        },
+        {
+            "published_date": "2025-01-05T00:23:00",
+            "title": "New Kindle Scribe ‘feels like writing on real paper'",
+            "author": "Andrew Backhouse",
+            "url": "https://www.news.com.au/technology/gadgets/new-kindle-scribe-feels-like-writing-on-real-paper/news-story/3ea22028f74bb1fb22003bdbc002e30e",
+            "url_media": "https://content.api.news/v3/images/bin/fbed28bfff146eb28a216490eccc1112",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "Amazon"
+            ],
+            "summary": "Amazon recently announced a revamped lineup of Kindle products, including the Kindle (2024), Kindle Colorsoft, Kindle Paperwhite, and the premium Kindle Scribe (2024). The Kindle Scribe combines e-reader and digital notebook functionalities with features like a 10.2' glare-free display, 300ppi resolution, and up to 12 weeks of battery life, allowing users to write notes directly into books and utilize various notebook templates."
+        },
+        {
+            "published_date": "2025-01-05T00:01:00",
+            "title": "I've started my own beauty business. Do you have any tips for launching a start-up? Karren Brady gives career advice",
+            "author": "Karren Brady",
+            "url": "https://www.thesun.co.uk/fabulous/32559284/beauty-business-start-up-karren-brady-career-advice",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2024/12/newspress-collage-k5cnos9vk-1735686806756.jpg?1735686822&strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "West Ham United",
+                "Trading Standards",
+                "Aston Martin",
+                "The Sun",
+                "Tesco",
+                "Lidl"
+            ],
+            "summary": "A reader has created a non-aerosol, natural dry shampoo and is seeking advice from Karren Brady on launching it as a start-up. The advice includes finding cheaper packaging suppliers and tips for starting a business, with a focus on bulk suppliers and eco-friendly packaging."
+        },
+        {
+            "published_date": "2025-01-05T00:01:00",
+            "title": "I've started my own beauty business. Do you have any tips for launching a start-up? Karren Brady gives career advice",
+            "author": "Karren Brady",
+            "url": "https://www.thesun.ie/fabulous/14469649/beauty-business-start-up-karren-brady-career-advice",
+            "url_media": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/01/newspress-collage-k5cnos9vk-1735686806756.jpg?1736035588&strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "IE",
+            "language": "en",
+            "org": [
+                "West Ham United",
+                "Trading Standards",
+                "Aston Martin",
+                "fabulousmag.co.uk",
+                "The Sun",
+                "Tesco"
+            ],
+            "summary": "Louise has developed a natural dry shampoo and plans to launch it as a start-up. She is seeking advice on finding cheaper packaging suppliers. Karren Brady advises her to consider bulk suppliers, eco-friendly packaging, and networking events to grow her business."
+        },
+        {
+            "published_date": "2025-01-05T00:00:00",
+            "title": "Chinese robot vacuum cleaner company reveals model with an AI-powered arm",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/01/05/Chinese_robot_vacuum_cleaner_company_reveals_model_with_an_A",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Roborock"
+            ],
+            "summary": "Roborock introduced a new robot vacuum cleaner. This model features an artificial intelligence-powered folding arm. The arm is designed for removing socks and other obstacles."
+        },
+        {
+            "published_date": "2025-01-05T00:00:00",
+            "title": "DRIVER'S SIDE: Kia Sorento gets new updates, stays competitive",
+            "author": "Springfield News-Sun",
+            "url": "https://article.wn.com/view/2025/01/05/DRIVER_S_SIDE_Kia_Sorento_gets_new_updates_stays_competitive",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Kia",
+                "Toyota",
+                "Honda"
+            ],
+            "summary": "Kia is introducing the 2025 Kia Sorento Hybrid in the competitive seven-passenger SUV segment. This new product challenges established players like Toyota and Honda, signaling Kia's continued efforts to raise the bar in the automotive market."
+        },
+        {
+            "published_date": "2025-01-05T00:00:00",
+            "title": "New Samsung Leak Claims Galaxy S25-Series AI Better Than iPhone",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/05/New_Samsung_Leak_Claims_Galaxy_S25Series_AI_Better_Than_iPho",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Apple"
+            ],
+            "summary": "Samsung's next-generation handsets will offer new AI features. These features are designed to surpass those of competitor Apple."
+        }
+    ]
+}
