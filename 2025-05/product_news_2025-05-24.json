@@ -1,0 +1,1045 @@
+{
+    "status": "ok",
+    "total_articles": 67,
+    "articles": [
+        {
+            "published_date": "2025-05-24T23:48:58",
+            "title": "Zong launches local cloud platform",
+            "author": "Dawn Report",
+            "url": "https://www.dawn.com/news/1913169/zong-launches-local-cloud-platform",
+            "url_media": "https://www.dawn.com/_img/social-default.jpg",
+            "country": "PK",
+            "language": "en",
+            "org": [
+                "Zong",
+                "Dawn"
+            ],
+            "summary": "Zong has launched a locally-hosted cloud platform in Pakistan, featuring AI capabilities, enterprise-grade performance, and low-latency features. The platform, called Z SAIS, offers over 40 solutions across more than seven domains, including services like Kubernetes, Firewall, and Virtual Desktop Infrastructure. Earlier this year, Zong also launched Pakistan's first Large Language Model (LLM) for telecom use cases."
+        },
+        {
+            "published_date": "2025-05-24T23:22:14",
+            "title": "The Best Memorial Day Washer And Dryer Sales Happening Today",
+            "author": "Alexandra Garrett",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2025/05/24/memorial-day-washer-and-dryer-sales",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/68323238ef94bafaee74728f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "LG",
+                "Samsung",
+                "The Home Depot",
+                "GE",
+                "Maytag",
+                "Electrolux",
+                "Home Depot",
+                "Whirlpool"
+            ],
+            "summary": "LG is offering 25% off the LG Smart Front-Load Washer and 30% off their combo washer-dryer set. Samsung is offering 30% off a smart electric dryer. Electrolux has their front-loading washing machine on sale for $878 at Home Depot."
+        },
+        {
+            "published_date": "2025-05-24T21:30:00",
+            "title": "Walmart Is Selling Dyson's $400 Stick Vacuum for $230 Right Now, and Shoppers Say It Does a 'Magnificent Job'",
+            "author": "Cameron Le Blanc",
+            "url": "https://www.mensjournal.com/shopping/dyson-v7-advanced-cordless-vacuum-cleaner-walmart-sale",
+            "url_media": "https://www.mensjournal.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE1MTA5NzM5NTkwMTk4ODAz/dyson-v7-advanced-cordless-vacuum-cleaner-hero.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Dyson",
+                "Walmart",
+                "Men's Journal"
+            ],
+            "summary": "Walmart is offering the Dyson V7 Advanced Cordless Vacuum Cleaner for $230, a 43% discount from its list price of $400. The Dyson V7 features 115 air watts of suction, whole-machine air filtration, and weighs 5.6 pounds and includes accessories such as a charger, non-tangling cleaner head, mini soft dusting brush, and combination tool."
+        },
+        {
+            "published_date": "2025-05-24T21:21:44",
+            "title": "Next's £32 'Italy-inspired' dress looks a lot like Dolce & Gabbana £1,700 version",
+            "author": "Emily Sleight",
+            "url": "https://www.liverpoolecho.co.uk/whats-on/nexts-32-italy-inspired-dress-31718024",
+            "url_media": "https://i2-prod.liverpoolecho.co.uk/article31657575.ece/ALTERNATES/s1200/5_JS143416225.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Next",
+                "Dolce and Gabbana",
+                "Manchester Evening News",
+                "Boden",
+                "Alexa"
+            ],
+            "summary": "Next is selling the cream pink and blue house print scoop back mini shift dress for £32. The dress is available in petite, regular, and tall sizes and made from a lightweight linen blend suitable for summer. It is being promoted as an affordable alternative to a similar Dolce & Gabbana design."
+        },
+        {
+            "published_date": "2025-05-24T20:34:12",
+            "title": "Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model",
+            "author": "Carl Franzen",
+            "url": "https://news.knowledia.com/all/all/articles/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-b47951abf156aa1708610070ba0b3b748573791a",
+            "url_media": "https://venturebeat.com/wp-content/uploads/2024/06/cfr0z3n_vector_art_line_art_minimalist_flat_illustration_a_huma_0ee908ee-b815-4f79-8814-e728db0d08fa.png",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Anthropic"
+            ],
+            "summary": "Anthropic, an AI startup, announced plans to make an announcement on May 22nd, speculated to be the launch of a new Claude model codenamed \"Neptune.\" The announcement included a livestream scheduled for 9:30 am PT."
+        },
+        {
+            "published_date": "2025-05-24T20:34:11",
+            "title": "The battle to AI-enable the web: NLweb and what enterprises need to know",
+            "author": "Sean Michael Kerner",
+            "url": "https://news.knowledia.com/all/all/articles/the-battle-to-ai-enable-the-web-nlweb-and-what-enterprises-need-to-know-6c4de9e60abc368bdd54381bd492766f299dfe61",
+            "url_media": "https://venturebeat.com/wp-content/uploads/2025/05/microsoft-NLWeb-smk.png",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Microsoft",
+                "Anthropic",
+                "Google"
+            ],
+            "summary": "Microsoft announced NLWeb, an open-source protocol, during the Build 2025 conference. NLWeb enables websites to add AI-powered conversational interfaces, turning them into AI apps where users can query content using natural language. The new protocol uses existing structured data formats like RSS and functions as an MCP server."
+        },
+        {
+            "published_date": "2025-05-24T20:19:00",
+            "title": "Neo7 Turbo 7200mAh battery specs",
+            "author": "Bhupendra Singh Chundawat",
+            "url": "https://udaipurkiran.com/tag/neo7-turbo-7200mah-battery-specs",
+            "url_media": "https://udaipurkiran.com/wp-content/uploads/2021/08/cropped-UDAIPUR-KIRAN.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Realme"
+            ],
+            "summary": "Realme confirmed the specifications of its new smartphone, the Realme Neo7 Turbo. The launch is scheduled for May 29."
+        },
+        {
+            "published_date": "2025-05-24T19:07:50",
+            "title": "Lord's Gin reintroduces ready-to-drink sleek cans in celebration of World Cocktail Day 2025",
+            "author": "Pulse Mix",
+            "url": "https://www.pulse.ng/articles/business/lords-gin-reintroduces-ready-to-drink-sleek-cans-in-celebration-of-world-cocktail-day-2025-2025052419075002397",
+            "url_media": "https://image.api.sportal365.com/process//smp-images-production/pulse.ng/24052025/b49edb0b-115e-49b7-9186-931989104814.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Lord's Gin",
+                "TikTok",
+                "Lord's"
+            ],
+            "summary": "Lord's Gin marked World Cocktail Day 2025 by reigniting excitement around its Ready-to-Drink (RTD) Gin Cocktail sleek cans, emphasizing its premium lifestyle brand. The reintroduction was driven by a digital mixology session and a live brand experience in Lagos, with the campaign theme 'Lord's Mix the Moment' to encourage consumers to rediscover the convenience and premium indulgence of its RTD cocktails."
+        },
+        {
+            "published_date": "2025-05-24T19:04:16",
+            "title": "Mums are racing to Asda to stock up on children's clothes for under £2 & they're perfect for kitting kids out for summer",
+            "author": "Becky Pemberton",
+            "url": "https://www.thesun.co.uk/fabulous/35107603/asda-kids-summer-clothes",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/05/emfek1-asda-food-george-clothing-997849498.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "George",
+                "Asda",
+                "Asda Living",
+                "Extreme Couponing and Bargains UK",
+                "Asda Collection 3",
+                "George and Retail",
+                "George.com"
+            ],
+            "summary": "Asda has launched its first stand-alone George store in Leeds, featuring fashion, homeware, toys, baby items, and a café. Fashionistas can bag the Spring/Summer 2025 collection fronted by supermodel Yasmin Le Bon, plus new celeb collabs – including a chic kidswear range by Erica Davies and a sunshine-filled drop from Billie Faiers."
+        },
+        {
+            "published_date": "2025-05-24T19:04:16",
+            "title": "Mums are racing to Asda to stock up on children's clothes for under £2 & they're perfect for kitting kids out for summer",
+            "author": "Becky Pemberton",
+            "url": "https://www.thesun.ie/fabulous/15261911/asda-kids-summer-clothes",
+            "url_media": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/05/emfek1-asda-food-george-clothing-997849498.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "IE",
+            "language": "en",
+            "org": [
+                "Asda",
+                "Facebook",
+                "Asda Living",
+                "Fabulous",
+                "Alamy",
+                "George and Retail"
+            ],
+            "summary": "Asda has launched its first stand-alone George store in Leeds, featuring new Spring/Summer 2025 collection, new celeb collabs including a chic kidswear range by Erica Davies and a sunshine-filled drop from Billie Faiers and a brand-new Kitchen café. The store aims to provide quality, style, and value with George at the heart of it."
+        },
+        {
+            "published_date": "2025-05-24T19:04:16",
+            "title": "Mums are racing to Asda to stock up on children's clothes for under £2 & they're perfect for kitting kids out for summer",
+            "author": "Becky Pemberton",
+            "url": "https://www.thescottishsun.co.uk/fabulous/14840148/asda-kids-summer-clothes",
+            "url_media": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2025/05/emfek1-asda-food-george-clothing-997849498.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "George",
+                "Asda",
+                "Asda Living",
+                "Facebook",
+                "Extreme Couponing and Bargains UK",
+                "Alamy",
+                "George and Retail"
+            ],
+            "summary": "Asda has launched its first standalone George store in Leeds, offering fashion, homeware, toys, baby items, and a cafe. The store features new collections, including collaborations with celebrities, and aims to provide a sleeker and quicker shopping experience with self-checkouts and Click & Collect services. This launch signifies Asda's strategy to adapt to changing shopping habits and enhance customer access to George products."
+        },
+        {
+            "published_date": "2025-05-24T18:47:44",
+            "title": "This smart ring is half the price of the Oura Ring 4 - here's what to know",
+            "author": "Nina Raemont",
+            "url": "https://news.knowledia.com/all/all/articles/this-smart-ring-is-half-the-price-of-the-oura-ring-4-here-s-what-to-know-65b11699eecae082f0a694f38f4c494c67f28d55",
+            "url_media": "https://www.zdnet.com/a/img/resize/ce24c8cdd3827f9923739be685e319178e5bc0c4/2025/03/20/89dce249-3be8-487b-9ea5-f30b8d8b2e7e/img-5136.jpg?auto=webp&fit=crop&height=900&width=1200",
+            "country": "FR",
+            "language": "en",
+            "org": [],
+            "summary": "A smart ring is introduced as a competitor to the Oura Ring 4. The new ring undercuts the Oura Ring 4 in price and requires no subscription fees."
+        },
+        {
+            "published_date": "2025-05-24T18:47:44",
+            "title": "I swapped my iPhone for an e-paper Android handset, and it wasn't the downgrade I expected",
+            "author": "Kyle Kucharski",
+            "url": "https://news.knowledia.com/all/all/articles/i-swapped-my-iphone-for-an-e-paper-android-handset-and-it-wasn-t-the-b11c6806db753270046838badff58079e2dca2d8",
+            "url_media": "https://www.zdnet.com/a/img/resize/f64ec5c2910cc5c094f430247bd431efa87f2293/2025/04/15/758103f4-c4e8-4383-9ea4-03151aa2a8b1/img-1348.jpg?auto=webp&fit=crop&height=900&width=1200",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "ZDNET",
+                "Minimal Company",
+                "Motorola",
+                "Microsoft"
+            ],
+            "summary": "The Minimal Company is offering the Minimal Phone for pre-order at $399, a $100 discount from the regular price. This Android device features an e-paper display, a physical QWERTY keyboard, and access to the Google Play store, distinguishing it from other \"dumbphones\" like the Light Phone 3 and Mudita Kompakt. The phone is powered by a MediaTek Helio G99 CPU with up to 8GB of memory and up to 256GB of storage."
+        },
+        {
+            "published_date": "2025-05-24T18:13:20",
+            "title": "Aldi Ireland is selling €12.99 buy with easy spray feature that will ‘keep your floors sparkly clean'",
+            "author": "Macarten Burke",
+            "url": "https://www.thesun.ie/fabulous/15261541/aldi-ireland-spray-mop-floors-sparkly-clean",
+            "url_media": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/05/newspress-collage-i0vkpiv3k-1748108158496.jpg?1748111771&strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "IE",
+            "language": "en",
+            "org": [
+                "Aldi Ireland",
+                "ALDI IRELAND",
+                "PA Media 2",
+                "IRISH SUN",
+                "Aldi"
+            ],
+            "summary": "Aldi Ireland is launching the Addis Spray Mop Set, priced at €12.99, designed to clean floors effectively with a machine-washable microfibre head. Additionally, Aldi is introducing the Inflatable All-Round Stand-up Paddle Board for €79.99, suitable for watersports and easy to store and transport."
+        },
+        {
+            "published_date": "2025-05-24T18:01:03",
+            "title": "35 Products You'll Wish You Had Years Ago",
+            "author": "Curtis Teegardin",
+            "url": "https://www.buzzfeed.com/curtisteegardin/products-youll-wish-you-had-years-ago",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/16/20/thumb/CgZCiUaa4.jpg?crop=2999:1575;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "ChomChom",
+                "Gold Bond",
+                "Sol De Janeiro"
+            ],
+            "summary": "Sol De Janeiro launched Bum Bum Cream, which aims to smooth and tighten skin using caffeine-rich guarana extract. Skin1004 introduced zombie face masks with albumin and aloe vera extract to lift and hydrate the skin. Essence released Lash Princess mascara that lengthens and volumizes lashes."
+        },
+        {
+            "published_date": "2025-05-24T17:51:00",
+            "title": "Google's New 'Try It On' AI Feature Could Change Online Shopping Forever : Google I/O 2025",
+            "author": "",
+            "url": "https://english.jagran.com/technology/googles-new-try-it-on-ai-feature-could-change-online-shopping-forever-google-io-2025-10240034",
+            "url_media": "https://imgeng.jagran.com/images/2025/04/08/article/image/googleio25-1744097163257.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Google",
+                "Twitter"
+            ],
+            "summary": "Google introduced its new 'Try it on' feature during Google I/O 2025, which is part of Google's AI Mode. This AI-powered tool allows users to virtually try on clothing, offering a realistic view of how different outfits would look on them. The feature, utilizing Google's Imagen AI model, addresses the challenge of imagining clothing fit in online shopping."
+        },
+        {
+            "published_date": "2025-05-24T17:31:02",
+            "title": "40 Gadgets And Gizmos That'll Make You Feel Like You're Living In The Future",
+            "author": "Heather Braga",
+            "url": "https://www.buzzfeed.com/hbraga/futuristic-gadgets-gizmos-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-02/6/13/enhanced/cf64ce990d58/original-684-1738848959-2.jpg?crop=1245:830;3,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "HP",
+                "Google"
+            ],
+            "summary": "Dyson launched the WashG1 wet cleaner, designed to remove debris, stains, and hair from hard floors using only water. xBloom introduced a coffee machine bundle that allows users to create cafe-quality pour-over drinks at home using whole beans. Sonos released the Move 2, a water-resistant portable Bluetooth speaker with Wi-Fi capabilities, suitable for both indoor and outdoor use."
+        },
+        {
+            "published_date": "2025-05-24T17:02:46",
+            "title": "New Look's £30 dress looks 'so much more expensive' shoppers want all 5 colours",
+            "author": "What's On Writer",
+            "url": "https://www.mylondon.news/whats-on/shopping/new-look-puff-sleeve-dress-31717320",
+            "url_media": "https://i2-prod.mylondon.news/incoming/article31717328.ece/ALTERNATES/s1200/1_LBR_ML_240525_newlookpuffsleevemididress_02.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "New Look",
+                "Next",
+                "& Other Stories",
+                "MyLondon"
+            ],
+            "summary": "New Look offers the Puff Sleeve Midi Dress for £29.99 and Faux Leather Cut Out Interwoven Strap Sandals for £15.99. Next retails the Puff Sleeve Midi Dress for £52-£56, while & Other Stories offers a Puff-Sleeve Midi Dress for £57-£67. These items are new products and are available in multiple sizes and colors."
+        },
+        {
+            "published_date": "2025-05-24T16:22:05",
+            "title": "Xbox Series S 2-Controller Bundle: Still a Good Deal? – Archyde: Latest World News, Economy, Entertainment, Health, Technology & Sports Updates",
+            "author": "archyde",
+            "url": "https://www.archyde.com/xbox-series-s-2-controller-bundle-still-a-good-deal",
+            "url_media": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/microsoft-xbox-series-s-test-frandroid-2-1200x900-1.jpg?resize=1600,900&key=63d02380&watermark",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Microsoft",
+                "best Buy",
+                "Amazon",
+                "Walmart",
+                "Target",
+                "eBay"
+            ],
+            "summary": "The Xbox Series S, a compact next-gen gaming console by Microsoft, offers 1440p resolution at 120fps and fast loading times due to its SSD. It provides access to Xbox Game Pass and is available at retailers like Best Buy, Amazon, Walmart, and Target, often in bundle deals."
+        },
+        {
+            "published_date": "2025-05-24T15:08:33",
+            "title": "Savoy unveils ‘Discone Ice Cream'",
+            "author": "Star Business Desk",
+            "url": "https://www.thedailystar.net/business/banking/news/savoy-unveils-discone-ice-cream-3902396",
+            "url_media": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/05/24/savoy-discone_.jpg",
+            "country": "BD",
+            "language": "en",
+            "org": [
+                "Savoy Ice Cream"
+            ],
+            "summary": "Savoy Ice Cream, a brand in Bangladesh, has launched \"Savoy Discone Ice Cream,\" marking its entry into the discone category. This new product targets the youth and offers a fusion of flavor, texture, and style with dark chocolate, honeycomb, coffee ice cream, molten chocolate fudge, and a chocolate wafer cone."
+        },
+        {
+            "published_date": "2025-05-24T14:57:45",
+            "title": "Samsung Galaxy S25 Edge review: I tested Samsung's thinnest smartphone yet - it has all the best features of the S25 at a fraction of thickness and weight",
+            "author": "WILIAM HUNTER",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-14731541/Samsung-Galaxy-S25-Edge-review.html",
+            "url_media": "https://i.dailymail.co.uk/1s/2025/05/22/16/98653375-0-image-m-62_1747926955464.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "MailOnline",
+                "City University London"
+            ],
+            "summary": "Samsung has introduced the Galaxy S25 Edge, a slim and lightweight smartphone featuring a Dynamic AMOLED display, Snapdragon 8 Elite chip, and a 200-megapixel rear camera. Available in three colors with up to 512GB of storage, the S25 Edge aims to deliver high-end performance with trade-offs in optical zoom and battery size, and runs on Android 15 with Samsung's One UI 7, incorporating both Google Gemini AI and Bixby."
+        },
+        {
+            "published_date": "2025-05-24T14:01:02",
+            "title": "30 Random Useful Things To Buy For Your Home",
+            "author": "Daniel Boan",
+            "url": "https://www.buzzfeed.com/danielboan/random-useful-products-for-your-home",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/13/20/thumb/8eKOdBA5s.jpg?crop=2999:1573;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "DianeGet",
+                "and Sew",
+                "Hustle and Sew"
+            ],
+            "summary": "Amazon and Etsy sellers are introducing a variety of new products. These include items such as a mover's dolly, smart plugs, the Always pan, drip catchers from Hustle and Sew, knife sets, fire-extinguishing spray, tape measures, cooling sheet sets, paperless towels from Hammer and Thread Handmade, LED lanterns, wet/dry vacuums from Craftsman, self-cleaning litter boxes, air purifiers from Levoit, bidet toilet attachments, reusable sponges from Porter Lees, mop pads, shoe racks, Dutch ovens from Amazon Basics, Blink Mini 2 smart cameras, Stasher reusable food bags, mixing bowl sets, first aid kits, Boston Shaker sets from A Bar Above, garment steamers, box cutters, digital scales, pancake batter dispensers, vacuum storage bags, accordion file folders, and toilet plungers."
+        },
+        {
+            "published_date": "2025-05-24T14:01:00",
+            "title": "2025 Lexus LX700h review: Quick drive",
+            "author": "James Wong",
+            "url": "https://www.theleader.com.au/story/8974989/2025-lexus-lx700h-review-quick-drive",
+            "url_media": "https://www.theleader.com.au/images/transform/v1/crop/frm/silverstone-feed-data/70dba85e-2e84-4949-aefb-2458192dbff1.jpg/r0_57_800_477_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [],
+            "summary": "Lexus LX boasts a hybrid powertrain that delivers ample grunt. This vehicle is capable across harsh terrain, providing a luxurious experience for off-road driving."
+        },
+        {
+            "published_date": "2025-05-24T13:42:45",
+            "title": "I spotted a £2.99 Lidl hand wash dupe for Aesop's £33 version",
+            "author": "Ray Bonsall",
+            "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/spotted-299-lidl-hand-wash-31684851",
+            "url_media": "https://i2-prod.liverpoolecho.co.uk/article31447168.ece/ALTERNATES/s1200/0_Lidl.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Lidl",
+                "Aesop",
+                "Which?",
+                "Etsy"
+            ],
+            "summary": "Lidl has introduced the Deluxe aromatic hand wash as part of its Deluxe range, including a body wash counterpart. The hand wash, priced at £2.99, features a vetiver, grapefruit, and guaiac wood fragrance, with botanical extracts of bergamot. It is packaged in a plastic bottle and offers a more affordable alternative to the Aesop hand wash."
+        },
+        {
+            "published_date": "2025-05-24T13:30:13",
+            "title": "OnePlus 3 Pad launch date announced: Expected to make a debut with Qualcomm's Snapdragon 8 Elite chipset, 144Hz refresh rate, and more",
+            "author": "Anusha Jain",
+            "url": "https://www.indiatimes.com/technology/news/oneplus-3-pad-launch-date-announced-expected-to-make-a-debut-with-qualcomms-snapdragon-8-elite-chipset-144hz-refresh-rate-and-more-659592.html",
+            "url_media": "https://im.indiatimes.in/content/template/share/659592.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "OnePlus",
+                "Qualcomm",
+                "OnePlus'"
+            ],
+            "summary": "OnePlus will launch the OnePlus Pad 3 on June 5, 2025, featuring the Snapdragon 8 Elite chipset and improved Open Canvas multitasking. The new tablet will have seamless iOS syncing, Oxygen OS 15 based on Android 15, up to 16GB of RAM and 512GB of internal storage. It is expected to be the renamed OnePlus Pad 2 Pro for international markets."
+        },
+        {
+            "published_date": "2025-05-24T13:00:00",
+            "title": "The best wrinkle-release sprays, according to an editor: Ranked",
+            "author": "Jannely Espinal",
+            "url": "https://www.today.com/shop/ranked-wrinkle-release-sprays-rcna205343",
+            "url_media": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/250521-ranked-wrinkle-release-bd-main-874bb6.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Procter & Gamble"
+            ],
+            "summary": "Several wrinkle-release sprays are examined, including those from Cold Iron, Faultless, and ReWear. Cold Iron's formula is noted as an effective alternative to ironing and steaming, gentle on fabrics, and effective on linen and silk. Faultless wrinkle-release spray offers quick-dry results and is suited for silk and cotton, while ReWear functions as a 'dry shampoo' for clothes, effectively eliminating odors and softening wrinkles."
+        },
+        {
+            "published_date": "2025-05-24T13:00:00",
+            "title": "Why Glossier's You Fleur Is the Perfect Subtle Floral for Warm Weather",
+            "author": "Mayra Morales",
+            "url": "https://www.townandcountrymag.com/style/beauty-products/a64675125/glossier-you-fleur-fragrance-review",
+            "url_media": "https://hips.hearstapps.com/hmg-prod/images/18c608dd-128b-42d1-91ad-e028aab5c7e6.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Glossier",
+                "Town & Country",
+                "T&C",
+                "Harper's BAZAAR",
+                "W Magazine",
+                "Parsons School of Design"
+            ],
+            "summary": "Glossier has launched a new fragrance called You Fleur, described as a powdery scent similar to the original You fragrance but with a floral blend and Cashmeran musk. The new fragrance is designed to be soft yet sultry, and sweet but subdued. Testers reported that the new product is fragrant like a flower, yet clean and refined, like a modern-day CBK."
+        },
+        {
+            "published_date": "2025-05-24T13:00:00",
+            "title": "Boden 'flattering' dress reduced by £25 is 'more comfortable than sweats'",
+            "author": "What's On Writer",
+            "url": "https://www.mylondon.news/whats-on/shopping/boden-double-cloth-midi-dress-31695473",
+            "url_media": "https://i2-prod.mylondon.news/incoming/article31695477.ece/ALTERNATES/s1200/1_LBR_ML_210525_bodendoubleclothmididress_02.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Next",
+                "New Look",
+                "MyLondon",
+                "Birkenstock"
+            ],
+            "summary": "Boden is offering its Anna Double Cloth Midi Dress, originally £98, for £73.50 until Monday, May 26. The dress is available in multiple colors and sizes. Gap offers Crinkle Gauze 100% Cotton Open-Back Puff Sleeve Midi Dress for £35 at Next and New Look has Puff Sleeve Midi Dress for £25.49-£33.99."
+        },
+        {
+            "published_date": "2025-05-24T11:56:31",
+            "title": "Amazon Fashion's 'SERVE' Store Offers Convenience, Selection and Value to Gen Z, says Nikhil Sinha, Director, Amazon Fashion",
+            "author": "",
+            "url": "https://www.indiatoday.in/impact-feature/story/amazon-fashions-serve-store-offers-convenience-selection-and-value-to-gen-z-says-nikhil-sinha-director-amazon-fashion-2729633-2025-05-24",
+            "url_media": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/img-23000348-16x9_0.jpg?VersionId=clUrCcWhGPKtsTxOHTwEP1A442.FVefc",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "SERVE",
+                "Amazon Fashion",
+                "Next Gen Store",
+                "Amazon Fashion India",
+                "Diljit",
+                "Levi's",
+                "Barcino",
+                "The Bear House",
+                "Chumbak",
+                "Cosrx",
+                "Moxie"
+            ],
+            "summary": "Amazon Fashion has rebranded its Gen Z-focused online storefront as SERVE, offering trend-driven styles and a cultural platform. SERVE features over 2 million products, curated content, and mobile-friendly navigation, designed to resonate with Gen Z's fashion preferences and archetypes. The platform aims to democratize fashion and empower young Indians with creative self-expression."
+        },
+        {
+            "published_date": "2025-05-24T11:02:51",
+            "title": "This Tuft & Needle mattress enhanced my sleep quality, and it's 20% off for Memorial Day",
+            "author": "Kyley Warren",
+            "url": "https://www.dailycommercial.com/story/shopping/2025/05/24/tuft-and-needle-memorial-day-sale-deals-on-mattresses-bedding/83817308007",
+            "url_media": "https://www.dailycommercial.com/gcdn/authoring/authoring-images/2025/05/23/USAT/83818018007-tuft?crop=2997,1684,x0,y0&width=2997&height=1684&format=pjpg&auto=webp",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Tuft & Needle"
+            ],
+            "summary": "Tuft & Needle is offering discounts on mattresses, mattress toppers, duvet covers, and mattress protectors for Memorial Day 2025. The sale includes 20% off on the Original Mattress and Original Hybrid Mattress, and 40% off on the Mattress Topper, Percale Duvet Cover Set, and Mattress Protector."
+        },
+        {
+            "published_date": "2025-05-24T10:59:44",
+            "title": "Amazon Kindle Paperwhite 12th Gen (2025) review: Just a really good reading device",
+            "author": "",
+            "url": "https://www.indiatoday.in/technology/reviews/story/amazon-kindle-paperwhite-12th-gen-2025-review-just-a-really-good-reading-device-2729939-2025-05-24",
+            "url_media": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/kindle-12th-gen-245221368-16x9_0.png?VersionId=2OPqxNnw.XiiixkviKI1.lC41ctz2bsj",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Amazon"
+            ],
+            "summary": "Amazon has released the Kindle Paperwhite 12th Gen, an upgraded e-reader featuring a 7-inch glare-free display with adjustable warm light, USB-C charging, and IPX8 waterproof rating.  The new Kindle Paperwhite offers improvements like a more responsive interface, increased storage, and a more premium design compared to older Kindle models, enhancing the overall reading experience for both new and existing users."
+        },
+        {
+            "published_date": "2025-05-24T10:45:01",
+            "title": "Johnnie Walker Blonde: A smooth new era of whisky begins",
+            "author": "",
+            "url": "https://www.ghanaweb.com/blogs/mindofthewriter/Johnnie-Walker-Blonde-A-smooth-new-era-of-whisky-begins-11641",
+            "url_media": "https://cdn.ghanaweb.com/imagelib/blog/497/49760852.jpg",
+            "country": "GH",
+            "language": "en",
+            "org": [
+                "Guinness Ghana",
+                "Johnnie Walker",
+                "GhanaWeb"
+            ],
+            "summary": "Guinness Ghana has launched Johnnie Walker Blonde in Ghana, a new variant of Scotch whisky designed to be smooth and approachable for a new generation of whisky drinkers. The launch event showcased the whisky's versatility, highlighting its mixability with lemonade and its appeal to younger audiences, making it officially available in 750ml bottles."
+        },
+        {
+            "published_date": "2025-05-24T10:33:00",
+            "title": "Taco Bell launches spicy new menu item featuring a hot partner",
+            "author": "Fernanda Tronco",
+            "url": "https://www.miamiherald.com/news/business/article307124911.html",
+            "url_media": "https://www.mcclatchy-wires.com/incoming/zblkyk/picture283907258/alternates/LANDSCAPE_1140/1097543c-7176-44ed-9048-51428ecdf7a4",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Taco Bell",
+                "Chick-fil-A",
+                "Raising Cane's",
+                "McDonald's",
+                "MCD",
+                "Restaurant Brands International",
+                "QSR",
+                "Burger King",
+                "Popeyes",
+                "Yum! Brand",
+                "Dollar General",
+                "'s",
+                "Mike's Hot Honey"
+            ],
+            "summary": "Taco Bell has launched the limited-time Mike's Hot Honey Diablo Dipping Sauce in partnership with Mike's Hot Honey, available nationwide starting May 22nd. This complements their Crispy Chicken Nuggets. Additionally, Taco Bell and Mike's Hot Honey are releasing limited-edition Mike's Hot Honey Jackets, available to the first 500 Rewards Members through the Taco Bell app on May 27th."
+        },
+        {
+            "published_date": "2025-05-24T10:00:00",
+            "title": "This smart new internet speed test blows Ookla out of the water",
+            "author": "JR Raphael",
+            "url": "https://www.fastcompany.com/91332137/best-internet-speed-test",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/05/p-1-91332137-this-smart-new-internet-speed-test-blows-ookla-out-of-the-water.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Ookla",
+                "Google"
+            ],
+            "summary": "Ookla's Speedtest creator launched Orb, a new internet speed test tool. Orb assesses connection responsiveness and reliability, offering a comprehensive view of connection quality. The tool is free for personal use and available on major platforms like Android, iOS, Windows, MacOS, and Linux."
+        },
+        {
+            "published_date": "2025-05-24T09:47:43",
+            "title": "The Ultimate Guide to 2025's Best Budget Smart TVs",
+            "author": "Devdiscourse News Desk",
+            "url": "https://www.devdiscourse.com/article/technology/3423563-the-ultimate-guide-to-2025s-best-budget-smart-tvs",
+            "url_media": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_05_2025_09_47_43_3040456.png?width=920&format=jpeg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Sony",
+                "TCL",
+                "LG",
+                "Samsung",
+                "Hisense"
+            ],
+            "summary": "Sony, TCL, LG, Samsung, and Hisense are introducing new smart TV models priced under ₹1 lakh. These TVs feature technologies like Dolby Atmos, Quantum Dot Mini LED, and Google TV integration. The new models offer premium features at a budget-friendly price, enhancing the viewing experience."
+        },
+        {
+            "published_date": "2025-05-24T09:41:15",
+            "title": "Gan Jing World Launches Cloud Services for Businesses",
+            "author": "Mary Man",
+            "url": "https://www.theepochtimes.com/business/gan-jing-world-launches-cloud-services-for-businesses-5862438",
+            "url_media": "https://img.theepochtimes.com/assets/uploads/2023/06/22/id5350676-EpochImages-7444330240-1080x720.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Gan Jing World",
+                "Gan Jing Cloud",
+                "Gan Jing",
+                "NTD News"
+            ],
+            "summary": "Gan Jing World has launched Gan Jing Cloud, a cloud service designed to provide businesses with an alternative to traditional hyperscalers. The service offers features like flexible private and hybrid cloud solutions, data ownership, and Ethical AI, aiming to address concerns about vendor lock-in, data sovereignty, and escalating costs."
+        },
+        {
+            "published_date": "2025-05-24T09:35:40",
+            "title": "Onic becomes First Digital Telecom Brand in Pakistan to offer GPT 4o Premium Free to All Customers",
+            "author": "News Desk",
+            "url": "https://en.dailypakistan.com.pk/24-May-2025/onic-becomes-first-digital-telecom-brand-in-pakistan-to-offer-gpt-4o-premium-free-to-all-customers",
+            "url_media": "https://en.dailypakistan.com.pk/wp-content/uploads/2025/05/onic-becomes-first-digital-telecom-brand-in-pakistan-to-offer-gpt-4o-premium-free-to-all-customers-news-282148.jpeg",
+            "country": "PK",
+            "language": "en",
+            "org": [
+                "Onic",
+                "OpenAI",
+                "PTCL and",
+                "Ufone 4G",
+                "Onic Pakistan"
+            ],
+            "summary": "Onic has launched GPT 4o Premium, fully integrated into the Onic app and available free for all users in Pakistan. This advanced artificial intelligence technology enhances content creation, supports decision-making, and provides real-time solutions for Onic customers."
+        },
+        {
+            "published_date": "2025-05-24T09:20:28",
+            "title": "'My new Hoover vacuum is £190 cheaper than Dyson with feature I can't live without'",
+            "author": "Jake Hackney",
+            "url": "https://news.knowledia.com/all/all/articles/my-new-hoover-vacuum-is-190-cheaper-than-dyson-with-feature-i-can-t-9f5b1dc29c4d6743ecf10ead0982919e4d945535",
+            "url_media": "https://i2-prod.dailyrecord.co.uk/article35277585.ece/ALTERNATES/s1200b/0_IMG_6969.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Hoover",
+                "Dyson",
+                "Shark",
+                "Amazon",
+                "Samsung"
+            ],
+            "summary": "Hoover has introduced the HF9 Cordless Vacuum Cleaner, featuring Anti-Twist technology and multiple cleaning modes, with a significant price discount. The HF9 is presented as a powerful and versatile option for cleaning various surfaces, rivaling competitors like Dyson and Shark in terms of price and performance."
+        },
+        {
+            "published_date": "2025-05-24T09:06:05",
+            "title": "Save BIG on high capacity washing machines this summer: Up to 50% off on top brands like LG, Samsung, Haier and others",
+            "author": "Iqbal",
+            "url": "https://www.livemint.com/technology/gadgets/save-big-on-high-capacity-washing-machines-this-summer-up-to-50-off-on-top-brands-like-lg-samsung-haier-and-others-11748069049740.html",
+            "url_media": "https://www.livemint.com/lm-img/img/2025/05/24/1600x900/best_automatic_washing_machine_1748076554151_1748076564591.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "LG",
+                "Godrej",
+                "Whirlpool"
+            ],
+            "summary": "Samsung, LG, Whirlpool, Godrej, and Haier offer washing machines with various innovative technologies and features. Samsung's washing machines include EcoBubble and BubbleStorm technologies. LG models feature AI Direct Drive, TurboWash, and Steam Wash, while Whirlpool offers 6th Sense Smart Sensors. Godrej washing machines have Germ Shield Technology and Eco-Mode, and Haier provides Near Zero Pressure technology for low water pressure environments."
+        },
+        {
+            "published_date": "2025-05-24T08:35:37",
+            "title": "I'm 5ft 9' & tried 7 dresses under £20 – Primark's viral one showed my cheeks while ‘flattering' M&S frock was frumpy",
+            "author": "Kate Kulniece",
+            "url": "https://www.thesun.co.uk/fabulous/35074035/viral-mini-dresses-summer-tall-girl-fashion-test",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/05/RW-23-05-viral-summer-dresses_OP_44b9cc.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Primark",
+                "New Look"
+            ],
+            "summary": "Primark released a Gingham Check Dress for £10 and a Sleeveless Corset Mini Dress for £23, while New Look offers a Tiered Mini Dress for £29.99 and a Black Square Neck Flared Mini Dress for £32.99. The reviews focus on the fit and suitability of these mini dresses for taller women."
+        },
+        {
+            "published_date": "2025-05-24T08:08:37",
+            "title": "iQOO Neo 10 launching next week: Check out the expected price, specifications, and more",
+            "author": "Anusha Jain",
+            "url": "https://www.indiatimes.com/technology/news/iqoo-neo-10-launching-next-week-check-out-the-expected-price-specifications-and-more-659574.html",
+            "url_media": "https://im.indiatimes.in/content/template/share/659574.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "iQOO India",
+                "iQOO.com",
+                "iQOO",
+                "Indiatimes Tech"
+            ],
+            "summary": "iQOO is launching the iQOO Neo 10 smartphone in India on May 26. The iQOO Neo 10 features Snapdragon 8s Gen 4, Supercomputing Chip Q1, a 7,000mAh battery with 120W charging, and will be available on Amazon.in, iQOO.com and retail outlets."
+        },
+        {
+            "published_date": "2025-05-24T07:53:52",
+            "title": "Gen Z is willing to sell their personal data—for just $50 a month",
+            "author": "Eve Upton-Clark",
+            "url": "https://news.knowledia.com/all/all/articles/gen-z-is-willing-to-sell-their-personal-datafor-just-50-a-month-2b891b35399b020e43e308da5bc0a344f04124ca",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/05/p-2-91338997-gen-z-selling-data.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Generation Lab",
+                "Axios"
+            ],
+            "summary": "Generation Lab launched Verb.AI, an app that pays Gen Z users for their data. The app tracks users' browsing, buying, and streaming activities to create a digital twin that businesses can query to understand consumer preferences."
+        },
+        {
+            "published_date": "2025-05-24T07:53:52",
+            "title": "How Google is rethinking search in an AI-filled world",
+            "author": "Mark Sullivan",
+            "url": "https://news.knowledia.com/all/all/articles/how-google-is-rethinking-search-in-an-ai-filled-world-cf6112b1f2b6a711ddd70f496b692fd5edb9494a",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/05/p-3-91338339-google-rethinking-search-ai.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "Google",
+                "Securities and Exchange Commission",
+                "Alphabet",
+                "Fast Company"
+            ],
+            "summary": "Google is adapting to a shift in search technology by integrating AI models into its search products. The company's AI Mode represents its cutting-edge AI search capability, with plans to incorporate successful elements from AI Mode into the core search and AI Overviews. This involves technologies like query fan-out to enhance information retrieval."
+        },
+        {
+            "published_date": "2025-05-24T07:34:03",
+            "title": "Cooltisyntrix Platform Review-{AWARE TO FRUAD}-How Cooltisyntrix's Automated Trading Boosts Your Portfolio?",
+            "author": "",
+            "url": "https://haitiliberte.com/advert/cooltisyntrix-platform-review-aware-to-fruad-how-cooltisyntrixs-automated-trading-boosts-your-portfolio",
+            "url_media": "https://haitiliberte.com/wp-content/uploads/2019/12/Haiti-Liberte-logo-300x68.jpg",
+            "country": "HT",
+            "language": "en",
+            "org": [
+                "Cooltisyntrix",
+                "COOLTISYNTRIX"
+            ],
+            "summary": "Cooltisyntrix Trading Platform has launched a cutting-edge trading solution designed for modern traders. The platform offers advanced features like AI-powered market analysis, automated trading strategies, and customizable risk management systems. Cooltisyntrix provides multi-asset trading capabilities and integration with global markets, ensuring a seamless and comprehensive trading experience."
+        },
+        {
+            "published_date": "2025-05-24T07:01:05",
+            "title": "[WHY] Lather up, folks: Koreans take washing one's hair to the max",
+            "author": "KIM JI-YE",
+            "url": "https://n.news.naver.com/mnews/article/640/0000070689",
+            "url_media": "https://imgnews.pstatic.net/image/640/2025/05/24/0000070689_001_20250524070109965.jpg?type=w800",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Dyson",
+                "Fact.MR"
+            ],
+            "summary": "Dyson launched its Airwrap Coanda 2x in Korea, ahead of other markets, due to the high frequency of hair washing among Koreans.  CJ Olive Young has developed a wide range of products with specialized functions, from basic shampoos and conditioners to leave-in treatments, hair oils and even hair tonics. One example is the launch of the treecell's day & night shampoo line."
+        },
+        {
+            "published_date": "2025-05-24T06:58:58",
+            "title": "NVIDIA GPU marketplace bridges chip supply and AI demand",
+            "author": "Andrea Fox",
+            "url": "https://news.knowledia.com/all/all/articles/nvidia-gpu-marketplace-bridges-chip-supply-and-ai-demand-8fce143bc2da8dca0c82ab5a19f2933bd6e05282",
+            "url_media": "https://www.healthcareitnews.com/sites/hitn/files/AI-HITN_1_0_0_0_0.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "NVIDIA",
+                "Lambda",
+                "intelligence",
+                "CoreWeave",
+                "Crusoe",
+                "Foxconn",
+                "Nscale",
+                "graphics",
+                "DGX Cloud",
+                "Wall Street Journal"
+            ],
+            "summary": "NVIDIA has launched DGX Cloud Lepton marketplace, a unified AI platform that provides AI developers with access to a global supply of graphics processing units across different cloud providers like Lambda and CoreWeave. The marketplace offers fully managed services and software for training, deploying, and optimizing AI models."
+        },
+        {
+            "published_date": "2025-05-24T06:31:03",
+            "title": "This Hand Soap Is So Good, I Wash My Hands Just For Fun",
+            "author": "Griffin Gonzales",
+            "url": "https://www.buzzfeed.com/griffingonzales/this-hand-soap-is-so-fancy-i-actually-want-people-to-judge",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/21/18/thumb/7MEI7rJFB.jpg?crop=3000:1569;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon"
+            ],
+            "summary": "Grown Alchemist's hand wash in Sweet Orange, Cedarwood, and Sage is a hand soap available for purchase on Amazon. The product, known for its pleasant scent, offers a spa-like experience, with the brand itself being of high quality."
+        },
+        {
+            "published_date": "2025-05-24T06:03:00",
+            "title": "Like what3words but for phone numbers: Startup wants people to use domain names for its WhatsApp rival",
+            "author": "Efosa Udinmwen",
+            "url": "https://www.msn.com/en-us/news/technology/like-what3words-but-for-phone-numbers-startup-wants-people-to-use-domain-names-for-its-whatsapp-rival/ar-AA1FonWs",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Spaceship",
+                "MSN"
+            ],
+            "summary": "Spaceship has launched a new app called Thunderbolt, designed as a privacy-focused communication platform. Thunderbolt aims to replace traditional identifiers like phone numbers and email addresses with domain names, offering voice, video, and text communication. The app utilizes DNS ownership for identity verification and claims to provide end-to-end encryption and no central message storage."
+        },
+        {
+            "published_date": "2025-05-24T06:01:00",
+            "title": "Save up to 47% on top beauty brands in Amazon's Everyday Essentials sale",
+            "author": "Emma North",
+            "url": "https://metro.co.uk/2025/05/24/a-beauty-expert-this-im-buying-amazon-everyday-essentials-sale-23230518",
+            "url_media": "https://metro.co.uk/wp-content/uploads/2025/05/SEI_252783637-f1dd_1748012090.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Metro",
+                "Amazon",
+                "Maybelline",
+                "Aveeno",
+                "L'Oréal"
+            ],
+            "summary": "Amazon is running an Everyday Essentials sales event until May 27th, featuring discounts on beauty products. The sale includes deals on Maybelline's Instant Anti-Age Eraser Concealer, Aveeno Daily Moisturising Body Lotion, Got2b Glued Blasting Freeze Hairspray, Jimmy Choo Blossom Eau de Parfum, L'Oréal Paris Elvive Glycolic Gloss Leave-In Serum, e.l.f. Power Grip Primer, and Neutrogena Hydro Boost Water Gel."
+        },
+        {
+            "published_date": "2025-05-24T05:40:26",
+            "title": "7 AI Tools for Building a Lucrative One-Person Business That Operates Automatically",
+            "author": "Internewscast",
+            "url": "https://internewscast.com/business/7-ai-tools-for-building-a-lucrative-one-person-business-that-operates-automatically",
+            "url_media": "https://internewscast.com/wp-content/uploads/2025/05/7-AI-Tools-to-Build-a-Profitable-One-Person-Business-That.jpg",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Google AI",
+                "internewscast.com"
+            ],
+            "summary": "The content promotes several AI-powered tools targeted at solo entrepreneurs to automate tasks and boost business performance. These tools offer capabilities such as website conversion optimization using Google AI, AI-driven market research, no-code AI agent creation, instant presentation building, social media trend extraction, and automated data reporting. It also mentions an 'app store of AI' for various applications, with a free 'AI Success Kit' and a free book chapter being offered."
+        },
+        {
+            "published_date": "2025-05-24T05:32:11",
+            "title": "GBFoods redefines culinary with five new products",
+            "author": "Latestnigeriannews",
+            "url": "https://www.latestnigeriannews.com/p/4314541/gbfoods-redefines-culinary-with-five-new-products.html",
+            "url_media": "https://www.latestnigeriannews.com/favicon.ico",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "GBfoods Nigeria",
+                "GBFoods",
+                "The Guardian Nigeria News",
+                "World News"
+            ],
+            "summary": "GBfoods Nigeria has launched five new products. The new product range aims to bring convenience, flavor, and innovation to home cooks, chefs, food entrepreneurs, and consumers."
+        },
+        {
+            "published_date": "2025-05-24T05:31:03",
+            "title": "27 Shoes From Nordstrom Rack That'll Keep Your Feet Comfy And Your Wallet Safe",
+            "author": "Kit Stone",
+            "url": "https://www.buzzfeed.com/bykitstone/comfy-nordstrom-rack-shoes",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/19/20/thumb/9EO_vZ4AK.jpg?crop=3000:1575;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Adidas",
+                "Dr. Martens",
+                "Reebok"
+            ],
+            "summary": "The article features a curated list of new shoes from brands like Adidas, Dr. Martens, Tom's, Dr. Scholl's, Reebok, Hunter, Brooks, Converse, Puma and Teva. The product list includes sneakers, sandals, boots, and slippers highlighting the pricing and key features."
+        },
+        {
+            "published_date": "2025-05-24T05:16:12",
+            "title": "⚡Karnataka Govt Appoints Tamannaah Bhatia As KSDL Brand Ambassador",
+            "author": "",
+            "url": "https://www.latestly.com/quickly/agency-news/karnataka-govt-appoints-tamannaah-bhatia-as-ksdl-brand-ambassador-6874568.html",
+            "url_media": "https://st1.latestly.com/wp-content/uploads/2025/05/Tamannaah-Bhatia.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "LatestLY",
+                "Karnataka Soaps and Detergents Limited",
+                "KSDL"
+            ],
+            "summary": "The Karnataka government appointed Tamannaah Bhatia as the brand ambassador for Karnataka Soaps and Detergents Limited (KSDL). KSDL manufactures Mysore Sandal Soap, which is being promoted using the actress."
+        },
+        {
+            "published_date": "2025-05-24T04:20:31",
+            "title": "GBFoods UnveilsNew Products",
+            "author": "Omolabake Fasogbon",
+            "url": "https://www.latestnigeriannews.com/p/4314371/gbfoods-unveilsnew-products.html",
+            "url_media": "https://www.latestnigeriannews.com/favicon.ico",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "GBFoods",
+                "GBFoods Nigeria"
+            ],
+            "summary": "GBFoods has introduced five new products to enhance the culinary experience of consumers by improving the taste of meals. The company aims to satisfy diverse culinary preferences through this product portfolio expansion. Vincent Egbe, the Managing Director of GBFoods Nigeria, is leading this initiative."
+        },
+        {
+            "published_date": "2025-05-24T04:07:36",
+            "title": "LG to unveil refrigerators with advanced cooling technology",
+            "author": "Latestnigeriannews",
+            "url": "https://www.latestnigeriannews.com/p/4314240/lg-to-unveil-refrigerators-with-advanced-cooling-technology.html",
+            "url_media": "https://www.latestnigeriannews.com/favicon.ico",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "LG"
+            ],
+            "summary": "LG will introduce new-generation refrigerators. These refrigerators feature next-level features. The features have already received positive reviews in international markets."
+        },
+        {
+            "published_date": "2025-05-24T04:01:02",
+            "title": "36 Products For Anyone Way Too Excited For Summer",
+            "author": "Emma Lord",
+            "url": "https://www.buzzfeed.com/emmalord9/summer-products-excited",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/16/17/thumb/gnW4Xfw78.jpg?crop=2999:1574;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "E.l.f.",
+                "NeeDoh",
+                "Kuumba Made"
+            ],
+            "summary": "E.l.f. introduced the Squeeze Me More Lip Balm Duo. Sol de Janeiro released the Jet Set, featuring iconic products in sunshine scents. Tree Hut restocked the Desert Haze Shea Sugar Scrub. Case-Mate launched waterproof beach totes with a separate dry bag. JBL released the waterproof Flip 6 speaker."
+        },
+        {
+            "published_date": "2025-05-24T03:40:50",
+            "title": "騰勢高管回應拚錯N8L：太激動，手抖了",
+            "author": "新浪網",
+            "url": "https://portal.sina.com.hk/technology/sina/2025/05/24/1194328/%E9%A8%B0%E5%8B%A2%E9%AB%98%E7%AE%A1%E5%9B%9E%E6%87%89%E6%8B%9A%E9%8C%AFn8l%EF%BC%9A%E5%A4%AA%E6%BF%80%E5%8B%95%EF%BC%8C%E6%89%8B%E6%8A%96%E4%BA%86",
+            "url_media": "http://n.sinaimg.cn/finance/transform/703/w550h953/20250524/fe4c-cbc6cac5422aa64afa6e59af29c6d3ea.jpg",
+            "country": "HK",
+            "language": "en",
+            "org": [
+                "新浪科技訊",
+                "IT之家",
+                "Anthropic",
+                "SiC",
+                "pingwest.com",
+                "Oracle",
+                "TechWeb",
+                "XPower",
+                "TechCrunch",
+                "Wolfspeed",
+                "Google"
+            ],
+            "summary": "Denza is launching a new SUV series called N8L. According to Zhao Changjiang, general manager of Denza sales division, the 'N' in N8L represents the SUV series and 'Next'. 'L' represents Large, Luxury, and Lifestyle."
+        },
+        {
+            "published_date": "2025-05-24T03:31:03",
+            "title": "35 Products From Amazon's \"Internet Famous\" List That Are Legitimately Practical To Have On Hand",
+            "author": "Emma Lord",
+            "url": "https://www.buzzfeed.com/emmalord9/practical-products-amazon-internet-famous-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-04/04/15/thumb/rKHMaoI-S.jpg?crop=1245:830;2,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "EltaMD",
+                "Neutrogena",
+                "Olay",
+                "La Roche-Posay",
+                "Medicube",
+                "Eos'"
+            ],
+            "summary": "The article features multiple new product introductions.  These include EltaMD UV Clear Face Sunscreen, Neutrogena Dry-Touch SPF 70 Sunscreen, Laneige Lip Glowy Balm, Olay Super Serum Body Wash, Medicube Turmeric Overnight Wrapping Peel Off Mask, Good Molecules Yerba Mate Wake Up Eye Gel, Eos' Shea Butter Vanilla Cashmere body lotion, Garnier Fructis Sleek & Shine Anti-Frizz Serum, Skala's Mais Cacho Hair 2-in-1 Conditioning Treatment, L'Oréal Paris Collagen Daily Face Moisturizer, The Ordinary's Multi-Depth Hydration Serum, PanOxyl Antimicrobial Hydrating Acne Creamy Wash, Dr. Martens Carlson Mules, Nine West watch, Stanley cup H2.0."
+        },
+        {
+            "published_date": "2025-05-24T03:14:10",
+            "title": "Zenless Zone Zero Confirms Xbox Pre-Order Pack Benefits",
+            "author": "Game Rant",
+            "url": "https://article.wn.com/view/2025/05/24/Zenless_Zone_Zero_Confirms_Xbox_PreOrder_Pack_Benefits",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Zenless Zone Zero is launching on Xbox consoles with Version 2.0, following a period of PS5 exclusivity. An exclusive Starter Pack is available for pre-order for Xbox users."
+        },
+        {
+            "published_date": "2025-05-24T02:31:04",
+            "title": "You'll Want To High-Five Yourself For Buying These 38 Excellent Products",
+            "author": "Daniel Boan",
+            "url": "https://www.buzzfeed.com/danielboan/youll-want-to-high-five-yourself-for-buying-these-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-04/02/16/thumb/cZwrZCLWC.jpg?crop=1999:1333;0,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Gold Bond",
+                "Sol De Janeiro"
+            ],
+            "summary": "Gold Bond launched a firming neck and chest cream containing salicylic acid, glycerin, and aloe for skin care. Veet introduced a sensitive hair removal gel formulated with aloe for sensitive skin. Good Molecules launched Yerba Mate Wake Up Eye Gel containing yerba mate and hyaluronic acid to soothe the skin under the eyes."
+        },
+        {
+            "published_date": "2025-05-24T01:20:32",
+            "title": "GBFoods Unveils New Products",
+            "author": "Omolabake Fasogbon",
+            "url": "https://www.thisdaylive.com/2025/05/24/gbfoods-unveils-new-products",
+            "url_media": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/GBFoods.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "GBFoods",
+                "GBFoods Nigeria"
+            ],
+            "summary": "GBFoods has launched five new food products: Bama Shawarma Mix, Gino Asun-Flavoured Seasoning Cubes, Gino Asun-Flavoured Tomato Mix, Gino Red Hot Pepper Powder, and the relaunched Jago Mayonnaise. These products aim to enrich the taste of meals and provide convenient, cost-effective solutions for food vendors and home cooks, offering intense flavors and simplifying meal preparation."
+        },
+        {
+            "published_date": "2025-05-24T01:00:20",
+            "title": "Samsung's new smart TVs offer a Vision AI of the future",
+            "author": "Terence Toh",
+            "url": "https://www.freemalaysiatoday.com/category/leisure/2025/05/24/samsungs-new-smart-tvs-offer-a-vision-ai-of-the-future",
+            "url_media": "https://media.freemalaysiatoday.com/wp-content/uploads/2025/05/57dc04bd-television-emel-pic-230525.webp",
+            "country": "MY",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Samsung Malaysia Electronics",
+                "FMT Lifestyle",
+                "PETALING JAYA",
+                "Samsung Art Store",
+                "Museum of Modern Art"
+            ],
+            "summary": "Samsung Malaysia Electronics has launched its 2025 range of AI-powered TVs and soundbars, including the Neo QLED 8K QN990F and The Frame Pro. The new TVs are powered by Vision AI, which enables features like Universal Gesture using Galaxy Watch 7 and integration with the SmartThings app, while the new soundbars offer Wireless Dolby Atmos and Q-Symphony for immersive sound."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Alibaba launches logistics services for Pakistani exporters",
+            "author": "Dawn",
+            "url": "https://article.wn.com/view/2025/05/24/Alibaba_launches_logistics_services_for_Pakistani_exporters",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Alibaba.com",
+                "Alibaba"
+            ],
+            "summary": "Alibaba.com launched a suite of online logistics services on Friday. These services are designed to aid Pakistani exporters in improving their international trade processes. The new offerings aim to help these businesses capitalize on global growth opportunities."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Honda X-ADV Launched At ₹11.90 Lakh: Why This Expensive Bet Makes Sense",
+            "author": "Ajinkya Nair",
+            "url": "https://luxe.outlookindia.com/tech-auto/auto/honda-x-adv-launched-at-rupees-1190-lakh-review-opinion",
+            "url_media": "https://images-luxe.outlookindia.com/2025/05/23154304/Honda_X_ADV-_1_20250523.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Honda"
+            ],
+            "summary": "Honda has launched the X-ADV scooter in India, priced at ₹11.90 lakh. The X-ADV features a 745cc twin-cylinder engine, DCT transmission, adventure bike suspension, and 22 litres of storage space. Honda is targeting buyers who want motorcycle performance with scooter convenience."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Anthropic's Claude AI gets smarter -- and mischievious",
+            "author": "Index-Journal",
+            "url": "https://article.wn.com/view/2025/05/24/Anthropics_Claude_AI_gets_smarter_and_mischievious_x",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Anthropic"
+            ],
+            "summary": "Anthropic launched its latest Claude generative artificial intelligence (GenAI) models on Thursday. The company claims these models set new standards for reasoning and include safeguards against rogue behavior."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Gan Jing World Launches Cloud Services for Businesses",
+            "author": "The Epoch Times",
+            "url": "https://article.wn.com/view/2025/05/24/Gan_Jing_World_Launches_Cloud_Services_for_Businesses",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Gan Jing World"
+            ],
+            "summary": "Gan Jing World launched Gan Jing Cloud publicly on May 20. Gan Jing Cloud is a cloud service designed for businesses, providing enterprise-grade performance, enhanced data security, and digital independence."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "New travel e-SIM providers use novel ways to woo customers",
+            "author": "Straits Times",
+            "url": "https://article.wn.com/view/2025/05/24/New_travel_eSIM_providers_use_novel_ways_to_woo_customers",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Firsty"
+            ],
+            "summary": "Firsty provides users with 300MB of free daily data in exchange for watching advertisements."
+        }
+    ]
+}
