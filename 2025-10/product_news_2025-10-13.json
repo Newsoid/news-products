@@ -1,0 +1,1937 @@
+{
+    "status": "ok",
+    "total_articles": 122,
+    "articles": [
+        {
+            "published_date": "2025-10-13T23:57:30",
+            "title": "Google Adds AI Features to Search, New Search Ads Controls",
+            "author": "Andrew Hutchinson",
+            "url": "https://www.socialmediatoday.com/news/google-updates-search-ads-generative-ai-in-search/802676",
+            "url_media": "https://imgproxy.divecdn.com/jM8q93bvgE0TLFSbhOk7GQyTGJI5vMOHknkMhIIJR7U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb29nbGVfc3BvbnNvcmVkX3Jlc3VsdHNfdXBkYXRlMi5wbmc=.webp",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Google",
+                "Google Shopping"
+            ],
+            "summary": "Google is updating its Search functionality by introducing new AI image generation features, allowing users to create images within Search to find relevant matches. Furthermore, Google is rolling out AI-powered summaries for trending topics and sports information within Discover. Additionally, Google is changing how sponsored results are displayed in Search, with a new labeled section and the ability to collapse text ads."
+        },
+        {
+            "published_date": "2025-10-13T23:10:03",
+            "title": "Why the Samsung Z Fold7 is a redemption for the brand",
+            "author": "Imran Salie",
+            "url": "https://www.msn.com/en-za/lifestyle/shopping/why-the-samsung-z-fold7-is-a-redemption-for-the-brand/ar-AA1OoWrP",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Google",
+                "Microsoft"
+            ],
+            "summary": "Samsung has introduced the Galaxy Z Fold7, a foldable phone featuring a premium build, slim profile, and a 200MP camera. The Z Fold7 offers upgrades such as a smooth folding mechanism, improved front screen, and enhanced performance with the Snapdragon 8 Gen 3 processor, marking a significant step forward for Samsung's foldable technology."
+        },
+        {
+            "published_date": "2025-10-13T22:35:21",
+            "title": "Peter Alexander launches 'uncanny' AI marketing campaign",
+            "author": "",
+            "url": "https://www.9news.com.au/videos/national/peter-alexander-launches-uncanny-ai-marketing-campaign/cmgppq8kh00180hpkrm10gumr",
+            "url_media": "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2025/10/726675/pickerimage.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [],
+            "summary": "Peter Alexander launched a new AI marketing campaign. The campaign features AI-generated dogs in pajamas to promote the brand."
+        },
+        {
+            "published_date": "2025-10-13T22:30:50",
+            "title": "Nvidia DGX Spark hits market as 'world's smallest AI supercomputer'",
+            "author": "Daniel Howley",
+            "url": "https://sg.finance.yahoo.com/news/nvidia-dgx-spark-hits-market-as-worlds-smallest-ai-supercomputer-223050200.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/xyQTtc_8jIZBUAlkFWRtkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDc-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d7214450-a85a-11f0-a7f7-72a8d2328637",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia",
+                "ASUS",
+                "Dell",
+                "DELL",
+                "CoreWeave",
+                "xAI",
+                "Amazon",
+                "AMZN",
+                "Google",
+                "Meta",
+                "Microsoft",
+                "MSFT",
+                "Oracle"
+            ],
+            "summary": "Nvidia officially launched the DGX Spark supercomputer, which features the GB10 Grace Blackwell superchip, targeting smaller businesses and developers. The Spark, part of a new computer class, offers up to 128GB of storage and can be connected to another system to enable larger AI models. The supercomputer complements Nvidia's existing AI offerings, allowing users to prototype AI models."
+        },
+        {
+            "published_date": "2025-10-13T21:20:50",
+            "title": "'Your updated subscription pricing now reflects the significant added value that new AI features will bring!'",
+            "author": "David Pierce",
+            "url": "https://www.theverge.com/tech/798924/your-updated-subscription-pricing-now-reflects-the-significant-added-value-that-new-ai-features-will-bring",
+            "url_media": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "A company is updating its subscription pricing to reflect the added value of new AI features. Customers are being notified of this change via email."
+        },
+        {
+            "published_date": "2025-10-13T21:00:00",
+            "title": "Human washing machine pods coming to Japanese hotels",
+            "author": "Casey Baseel",
+            "url": "https://japantoday.com/category/features/lifestyle/human-washing-machine-pods-coming-to-japanese-hotels",
+            "url_media": "https://media.japantoday.com/img/store/27/da/6acdfd5825fb87801102958f1ae43bec4356/screenshot-2025-10-10-at-7-57-12/_w1700.png",
+            "country": "JP",
+            "language": "en",
+            "org": [
+                "Science",
+                "SoraNews24"
+            ],
+            "summary": "Science, an Osaka-based bathroom fixture company, is introducing the 'Human Washer in the Future,' a pod-like human washing machine. Following positive feedback and orders from hotel operators, Science will install six units in Japanese hotels and leisure facilities and transfer the Expo 2025 display unit to its showroom in Shin Osaka Central Tower."
+        },
+        {
+            "published_date": "2025-10-13T20:36:43",
+            "title": "General Public Now Accessible: Nvidia Unveils Desktop AI Supercomputer for Broad Use",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/general-public-now-accessible-nvidia-unveils-desktop-ai-supercomputer-for-broad-use",
+            "url_media": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia",
+                "PNB",
+                "TIME Magazine"
+            ],
+            "summary": "Nvidia is launching its DGX Spark system on October 15, a desktop AI system designed to bring data center-level AI computing power to desktop workstations. The DGX Spark features the GB10 Grace blackwell Superchip, ConnectX-7 high-speed networking, and Nvidia's AI software suite, enabling startups, researchers, and developers to access industrial-grade compute capabilities for prototyping AI agents and fine-tuning large models."
+        },
+        {
+            "published_date": "2025-10-13T20:30:00",
+            "title": "TechForce Robotics Expands Live Pilot Network in Preparation for Commercial Rollout  Oct. 13, 2025 20:30",
+            "author": "",
+            "url": "https://www.taiwannews.com.tw/en/news/6219096",
+            "url_media": "https://ml.globenewswire.com/media/YzMyOTM0ZWItNmIyYy00NDFjLTk4NTMtYjk4YmM2ZGI0YmU3LTUwMDEyNTcxOS0yMDI1LTEwLTEzLWVu/tiny/Nightfood-Holdings-Inc-.png",
+            "country": "TW",
+            "language": "en",
+            "org": [
+                "TechForce Robotics",
+                "Nightfood Holdings, Inc",
+                "TechForce",
+                "Company",
+                "Nightfood",
+                "GLOBE NEWSWIRE",
+                "IBN",
+                "TechForce Robotics'",
+                "Nightfood Holdings, Inc.",
+                "NGTF"
+            ],
+            "summary": "TechForce Robotics, a subsidiary of Nightfood Holdings, is expanding its robotic live pilot programs beyond hospitality to include casinos, shopping malls, and other high-traffic areas. These pilot programs feature TechForce service robots and RoboOp365 performing tasks like cooking, laundry, and waste management, with plans for commercial rollout in Q1 2026."
+        },
+        {
+            "published_date": "2025-10-13T20:02:08",
+            "title": "Nvidia's desktop AI supercomputer now available to the general public",
+            "author": "Luke Juricic",
+            "url": "https://uk.finance.yahoo.com/news/nvidia-desktop-ai-supercomputer-now-200208812.html",
+            "url_media": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia",
+                "TIME Magazine",
+                "Dell Technologies",
+                "Nvidia.com"
+            ],
+            "summary": "Nvidia is launching DGX Spark, a pint-sized AI system described as a desktop supercomputer, on October 15th. This system, powered by the GB10 Grace Blackwell Superchip, is designed for AI development, prototyping, and local inference, offering data security and high performance without cloud reliance. Orders for the DGX Spark are opening on Nvidia.com and through select partners and retailers."
+        },
+        {
+            "published_date": "2025-10-13T20:00:00",
+            "title": "Checked Label Services Officially Launches CHECKED - A Game-Changing Creator and Influencer Agency",
+            "author": "Ein News",
+            "url": "https://census.einnews.com/pr_news/857337318/checked-label-services-officially-launches-checked-a-game-changing-creator-and-influencer-agency",
+            "url_media": "https://img.einnews.com/ampsize/971550/checked-label-services-banner.jpeg",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "CHECKED",
+                "Checked Label Services",
+                "Checked The Agency",
+                "Dove",
+                "Uber",
+                "Dyson",
+                "Adidas",
+                "Disney",
+                "Calvin Klein",
+                "L'Oréal",
+                "Coca-Cola",
+                "Meta",
+                "TikTok",
+                "YouTube",
+                "Snapchat"
+            ],
+            "summary": "Checked Label Services has launched CHECKED, a new creator and influencer agency. CHECKED aims to connect brands with talent to create impactful content, focusing on authenticity and data-driven strategies across platforms like Meta, TikTok, and YouTube."
+        },
+        {
+            "published_date": "2025-10-13T20:00:00",
+            "title": "Checked Label Services Officially Launches CHECKED - A Game-Changing Creator and Influencer Agency",
+            "author": "Ein News",
+            "url": "https://culture.einnews.com/pr_news/857337318/checked-label-services-officially-launches-checked-a-game-changing-creator-and-influencer-agency",
+            "url_media": "https://img.einnews.com/ampsize/971550/checked-label-services-banner.jpeg",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "CHECKED",
+                "Checked Label Services",
+                "Checked The Agency",
+                "Dove",
+                "Uber",
+                "Dyson",
+                "Adidas",
+                "Disney",
+                "Calvin Klein",
+                "L'Oréal",
+                "Coca-Cola",
+                "Meta",
+                "TikTok",
+                "YouTube",
+                "Snapchat"
+            ],
+            "summary": "Checked Label Services officially launched CHECKED, a creator and influencer agency, after 18 months of success. CHECKED aims to connect brands with creators, focusing on authenticity and data-driven strategies across platforms like Meta, TikTok, and YouTube. The agency specializes in assisting brands with new product launches and awareness campaigns."
+        },
+        {
+            "published_date": "2025-10-13T19:38:25",
+            "title": "Secret World App Launches New Self-Review Trust System, Letting Users Define Their Own Reputation First",
+            "author": "Ein News",
+            "url": "https://lifestyle.einnews.com/pr_news/857414194/secret-world-app-launches-new-self-review-trust-system-letting-users-define-their-own-reputation-first",
+            "url_media": "https://img.einnews.com/ampsize/971530/secretworld-appmap-screenshoton.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "EINPresswire.com"
+            ],
+            "summary": "Secret World App has launched a platform designed to connect freelancers, side hustlers, and small vendors with local opportunities. The app features an interactive map displaying opportunities as visible 'coins,' allowing users to post jobs, list services, and build their reputation. The platform aims to bring visibility to the real economy by creating a self-review trust system."
+        },
+        {
+            "published_date": "2025-10-13T19:38:25",
+            "title": "Secret World App Launches New Self-Review Trust System, Letting Users Define Their Own Reputation First",
+            "author": "Ein News",
+            "url": "https://africanamericans.einnews.com/pr_news/857414194/secret-world-app-launches-new-self-review-trust-system-letting-users-define-their-own-reputation-first",
+            "url_media": "https://img.einnews.com/ampsize/971530/secretworld-appmap-screenshoton.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "EINPresswire.com"
+            ],
+            "summary": "Secret World App has launched a new social exposure platform designed to connect individuals with local opportunities. The app features a live map displaying real-time tasks, hustles, and services, along with a self-review trust system to build user reputation. This launch aims to make the informal economy more visible and accessible."
+        },
+        {
+            "published_date": "2025-10-13T19:31:32",
+            "title": "Dyson's V12 Detect Slim vacuum is on sale for its lowest price yet",
+            "author": "Josie Howell",
+            "url": "https://www.al.com/shopping/2025/10/dysons-v12-detect-slim-vacuum-is-on-sale-for-its-lowest-price-yet.html",
+            "url_media": "https://www.al.com/resizer/v2/M4IXI6I3EZFQXGQT6PAX76LRUU.jpg?auth=9f2ef19d9c4c5811e01c1334f3d41ea9718c7cb1f5be57856642299ddba3f129&width=1280&smart=true&quality=90",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Dyson",
+                "Walmart",
+                "Amazon",
+                "Dyson.com"
+            ],
+            "summary": "Dyson is offering its V12 Detect Slim cordless vacuum for $399, a $330 discount from its original price of $729. This model features 150 Air Watts of suction, a 60-minute runtime, laser dust detection, and a hair-de-tangling motorbar. Walmart is also selling the same Dyson model at the same sale price."
+        },
+        {
+            "published_date": "2025-10-13T19:00:00",
+            "title": "Papa Johns Canada Brings Back the Butter Chicken Pizza  Oct. 13, 2025 19:00",
+            "author": "",
+            "url": "https://www.taiwannews.com.tw/en/news/6218984",
+            "url_media": "https://ml.globenewswire.com/Resource/Download/03f1ef1e-ec59-45b3-bbda-b5c561a19773",
+            "country": "TW",
+            "language": "en",
+            "org": [
+                "Papa Johns",
+                "Papa Johns'",
+                "Papa Johns Canada",
+                "Taiwan News",
+                "GlobeNewswire",
+                "GLOBE NEWSWIRE",
+                "Papa John's International, Inc",
+                "John's International"
+            ],
+            "summary": "Papa Johns Canada reintroduced the Butter Chicken Pizza, featuring a unique sauce, grilled chicken, green peppers, and onions on fresh dough. Available at participating locations, the pizza is priced at $19.99."
+        },
+        {
+            "published_date": "2025-10-13T18:56:00",
+            "title": "Wiwynn Debuts Double-Wide Rack Architecture for Next‑Generation AI at OCP Global Summit 2025",
+            "author": "The Facts",
+            "url": "https://article.wn.com/view/2025/10/13/Wiwynn_Debuts_DoubleWide_Rack_Architecture_for_Next_Generati_c",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "PRNewswire"
+            ],
+            "summary": "Wiwynn, an innovative cloud IT provider, is mentioned."
+        },
+        {
+            "published_date": "2025-10-13T18:49:46",
+            "title": "Need More Product Imagery? This New AI Solution Could be the Answer for Cheaper Lifestyle Photos - Gifts & Decorative Accessories",
+            "author": "Lenise Willis",
+            "url": "https://lifestyle.einnews.com/article_detail/857924050/nIbvvDlsRncmrkXW",
+            "url_media": "https://www.giftsanddec.com/wp-content/uploads/sites/12/2023/05/Artificial-Intelligence-human-hand-touching-digital-hand-stock-image.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "WizCommerce",
+                "Catalyst Club"
+            ],
+            "summary": "WizCommerce has launched WizStudio, an AI-powered solution designed to generate realistic lifestyle imagery for retailers and wholesalers. WizStudio enables users to create product and lifestyle images from raw product photography, eliminating the need for traditional photoshoots and reducing costs. It will be showcased at High Point Market."
+        },
+        {
+            "published_date": "2025-10-13T18:40:15",
+            "title": "Greater New Orleans Web Design Services  Click Media Launches Next-Gen Solutions",
+            "author": "Ein News",
+            "url": "https://g20.einnews.com/pr_news/857886118/new-orleans-la-greater-new-orleans-web-design-services-click-media-launches-next-gen-solutions",
+            "url_media": "https://img.einnews.com/ampsize/972401/click-media-llc.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "Click Media",
+                "Media",
+                "Click Media Click Media",
+                "EINPresswire.com",
+                "Click MediaClick Media"
+            ],
+            "summary": "Click Media has launched its Web Design Services in New Orleans, offering modern, accessible, and scalable websites for organizations in the Greater New Orleans area. The service combines West Coast engineering with local creatives to deliver fast, secure, and SEO-ready websites, focusing on speed, accessibility, mobile-first performance, search-ready structure, scalable content operations, and data/AI integration."
+        },
+        {
+            "published_date": "2025-10-13T18:08:57",
+            "title": "New Yeti Moon Dust collection brings unique glittery textured finish to beloved gear",
+            "author": "Ashley Palya",
+            "url": "https://www.cleveland.com/shopping/2025/10/new-yeti-moon-dust-collection-brings-unique-glittery-textured-finish-to-beloved-gear.html",
+            "url_media": "https://www.cleveland.com/resizer/v2/43QD6TVOIBHMRJAI32D3FWU5G4.png?auth=f0bc523ff34257919068ecbe5040792100b5d71c311b1b3aa18837bf7a1282c3&width=1280&smart=true&quality=90",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Yeti"
+            ],
+            "summary": "Yeti has launched a limited-edition \"Moon Dust\" collection, featuring a textured, glitter-like finish on drinkware and coolers to improve grip. The collection includes products like the Rambler Stackable Mug, Roadie Hard Cooler, and Rambler Water Bottle. Yeti also offers customization options for the Moon Dust products."
+        },
+        {
+            "published_date": "2025-10-13T18:00:52",
+            "title": "We tested 17 dry shampoos. These 3 were our favorites for extending the life of our hair",
+            "author": "Jillian Tracy",
+            "url": "https://www.cnn.com/cnn-underscored/reviews/best-dry-shampoos",
+            "url_media": "https://media.cnn.com/api/v1/images/stellar/prod/best-dry-shampoo-cnnu01.jpg?c=16x9&q=w_800,c_fill",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "CNN Underscored",
+                "Living Proof",
+                "Batiste"
+            ],
+            "summary": "The article introduces and reviews several dry shampoo products, including Living Proof Perfect Hair Day Dry Shampoo, Batiste Original Dry Shampoo, Dae Fairy Duster Dry Shampoo, Crown Affair The Refillable Dry Shampoo, Dove Beauty Volume and Fullness Dry Shampoo, Amika Perk Up Talc-Free Dry Shampoo, Oribe Gold Lust Dry Shampoo, Oribe Serene Scalp Oil Control Dry Shampoo Powder, Ouai Super Dry Invisible Dry Shampoo, Drybar Detox Dry Shampoo, Verb Dry Shampoo for Dark Hair, Odele Dry Shampoo Powder, Kristin Ess Style Reviving Dry Shampoo, Hask Charcoal Purifying Dry Shampoo, Moroccanoil Dry Shampoo Light Tones, JVN Perfect The Essential Dry Shampoo and K18 Biomimetic Hairscience AirWash Dry Shampoo. These products were tested by CNN Underscored editors to determine their performance, value, and ease of use."
+        },
+        {
+            "published_date": "2025-10-13T18:00:25",
+            "title": "Google Pixel 10 Pro Fold review: features, specs and verdict",
+            "author": "Abha Shah",
+            "url": "https://www.standard.co.uk/shopping/esbest/gadgets-tech/phones/pixel-10-pro-fold-smartphone-review-b1252675.html",
+            "url_media": "https://static.standard.co.uk/2025/10/13/16/46/Google-Pixel-10-Pro-Lifestyle-Moonstone2.png?width=1200&auto=webp&quality=75",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Google",
+                "Samsung"
+            ],
+            "summary": "Google's Pixel 10 Pro Fold, featuring high-quality cameras, multitasking capabilities, and an IP68 durability rating, is designed to compete with Samsung. Following the release of the Pixel 10 Pro Fold, the price of its predecessor, the Pixel Fold 9, has decreased."
+        },
+        {
+            "published_date": "2025-10-13T18:00:16",
+            "title": "Google has a better photos app that only works offline",
+            "author": "Digvijay Kumar",
+            "url": "https://www.makeuseof.com/google-has-a-better-photos-app-that-only-works-offline",
+            "url_media": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/a-person-holding-a-smartphone-and-editing-a-photo-in-an-offline-gallery-app.jpeg?w=1600&h=900&fit=crop",
+            "country": "CA",
+            "language": "en",
+            "org": [
+                "Google",
+                "Google LLC"
+            ],
+            "summary": "Google launched a new gallery application called \"Gallery\" that works offline and manages local photos without requiring an account or sync. It offers functionalities like quick browsing, space clearing, and editing and focuses on device-centric photo management, offering a faster and less distracting experience than cloud-based alternatives like Google Photos."
+        },
+        {
+            "published_date": "2025-10-13T17:56:22",
+            "title": "Channel Your Inner Gilmore Girl With This Coffee Generator",
+            "author": "Avalon Lustick",
+            "url": "https://www.buzzfeed.com/avalonlustick/coffee-generator",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/09/19/thumb/lxV1GDwWR.jpg?crop=3000:1571;0,41%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "BuzzFeed"
+            ],
+            "summary": "Cozy Coffee Maker allows users to create both hot and iced coffee beverages with various customizations. BuzzFeed community members are invited to share their coffee creations in the comments section."
+        },
+        {
+            "published_date": "2025-10-13T17:55:47",
+            "title": "Luffa Appoints Esra Ozturk as Head of Product to Lead the Next Era of Fan Loyalty Innovation",
+            "author": "New Media Wire",
+            "url": "https://finance.yahoo.com/news/luffa-appoints-esra-ozturk-head-175547255.html",
+            "url_media": "https://media.zenfs.com/en/newsmediawire_165/dd0e2f7975cc241d6ba6bbedae7658a0",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Luffa",
+                "NEWMEDIAWIRE",
+                "Meta",
+                "Uber",
+                "Zillow",
+                "Instacart",
+                "Snapchat",
+                "Esra",
+                "UMusic Hotel Madrid"
+            ],
+            "summary": "Luffa appointed Esra Ozturk as Head of Product and is building a universal loyalty infrastructure. Luffa will expand messaging into a connected rewards ecosystem and scale its secure messaging infrastructure, introducing its loyalty and rewards layer, and expanding partnerships across entertainment, hospitality, and live events."
+        },
+        {
+            "published_date": "2025-10-13T17:47:29",
+            "title": "North Direct Announces Expansion of Brokerage Services and Market Role",
+            "author": "Daniel Hyman",
+            "url": "https://markets.businessinsider.com/news/currencies/north-direct-announces-expansion-of-brokerage-services-and-market-role-1035340014",
+            "url_media": "https://app.chainwire.org/storage/uploads/users/ezgif-11fa21251a649e_17603494554vJHAyw9im.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "North Direct"
+            ],
+            "summary": "North Direct expands its brokerage services, providing investors with a platform that is accessible, easy-to-use and efficient. The company's proprietary platform offers multiple asset class access and tools for both new and experienced traders. North Direct's web-based trading platform is available on desktop and mobile devices."
+        },
+        {
+            "published_date": "2025-10-13T17:40:51",
+            "title": "This affordable dehumidifier from Lidl can also dry clothes",
+            "author": "Alice Reynolds",
+            "url": "https://www.newsbreak.com/the-independent-517119/4289610603305-this-affordable-dehumidifier-from-lidl-can-also-dry-clothes",
+            "url_media": "https://www.newsbreak.com/the-independent-517119/4289610603305-this-affordable-dehumidifier-from-lidl-can-also-dry-clothes",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "Lidl"
+            ],
+            "summary": "Lidl is launching the Tronic dehumidifier in its stores on October 16th, priced at £74.99. This product aims to reduce laundry-drying times and lower energy bills by removing moisture from the air, offering a cost-effective alternative to tumble dryers."
+        },
+        {
+            "published_date": "2025-10-13T17:22:29",
+            "title": "Nvidia Launches Spark: $3,000 Desk-Sized AI Supercomputers for All",
+            "author": "Web Pro News",
+            "url": "https://ground.news/article/nvidia-launches-spark-3-000-desk-sized-ai-supercomputers-for-all",
+            "url_media": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Fassets%2FletterIcons%2Fsquare%2FFF6D00%2FS.png%3Fwidth%3D48%26saturation%3D-100&w=128&q=75",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia Corp.",
+                "The Verge"
+            ],
+            "summary": "Nvidia Corp. launched its Spark personal AI supercomputers, which are now available for purchase. The Spark series aims to democratize high-powered computing, enabling individual users and small teams to utilize datacenter-level performance. "
+        },
+        {
+            "published_date": "2025-10-13T17:11:00",
+            "title": "Pixel 10 Pro XL Review: Googleâs best phone",
+            "author": "Sourabh Kulesh",
+            "url": "https://timesofindia.indiatimes.com/technology/reviews/pixel-10-pro-xl-review-googles-best-phone/articleshow/124532749.cms",
+            "url_media": "https://static.toiimg.com/thumb/msid-124533002,width-1070,height-580,imgsize-125644,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Google",
+                "Googleâ"
+            ],
+            "summary": "Google has introduced the Pixel 10 Pro XL, its latest flagship smartphone, featuring the new Tensor G5 chipset and enhanced AI capabilities. The phone is priced at Rs 1,24,999 for the 256GB variant and boasts features such as Camera Coach and Pro Res 100x zoom. Google promises seven years of OS, security, and Pixel Drop updates for the device."
+        },
+        {
+            "published_date": "2025-10-13T17:00:00",
+            "title": "Nvidia's ‘personal AI supercomputer' is now available to buy",
+            "author": "Robert Hart",
+            "url": "https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer",
+            "url_media": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25822628/PXL_20250108_162058411.jpg?quality=90&strip=all&crop=0%2C15.226825767778%2C100%2C69.546348464445&w=1200",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia",
+                "Asus",
+                "Dell",
+                "HP",
+                "nvidia.com",
+                "AI",
+                "News",
+                "Tech"
+            ],
+            "summary": "Nvidia is launching its DGX Spark 'personal AI supercomputer' this week, available on Nvidia.com and select partners. Spark features Nvidia's GB10 Grace Blackwell Superchip, and is designed for researchers and data scientists, priced around $3,000. Asus, Dell, and HP are also developing their own versions of Spark."
+        },
+        {
+            "published_date": "2025-10-13T17:00:00",
+            "title": "Blazer Browser Launches as AI-Powered, Privacy-First Alternative to Traditional Browsers",
+            "author": "Timothy Alexander",
+            "url": "https://www.mychesco.com/a/news/regional/blazer-browser-launches-as-ai-powered-privacy-first-alternative-to-traditional-browsers",
+            "url_media": "https://i0.wp.com/www.mychesco.com/wp-content/uploads/2025/10/Blazer-Browser.jpg?fit=735%2C400&ssl=1",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "MyChesCo",
+                "Google News",
+                "MSN"
+            ],
+            "summary": "Blazer Browser officially launched on October 8, 2025, as a next-generation web browser merging speed, privacy, and AI. The browser offers Chrome extension compatibility, AI-driven productivity features, and privacy protections and is now available for free download."
+        },
+        {
+            "published_date": "2025-10-13T16:41:17",
+            "title": "[News Today] ‘Quick commerce' competition heats up",
+            "author": "KBS",
+            "url": "https://n.news.naver.com/mnews/article/056/0012045436",
+            "url_media": "https://imgnews.pstatic.net/image/056/2025/10/13/0012045436_001_20251013164410852.png?type=w800",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "KBS",
+                "Ajou Univ",
+                "kbs.co.kr",
+                "네이버"
+            ],
+            "summary": "Various retailers in Korea are launching 'quick commerce' services, offering delivery within one to three hours. This includes grocery stores, household goods stores (test-operating in Gangnam area), and bedding brands (partnering with delivery apps) that provide quick delivery options to meet customer demands such as fall fashion accessories, fluffy slippers, fishing equipment and bedding."
+        },
+        {
+            "published_date": "2025-10-13T16:31:03",
+            "title": "Wiwynn Debuts Double-Wide Rack Architecture for Next‑Generation AI at OCP Global Summit 2025",
+            "author": "Pr Newswire",
+            "url": "https://www.manilatimes.net/2025/10/14/tmt-newswire/pr-newswire/wiwynn-debuts-double-wide-rack-architecture-for-nextgeneration-ai-at-ocp-global-summit-2025/2199805",
+            "url_media": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/14/781216.jpg",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "Wiwynn",
+                "Facebook",
+                "Linkedin"
+            ],
+            "summary": "Wiwynn is showcasing its innovations at OCP 2025 (Booth B13, San Jose Convention Center), inviting attendees to join engineering workshop sessions and download whitepapers. The company is highlighting its next-generation technologies aimed at providing optimized IT solutions for cloud to edge, focusing on AI infrastructure and data center technologies."
+        },
+        {
+            "published_date": "2025-10-13T16:30:46",
+            "title": "How business leaders can benefit from the AI in their pockets",
+            "author": "Alex Katouzian",
+            "url": "https://www.fastcompany.com/91420396/how-business-leaders-can-benefit-from-the-ai-in-their-pockets",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/10/EDITED-FC-Executive-Board-Templates-52.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Microsoft",
+                "OpenAI"
+            ],
+            "summary": "The article discusses the evolution of AI from cloud-based to on-device processing, highlighting the advantages of speed, privacy, and always-available AI. New mobile and PC platforms are equipped with high-performance NPUs, enabling them to run large language models and generative AI tools directly on the devices, enhancing productivity and innovation for business users."
+        },
+        {
+            "published_date": "2025-10-13T16:30:35",
+            "title": "Sidewalk advertising company opens in central Pa.",
+            "author": "Penn Live",
+            "url": "https://article.wn.com/view/2025/10/13/Sidewalk_advertising_company_opens_in_central_Pa",
+            "url_media": "https://ecdn4.wn.com/or/assets/assets/wn/img/logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Wash"
+            ],
+            "summary": "Stencil Wash, a new company in Lancaster County, has launched a sidewalk stencil advertisement service. The company designs stencils with logos, slogans, or promotional calls-to-action and power washes sidewalks to create the advertisements, helping local businesses promote themselves."
+        },
+        {
+            "published_date": "2025-10-13T16:04:05",
+            "title": "Readdy turns websites into 24/7 intelligent business partners",
+            "author": "Ascend Agency",
+            "url": "https://business.einnews.com/article_detail/857852535/yVWnOgJLHhW3edUl",
+            "url_media": "https://ntvassets-a.akamaihd.net/BA04B754D11344A0A7FC35CAE2339F60.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "Readdy",
+                "Studio 1847"
+            ],
+            "summary": "Readdy has launched Readdy Agent, an AI-powered feature that transforms websites into active business partners. This new feature enables websites to interact with visitors, respond to inquiries, and assist with transactions, providing businesses with a 24/7 intelligent agent. Readdy Agent aims to provide an affordable and smart online presence, revolutionizing how small businesses engage with their customers."
+        },
+        {
+            "published_date": "2025-10-13T16:00:59",
+            "title": "Tubing mascaras are trending: here's how they will elevate your eye makeup game",
+            "author": "Rose Beer",
+            "url": "https://ca.style.yahoo.com/tubing-mascaras-trending-elevate-eye-160059157.html",
+            "url_media": "https://media.zenfs.com/en/evening_standard_239/daf9e29a5c376c1143d1748ee8398474",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "meritbeauty.com",
+                "cultbeauty.co.uk",
+                "sephora.co.uk",
+                "Beauty Pie",
+                "beautypie.com"
+            ],
+            "summary": "Several companies are introducing or highlighting their tubing mascara products. Hourglass Unlocked Instant Extensions Mascara is noted for delivering instant results. Blink Brow Bar London launched the Lash Lift Mascara, emphasizing its buildable formula. Beauty Pie promotes the Wrap Star Tubing Mascara for its glossy finish."
+        },
+        {
+            "published_date": "2025-10-13T15:30:52",
+            "title": "How Antler-backed Forti Foods keeps jollof rice, other dishes fresh for a year",
+            "author": "Royal Ibeh",
+            "url": "https://businessday.ng/life/article/how-antler-backed-forti-foods-keeps-jollof-rice-other-dishes-fresh-for-a-year",
+            "url_media": "https://cdn.businessday.ng/wp-content/uploads/2025/10/Antler-backed-Forti-Foods-1.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Forti Foods",
+                "Antler",
+                "BusinessDay",
+                "Antler Africa",
+                "Cafe NG",
+                "Forti Foods'"
+            ],
+            "summary": "Forti Foods is launching a new product line called 'Chops by Forti Foods' aimed at consumers seeking convenient and nutritious meals for various occasions. This expansion into the retail market follows the company's initial focus on ready-to-eat meals for the defense and emergency response sectors. The new product line targets travel, office lunches, and home use."
+        },
+        {
+            "published_date": "2025-10-13T15:06:00",
+            "title": "Tyra Banks says she's bringing her mysterious 'hot' ice cream to New York. But, like, ...",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/10/13/Tyra_Banks_says_shes_bringing_her_mysterious_hot_ice_cream_t",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Supermodel Tyra Banks launched a new ice cream brand called Smize & Dream. This brand introduces a novel concept: hot ice cream."
+        },
+        {
+            "published_date": "2025-10-13T15:01:02",
+            "title": "If You've Officially Entered Your Adult Era, You Should Own These 26 Practical Walmart Products",
+            "author": "Emily Shwake",
+            "url": "https://www.buzzfeed.com/emilyshwake/if-youve-officially-entered-your-adult-era-you-should-own-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/09/21/thumb/RzWzlq2Ah-.jpg?crop=1245:830;3,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The article presents a curated selection of new and notable consumer products designed to enhance daily life. These include practical items like a Pantene Pro-V Volume and Body Shampoo to break down oils, a laundry cart for anyone who waits until they're down to their last pair of socks before tackling laundry day, and a damp duster for clean sinks, baseboards, mirrors. These items are available at various price points and aim to provide innovative solutions for common household and personal care needs."
+        },
+        {
+            "published_date": "2025-10-13T15:00:00",
+            "title": "\"That ain't steak\": Woman tries Arby's new Steak Nuggets. She says they taste like \"burnt dog food\"",
+            "author": "Anna Good",
+            "url": "https://www.dailydot.com/news/arbys-customer-compares-steak-nuggets-dog-food",
+            "url_media": "https://uploads.dailydot.com/2025/10/arbys-steak-nuggets-.jpg?auto=compress&fm=pjpg&w=2000&h=1000",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Arby's",
+                "TikTok",
+                "Reddit",
+                "Daily Dot",
+                "An Arby",
+                "ABC News",
+                "Arby",
+                "abrys"
+            ],
+            "summary": "Arby's introduced its new Steak Nuggets, described as 'tender, juicy, hand-cut, bite-sized morsels of steak seasoned with garlic and pepper.' The company had previously tested the Steak Nuggets locally and saw positive responses, leading to a national launch."
+        },
+        {
+            "published_date": "2025-10-13T14:46:38",
+            "title": "I'm a tech critic and these are the best iPhone 17 Pro and Pro Max cases",
+            "author": "David Phelan",
+            "url": "https://www.newsbreak.com/the-independent-517119/4289336941470-i-m-a-tech-critic-and-these-are-the-best-iphone-17-pro-and-pro-max-cases",
+            "url_media": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2KDhfS_15c1fnpg00",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "Apple",
+                "The Independent",
+                "IndyBest"
+            ],
+            "summary": "The article reviews various new iPhone 17 Pro and Pro Max cases from companies like Apple, Nomad, Snakehive, Mous, and Beats.  These cases offer different levels of protection, design aesthetics, and features like camera control covers and MagSafe compatibility, with Nomad's modern leather case being highlighted as the best overall."
+        },
+        {
+            "published_date": "2025-10-13T14:05:00",
+            "title": "FADEL Unveils Next Chapter in AI Innovation with Agentic Automation on AWS Bedrock",
+            "author": "FADEL",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/fadel-unveils-next-chapter-in-ai-innovation-with-agentic-automation-on-aws-bedrock/article_a28fc650-dd3b-50a7-8123-8083afdc6dae.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "PRNewswire",
+                "FADEL ®",
+                "FADEL",
+                "AWS"
+            ],
+            "summary": "FADEL, a global provider of AI-driven brand compliance and licensing software, has unveiled FADEL solutions powered by agentic AI, built on the AWS Bedrock Agentic AI platform. This new offering introduces advanced intelligent automation to enhance speed, insight, and efficiency in licensing and marketing workflows."
+        },
+        {
+            "published_date": "2025-10-13T13:57:00",
+            "title": "L'Officiel Hommes's Launch in Hong Kong SAR",
+            "author": "AMTD Digital",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/joint_ventures/lofficiel-hommess-launch-in-hong-kong-sar/article_86d6f8fd-a93e-509a-8beb-cde935d48396.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/99/d99a63de-6a51-5ee4-af76-e425fb8c3e06/68ed0a11cb9a6.image.jpg?crop=1080%2C567%2C0%2C416",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Group",
+                "PRNewswire",
+                "AMTD Group Inc",
+                "AMTD",
+                "The Generation Essentials Group",
+                "TGE",
+                "AMTD Digital",
+                "L'Officiel Hommes"
+            ],
+            "summary": "AMTD Group Inc., alongside The Generation Essentials Group, has officially launched L'Officiel Hommes in Hong Kong SAR. This launch represents a new product introduction by the companies in the specified market."
+        },
+        {
+            "published_date": "2025-10-13T13:52:27",
+            "title": "du launches AI Park and National Hybrid AI at GITEX 2025 to accelerate UAE\\u0027s sovereign AI ambitions",
+            "author": "Al Bawaba",
+            "url": "https://article.wn.com/view/2025/10/13/du_launches_AI_Park_and_National_Hybrid_AI_at_GITEX_2025_to_",
+            "url_media": "https://ecdn4.wn.com/or/assets/assets/wn/img/logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "du"
+            ],
+            "summary": "du, a telecom and digital services provider, launched du's AI Park. This initiative aims to power the UAE's digital future."
+        },
+        {
+            "published_date": "2025-10-13T13:49:47",
+            "title": "How to Get AI to Recommend and Cite Your Brand",
+            "author": "Omri Shtayer",
+            "url": "https://www.adweek.com/webinars/how-to-get-ai-to-recommend-and-cite-your-brand",
+            "url_media": "https://static-www.adweek.com/wp-content/uploads/2025/10/Similarweb-Webinar-110525-Header-v3.jpg?w=600&h=300&crop=1",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Similarweb",
+                "ChatGPT"
+            ],
+            "summary": "Similarweb provides insights on which companies and services ChatGPT cites, links to, and recommends. The session aims to help companies understand how consumers use AI for brand discovery and how to optimize their presence in AI-driven recommendations. It also covers identifying prompts and content that drive citations."
+        },
+        {
+            "published_date": "2025-10-13T13:46:38",
+            "title": "I'm a tech critic and these are the best iPhone 17 Pro and Pro Max cases",
+            "author": "David Phelan",
+            "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/phones-accessories/best-iphone-17-pro-max-case-b2843358.html",
+            "url_media": "https://static.independent.co.uk/2025/10/10/16/33/Best-iPhone-17-pro-and-pro-max-cases-IndyBest-review.png?width=1200&height=800&crop=1200:800",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Apple",
+                "The Independent",
+                "IndyBest"
+            ],
+            "summary": "Apple's iPhone 17 Pro and Pro Max have been released. The content focuses on reviewing and recommending phone cases for the new iPhone 17 Pro and Pro Max, highlighting options from Nomad, Snakehive, Mous, and Apple, with each case offering different features like protection, design, and budget-friendliness."
+        },
+        {
+            "published_date": "2025-10-13T13:35:57",
+            "title": "Motorola Edge 60 Neo: Launching Soon with Flagship Features Under Rs. 25,000",
+            "author": "Focus",
+            "url": "https://www.livemint.com/focus/motorola-edge-60-neo-launching-soon-with-flagship-features-under-rs-25000-11760362329362.html",
+            "url_media": "https://www.livemint.com/lm-img/img/2025/10/13/1600x900/Motor_1760362519792_1760362528795.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "motorola",
+                "Bajaj Finserv",
+                "MediaTek"
+            ],
+            "summary": "Motorola is launching the Edge 60 Neo in India this October, with an expected price under Rs. 25,000. The phone features a MediaTek Dimensity 7400 processor, a triple-camera setup, a 6.36-inch LTPO pOLED display, and a 5200mAh battery with 68W wired and 15W wireless charging. Bajaj Finserv offers affordable EMI options to make the phone more accessible."
+        },
+        {
+            "published_date": "2025-10-13T13:22:50",
+            "title": "Brantford India Launches Smart Real Estate Marketing Platform to Help Channel Partners and Developers Grow",
+            "author": "Ein News",
+            "url": "https://fairtrade.einnews.com/pr_news/857731160/brantford-india-launches-smart-real-estate-marketing-platform-to-help-channel-partners-and-developers-grow",
+            "url_media": "https://img.einnews.com/ampsize/971895/real-estate-marketing-platform.jpeg",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "Brantford India"
+            ],
+            "summary": "Brantford India has launched an all-in-one real estate marketing platform designed for developers and agents in India's Tier 2 and Tier 3 markets. This platform offers tools such as SMS and WhatsApp campaign management, social media toolkits, and AI content generation to enhance digital marketing efforts and accelerate sales growth for real estate professionals."
+        },
+        {
+            "published_date": "2025-10-13T13:22:50",
+            "title": "Brantford India Launches Smart Real Estate Marketing Platform to Help Channel Partners and Developers Grow",
+            "author": "Ein News",
+            "url": "https://g20.einnews.com/pr_news/857731160/brantford-india-launches-smart-real-estate-marketing-platform-to-help-channel-partners-and-developers-grow",
+            "url_media": "https://img.einnews.com/ampsize/971895/real-estate-marketing-platform.jpeg",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "Brantford India"
+            ],
+            "summary": "Brantford India has launched an all-in-one real estate marketing platform targeted at developers and agents in Tier 2 and Tier 3 cities in India. The platform offers tools for SMS and WhatsApp campaigns, social media management, AI content generation, and integrated CRM to streamline digital marketing efforts and enhance brand visibility for real estate professionals."
+        },
+        {
+            "published_date": "2025-10-13T13:00:03",
+            "title": "Elon Musk gambles on sexy AI companions",
+            "author": "Kate Conger",
+            "url": "https://www.seattletimes.com/business/elon-musk-gambles-on-sexy-ai-companions",
+            "url_media": "https://images.seattletimes.com/wp-content/uploads/2025/10/10092025_Sexy-Chatbots_tzr_100532.jpg?d=1200x630",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "xAI",
+                "OpenAI",
+                "Replika",
+                "Meta",
+                "Center for Humane Technology"
+            ],
+            "summary": "Elon Musk's xAI launched Ani and Valentine, two sexually explicit chatbot companions, within the Grok app. These AI characters offer gamified interactions, unlocking increasingly raunchy content as users engage, with features like customizable outfits and voice chat. The chatbots are available to users over 18 and aim to provide companionship and emotional attachment."
+        },
+        {
+            "published_date": "2025-10-13T13:00:00",
+            "title": "This new AI technique creates ‘digital twin' consumers, and it could kill the traditional survey industry",
+            "author": "News Feed Editor",
+            "url": "https://rocketnews.com/2025/10/this-new-ai-technique-creates-digital-twin-consumers-and-it-could-kill-the-traditional-survey-industry",
+            "url_media": "https://rocketnews.com/wp-content/uploads/2022/03/cropped-RocketNews-icon-logo-32x32.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "arXiv"
+            ],
+            "summary": "A research paper introduces a new method called Semantic Similarity Rating (SSR) that allows large language models (LLMs) to simulate human consumer behavior for market research. SSR prompts the LLM for textual opinions on a product, which are then converted into numerical vectors and measured against pre-defined reference statements to predict ratings. This method has been tested against data from a leading personal care corporation showing promising results for companies seeking to understand consumer preferences of their products."
+        },
+        {
+            "published_date": "2025-10-13T12:56:14",
+            "title": "Tyra Banks Set to Launch Enigmatic 'Hot Ice Cream' in NYC: What's the Scoop?",
+            "author": "",
+            "url": "https://www.archyde.com/tyra-banks-set-to-launch-enigmatic-hot-ice-cream-in-nyc-whats-the-scoop",
+            "url_media": "https://i.insider.com/68ec03d5cc993f9955d00b4b?width=1200&format=jpeg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Smize & dream",
+                "Smize & Dream"
+            ],
+            "summary": "Tyra Banks is launching 'Hot Ice Cream' under her company, Smize & Dream. The launch is slated for November 15, 2025, at 147 Wooster Street in SoHo, Manhattan, with an expected price range of $12-$20 per serving. The core concept revolves around a flash-frozen element combined with a warm component, creating a novel ice cream experience."
+        },
+        {
+            "published_date": "2025-10-13T12:51:14",
+            "title": "Samsung W26 launched in China, know specs, price and availability",
+            "author": "Pratyay",
+            "url": "https://kalingatv.com/technology/samsung-w26-launched-in-china-know-specs-price-and-availability",
+            "url_media": "https://www.kalingatv.com/wp-content/uploads/2025/03/cropped-Ktv-Logo-512.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "China Telecom"
+            ],
+            "summary": "Samsung has launched the W26 foldable smartphone in China, which is similar to the Galaxy Z Fold7 with cosmetic and hardware upgrades. The W26 features up to 16GB of RAM, up to 1TB of storage, and satellite connectivity for calling and messaging via the Tiantong system. The smartphone is available in red and black colors with gold accents, and is priced starting from CNY 16,999."
+        },
+        {
+            "published_date": "2025-10-13T12:45:01",
+            "title": "Tyra Banks says she's bringing her mysterious 'hot' ice cream to New York. But, like, what is it exactly?",
+            "author": "Lauren Edmonds",
+            "url": "https://www.businessinsider.com/tyra-banks-hot-mama-hot-ice-cream-smize-dream-nyc-2025-10",
+            "url_media": "https://i.insider.com/68ec03d5cc993f9955d00b4b?width=1200&format=jpeg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Smize & Dream",
+                "Business Insider",
+                "TikTok"
+            ],
+            "summary": "Tyra Banks' ice cream company, Smize & Dream, has launched a new product called Hot Mama, a warm, sippable ice cream dessert.  Developed over a year, it aims to recreate the ice cream experience in a liquid form, served in a 3D cup. The product has been initially released in Sydney with plans to expand to New York."
+        },
+        {
+            "published_date": "2025-10-13T12:40:26",
+            "title": "Smart Homes Get Smarter: Ovox R8 Window Cleaning Robot Expands to the U.S. and Australia",
+            "author": "Newsfile",
+            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/35406045/smart-homes-get-smarter-ovox-r8-window-cleaning-robot-expands-to-the-u-s-and-australia",
+            "url_media": "https://images.newsfilecorp.com/files/8871/269188_yahoo_finance_550.jpg",
+            "country": "CA",
+            "language": "en",
+            "org": [
+                "Ovox",
+                "Newsfile Corp."
+            ],
+            "summary": "Ovox has launched its flagship window cleaning robot, Ovox R8, in the United States and Australia after its successful debut in Europe. The Ovox R8 automates window cleaning with features like rotating pads, dual spray nozzles, and intelligent surface adaptation, saving users time and improving safety."
+        },
+        {
+            "published_date": "2025-10-13T12:34:36",
+            "title": "Slack Transforms Slackbot into an Intelligent AI Helper",
+            "author": "Internewscast",
+            "url": "https://internewscast.com/tech/slack-transforms-slackbot-into-an-intelligent-ai-helper",
+            "url_media": "https://internewscast.com/wp-content/uploads/2025/10/Slack-is-turning-Slackbot-into-an-AI-assistant.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Slack",
+                "The Verge",
+                "internewscast.com",
+                "Facebook",
+                "Reddit",
+                "Pinterest",
+                "Amazon Web Services'",
+                "Salesforce"
+            ],
+            "summary": "Slack is testing an upgraded, AI-enhanced Slackbot designed to function as a personalized AI assistant. The revamped Slackbot can compile product launch plans by gathering data from various Slack channels and assist in crafting social media campaigns. The upgraded Slackbot is available for 70,000 employees at Salesforce, and now the company is testing it with other customers as well."
+        },
+        {
+            "published_date": "2025-10-13T12:32:00",
+            "title": "Connectbase Announces Upcoming Launch of GPU-as-a-Service (GPUaaS) Commerce",
+            "author": "Dayang Norazhar",
+            "url": "https://themalaysianreserve.com/2025/10/13/connectbase-announces-upcoming-launch-of-gpu-as-a-service-gpuaas-commerce-federating-connectivity-and-compute-to-power-the-ai-economy",
+            "url_media": "https://www.facebook.com/tr?id=283031649327915&ev=PageView&noscript=1",
+            "country": "MY",
+            "language": "en",
+            "org": [
+                "Connectbase",
+                "PRNewswire",
+                "TSDs"
+            ],
+            "summary": "Connectbase is launching GPU-as-a-Service (GPUaaS) within its Federated Ecosystem Fabric, expanding its platform beyond connectivity. This service will enable providers, MSPs, carriers, and distributors to digitize and monetize GPU capacity, creating a unified foundation for AI-driven services and opening new revenue pathways across the ecosystem."
+        },
+        {
+            "published_date": "2025-10-13T12:31:02",
+            "title": "33 Hidden Gems On Amazon That Will Deal With A Ton Of Your Problems",
+            "author": "Melanie Aman",
+            "url": "https://www.buzzfeed.com/melanie_aman/hidden-gems-amazon-that-will-deal-with-a-ton-of-your-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-08/27/17/thumb/BytqvuBuJ.jpg?crop=1245:830;3,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The article showcases a variety of newly introduced products designed to address everyday inconveniences, including household items like a kitchen island with storage, a spice rack, and a Ticonderoga Sensematic mechanical pencil, as well as beauty and personal care items like a No Makeup Makeup cream-balm foundation, a self-tanner finishing powder, and Brushies silicone baby toothbrushes.  These items are presented as innovative solutions intended to simplify tasks and improve convenience."
+        },
+        {
+            "published_date": "2025-10-13T12:30:00",
+            "title": "TechForce Robotics Expands Live Pilot Network in Preparation for Commercial Rollout",
+            "author": "Nightfood Holdings Inc.",
+            "url": "https://finance.yahoo.com/news/techforce-robotics-expands-live-pilot-123000723.html",
+            "url_media": "https://media.zenfs.com/en/globenewswire.com/23d960aaf0eed9b55c472beee1ab89a0",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "TechForce Robotics",
+                "Nightfood Holdings, Inc",
+                "TechForce",
+                "Company",
+                "Nightfood",
+                "GLOBE NEWSWIRE",
+                "IBN",
+                "TechForce Robotics'",
+                "Nightfood Holdings, Inc.",
+                "NGTF"
+            ],
+            "summary": "TechForce Robotics is expanding its robotic live pilot programs beyond hospitality, introducing service robots and RoboOp365 to casinos, malls, stadiums, schools, and assisted living facilities. These robots perform tasks like cooking, laundry, and waste management, validating the company's Robotics-as-a-Service (RaaS) solutions and leading to commercial rollout in Q1 2026."
+        },
+        {
+            "published_date": "2025-10-13T12:30:00",
+            "title": "TechForce Robotics Expands Live Pilot Network in Preparation for Commercial Rollout",
+            "author": "Globe Newswire",
+            "url": "https://www.thestar.com/globenewswire/techforce-robotics-expands-live-pilot-network-in-preparation-for-commercial-rollout/article_90b9489b-d1d4-595d-8a39-cdbf03c95c58.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "country": "CA",
+            "language": "en",
+            "org": [
+                "GLOBE NEWSWIRE",
+                "IBN",
+                "Nightfood Holdings, Inc",
+                "TechForce Robotics",
+                "TechForce"
+            ],
+            "summary": "Nightfood Holdings, Inc., operating as TechForce Robotics and RoboOp365, is expanding its robotic live pilot programs beyond hospitality. These programs feature TechForce service robots and RoboOp365 providing services like cooking, laundry handling, and waste management in various environments including casinos, shopping malls, and schools."
+        },
+        {
+            "published_date": "2025-10-13T12:26:13",
+            "title": "WATCH LIVE: HONOR X7d launch on Facebook — Win a brand-new phone!",
+            "author": "Manila Standard",
+            "url": "https://manilastandard.net/tech/314654683/watch-live-honor-x7d-launch-on-facebook-win-a-brand-new-phone.html",
+            "url_media": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/HONOR-X7d.png",
+            "country": "JP",
+            "language": "en",
+            "org": [
+                "HONOR",
+                "Facebook",
+                "HONOR Philippines",
+                "HonorPhilippines",
+                "Instagram",
+                "TikTok"
+            ],
+            "summary": "HONOR Philippines is launching its new smartphone, the HONOR X7d, on October 14. The phone features 5-star Premium Drop Protection, IP65 Water Resistance, a 6500mAh Dual-cell Battery, a 108MP Ultra-Clear Main Camera, and Instant AI Button."
+        },
+        {
+            "published_date": "2025-10-13T12:02:53",
+            "title": "⚡Galaxy Z TriFold, Samsung XR Headset Launch on October 21; Check Details",
+            "author": "",
+            "url": "https://www.latestly.com/quickly/technology/galaxy-z-trifold-samsung-xr-headset-launch-on-october-21-check-details-7157536.html",
+            "url_media": "https://st1.latestly.com/wp-content/uploads/2025/06/1-689164985.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Samsung"
+            ],
+            "summary": "Samsung is planning to launch its first triple-fold smartphone, named \"Galaxy Z TriFold\", and an XR headset in South Korea on October 21, 2025. The launch event will reveal the leaked specifications and features of the new Samsung Galaxy Z TriFold."
+        },
+        {
+            "published_date": "2025-10-13T12:00:00",
+            "title": "A not-so-mad hatter seems to find her place after much searching",
+            "author": "",
+            "url": "https://www.santafenewmexican.com/news/business_beat/a-not-so-mad-hatter-seems-to-find-her-place-after-much-searching/article_a90f13be-7e87-4679-a624-cd7fe7852404.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/1/01/101e1937-8caf-47b8-ba3e-0cbdedc36ace/68e849724b3a6.image.jpg?crop=1200%2C630%2C0%2C79",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "The New Mexican",
+                "Santa Fe Regional Airport",
+                "Whataburger",
+                "Storm by Montecristi",
+                "Montecristi Hat Works"
+            ],
+            "summary": "Chenoa Storm Johnson launched Storm by Montecristi, an online luxury custom hat business, earlier this year. The business aims to offer high-quality hats accessible to a broader market than her father's Montecristi Hat Works in Santa Fe."
+        },
+        {
+            "published_date": "2025-10-13T11:59:00",
+            "title": "SharkNinja Reimagines its Direct-to-Consumer Experience with Unified Destination at SharkNinja.com",
+            "author": "Business Wire",
+            "url": "https://finance.yahoo.com/news/sharkninja-reimagines-direct-consumer-experience-115900206.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/ofjJl067dhE5Pwm8ZTt1Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/business-wire.com/d9665dfe840803721c631cdabf4b3656",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "SharkNinja",
+                "Shark",
+                "Ninja",
+                "SharkNinja.com",
+                "BUSINESS WIRE",
+                "SharkNinja, Inc",
+                "Salesforce",
+                "Salesforce Agentforce"
+            ],
+            "summary": "SharkNinja launched its reimagined direct-to-consumer (DTC) experience at SharkNinja.com, bringing together its Shark and Ninja brands under one platform. This launch aims to redefine the consumer journey, offering exclusive access, inspiration, and connected support. The platform is powered by innovative technology, including Salesforce Commerce Suite and Advanced AI via Salesforce Agentforce."
+        },
+        {
+            "published_date": "2025-10-13T11:59:00",
+            "title": "The limited-edition game Realme is playing in chase of the throne",
+            "author": "ET Online",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/realme-game-of-thrones-smartphone-collaboration-strategy-the-limited-edition-game-chinese-smartphone-company-is-playing-in-chase-of-the-throne/articleshow/124521240.cms",
+            "url_media": "https://img.etimg.com/thumb/msid-124521459,width-1200,height-630,imgsize-158342,overlay-economictimes/articleshow.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Realme",
+                "House of Collaborations",
+                "Economic Times",
+                "Warner Bros",
+                "Aston Martin F1 Team",
+                "F1 Team",
+                "Naruto",
+                "Coca-Cola"
+            ],
+            "summary": "Realme has launched a limited-edition Game of Thrones-themed smartphone in partnership with Warner Bros, featuring a heat-sensitive design inspired by House Targaryen. This collaboration is part of Realme's strategy to boost brand identity and reach new audiences by launching special edition phones. Realme will roll out another new collaboration, this time with a 'number series'."
+        },
+        {
+            "published_date": "2025-10-13T11:57:52",
+            "title": "SharkNinja Reimagines its Direct-to-Consumer Experience with Unified Destination at SharkNinja.com",
+            "author": "Business Wire",
+            "url": "https://www.eagletribune.com/region/sharkninja-reimagines-its-direct-to-consumer-experience-with-unified-destination-at-sharkninja-com/article_6454b966-168d-55ee-b683-ea5315f412a3.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "BUSINESS WIRE",
+                "SharkNinja, Inc",
+                "SharkNinja.com",
+                "SharkNinja"
+            ],
+            "summary": "SharkNinja, Inc. launched its reimagined direct-to-consumer (DTC) experience at SharkNinja.com. This brings together its two multi-billion-dollar brands and redefines the consumer journey across every shopping experience."
+        },
+        {
+            "published_date": "2025-10-13T11:53:00",
+            "title": "This $20 gadget will change how you interact with Alexa and your smart home",
+            "author": "ZDNet",
+            "url": "https://article.wn.com/view/2025/10/13/This_20_gadget_will_change_how_you_interact_with_Alexa_and_y",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Amazon is releasing a new device under its Amazon Basics product line."
+        },
+        {
+            "published_date": "2025-10-13T11:52:47",
+            "title": "Best AI Tools for Content Creators and Marketers",
+            "author": "paulcraft",
+            "url": "https://www.withinnigeria.com/piece/2025/10/13/best-ai-tools-for-content-creators-and-marketers",
+            "url_media": "https://www.withinnigeria.com/piece/wp-content/uploads/sites/9/2025/09/freepik__the-style-is-candid-image-photography-with-natural__32056.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Canva Magic Studio"
+            ],
+            "summary": "Several companies are introducing new AI-powered tools and features for content creation and marketing. OpenAI's ChatGPT excels in content ideation, while Jasper AI specializes in marketing copy and brand voice consistency. Canva's Magic Studio offers AI features for visual content creation, and Descript focuses on video and audio editing with AI voice cloning.  HubSpot AI enhances marketing automation, and tools like Copy.ai, Surfer SEO, Pictory AI, and Lumen5 provide solutions for social media content, SEO optimization, and video creation."
+        },
+        {
+            "published_date": "2025-10-13T11:49:00",
+            "title": "Boots offers 'better than half price' deal on 'luxury' Christmas gift",
+            "author": "Kerri-Ann Roper",
+            "url": "https://www.express.co.uk/life-style/style/2119924/boots-offers-better-than-half",
+            "url_media": "https://cdn.images.express.co.uk/img/dynamic/12/1200x630/6482840.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Sanctuary",
+                "Boots",
+                "Sanctuary Spa",
+                "The Sanctuary Spa",
+                "Space NK",
+                "White Company"
+            ],
+            "summary": "Boots offers The Sanctuary Spa Complete Spa Escape Festive Gift Set at a discounted price, featuring body scrub, body wash, and body butter. Space NK has the Sol de Janeiro Make a Bright Entrance set, including Cheirosa 40 Perfume Mist, while The White Company provides the Peony Bath & Body Set, containing bath gel, shower gel, and body lotion."
+        },
+        {
+            "published_date": "2025-10-13T11:31:02",
+            "title": "36 Beauty Products Under $25 That'll Cast Some Serious Spells On Your Hair, Skin, And Nails",
+            "author": "Gabriela Manjarrez",
+            "url": "https://www.buzzfeed.com/gabrielamanjarrez/cheap-beauty-items-cast-serious-spells-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/16/19/thumb/J3KhLfUDY.jpg?crop=2988:1992;6,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "LilyAna Naturals",
+                "Gold Bond",
+                "Onsen"
+            ],
+            "summary": "Various companies are introducing a range of new beauty and personal care products designed to address diverse needs. These include LilyAna Naturals introducing retinol cream, Gold Bond launching firming neck and chest cream, and TirTir introducing cushion foundation for flawless coverage, alongside releases from I Dew Care, Catrice, Anua, Revlon, Fanola, Differin, Briotech, Skin1004, and more."
+        },
+        {
+            "published_date": "2025-10-13T11:22:19",
+            "title": "We tried Aldi's new £1.35 treat and will be going straight back for more",
+            "author": "Emma Gill",
+            "url": "https://www.manchestereveningnews.co.uk/whats-on/shopping/tried-aldis-new-135-treat-32665773",
+            "url_media": "https://i2-prod.manchestereveningnews.co.uk/article32665882.ece/ALTERNATES/s1200/0_EGR_131025clusters_08.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Aldi",
+                "Cadbury Dairy Milk",
+                "Galaxy",
+                "Cadbury",
+                "Dairyfine",
+                "Manchester Family"
+            ],
+            "summary": "Aldi launched its Dairyfine Honey Comb Clusters in September, priced at £1.35 per 100g pack, after a successful trial. Additionally, Aldi introduced new Gianni's Ice Cream Tub flavors, including Birthday Cake, Cherry Bakewell, and Red Velvet, available for £2.49 per 500ml tub."
+        },
+        {
+            "published_date": "2025-10-13T11:14:55",
+            "title": "Redmagic 11 Pro Unveils Water Cooling and Waterproof Features for October 17th Launch!",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/redmagic-11-pro-unveils-water-cooling-and-waterproof-features-for-october-17th-launch",
+            "url_media": "https://c.statcounter.com/12003177/0/9cc1a0e5/1/",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Redmagic",
+                "Nubia",
+                "PNB",
+                "Embryolisse",
+                "redmagic"
+            ],
+            "summary": "Redmagic is launching the Redmagic 11 Pro on October 17th. The Redmagic 11 Pro features an advanced water cooling system and waterproofing. It is powered by the Snapdragon 8 Gen 3 processor and has a 6.8-inch AMOLED display with a 165Hz refresh rate."
+        },
+        {
+            "published_date": "2025-10-13T11:05:10",
+            "title": "StoryOne: Human-Centric AI Publishing launches ahead of Frankfurt Book Fair 2025",
+            "author": "Adnkronos",
+            "url": "https://www.adnkronos.com/immediapress/eng/storyone-human-centric-ai-publishing-launches-ahead-of-frankfurt-book-fair-2025_3KCYZfDcQuOKSYEbCo18vi",
+            "url_media": "https://www.adnkronos.com/assets/themes/desktop/images/adnkronos-share.jpg",
+            "country": "IT",
+            "language": "en",
+            "org": [
+                "StoryOne",
+                "PRNewswire",
+                "Vodafone Germany",
+                "Harvard",
+                "OpenAI"
+            ],
+            "summary": "StoryOne has launched StoryOne 2.0, a Human-Centric Book Publishing platform. The platform allows users to transform ideas into fact-based non-fiction books up to 300 times faster than traditional publishing, with AI Book creation starting at €50. Journalists can also try StoryOne for free using a promo code."
+        },
+        {
+            "published_date": "2025-10-13T11:01:52",
+            "title": "Papa Johns Canada Brings Back the Butter Chicken Pizza",
+            "author": "Globe Newswire",
+            "url": "https://www.recorder.ca/globe-newswire/papa-johns-canada-brings-back-the-butter-chicken-pizza",
+            "url_media": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/10/butter-chicken-pizza-is-back-only-in-canada.jpeg",
+            "country": "CA",
+            "language": "en",
+            "org": [
+                "Papa Johns",
+                "GLOBE NEWSWIRE",
+                "Papa Johns Canada",
+                "Papa Johns'"
+            ],
+            "summary": "Papa Johns Canada is re-launching its Butter Chicken Pizza, a Canadian favorite known for its bold flavor. The pizza features a velvety butter chicken sauce, grilled chicken, green peppers, and onions on Papa Johns' fresh dough."
+        },
+        {
+            "published_date": "2025-10-13T10:44:30",
+            "title": "Zendesk Unveils Advanced AI Features for Enhanced Customer Service Experiences",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/zendesk-unveils-advanced-ai-features-for-enhanced-customer-service-experiences",
+            "url_media": "https://images.ctfassets.net/jdtwqhzvc2n1/4R86iST9TxSRjXnmBYAPYq/f6f37e05d97e7714daf1e1ff97064ee7/Zendesk_AI_Summit_Logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Zendesk",
+                "Zendesk AI",
+                "zendesk"
+            ],
+            "summary": "Zendesk has launched new AI-powered features to enhance customer service experiences, including AI-Powered Agent Assistance, Smart Triage & Ticket Routing, and AI-Driven Self-Service. These features aim to streamline workflows, empower agents and customers, and reduce average handle time while improving first call resolution. The platform also utilizes predictive analytics to proactively identify potential customer issues."
+        },
+        {
+            "published_date": "2025-10-13T10:40:29",
+            "title": "Upgrade Homes with Smart Appliances on EMI Via ONDC on Bajaj Markets",
+            "author": "ANI",
+            "url": "https://www.latestly.com/agency-news/business-news-upgrade-homes-with-smart-appliances-on-emi-via-ondc-on-bajaj-markets-7157481.html",
+            "url_media": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251013102038-588x441.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Bajaj Markets",
+                "ONDC",
+                "ANI",
+                "HT Syndication",
+                "Open Network for Digital Commerce",
+                "Apple",
+                "Bajaj Markets'",
+                "Play Store",
+                "App Store",
+                "LatestLY"
+            ],
+            "summary": "Bajaj Markets has expanded its digital financial marketplace to include the ONDC platform, offering a wide range of products such as smart home appliances (refrigerators, washing machines, air conditioners) and everyday essentials. This initiative provides customers with a convenient shopping experience, especially during the festive season, with flexible payment options like easy EMIs."
+        },
+        {
+            "published_date": "2025-10-13T10:24:00",
+            "title": "Samsung's Galaxy Tri-Foldable Device Could Launch In Multiple Countries: Know More",
+            "author": "S Aadeetya",
+            "url": "https://www.news18.com/tech/samsungs-galaxy-tri-foldable-device-could-launch-in-multiple-countries-know-more-ws-l-9632162.html",
+            "url_media": "https://images.news18.com/ibnlive/uploads/2025/10/Samsung-tri-fold-phone-July-2025-2025-10-1add1dfbab7a64592255941fadd2a435-16x9.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Samsung",
+                "Huawei",
+                "News18",
+                "Sammobile",
+                "ETNews",
+                "Tecno"
+            ],
+            "summary": "Samsung is expected to launch its new tri-foldable device, potentially named Galaxy G Fold or Galaxy Z Tri-Fold, around October-end or early November. The device, rumored to cost around $3,000, may launch in multiple countries including UAE and USA and feature a triple camera and a three-battery setup."
+        },
+        {
+            "published_date": "2025-10-13T10:18:00",
+            "title": "⚡Check Mercedes-Benz G450d Price, Specifications and Features",
+            "author": "",
+            "url": "https://www.latestly.com/quickly/auto/check-mercedes-benz-g450d-price-specifications-and-features-7157312.html",
+            "url_media": "https://st1.latestly.com/wp-content/uploads/2025/10/Mercedes-Benz-G450d-G-Class.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Mercedes-Benz"
+            ],
+            "summary": "Mercedes-Benz has launched the new G450d luxury SUV in India, releasing a limited edition of 50 units. The G450d features a premium design, luxurious technology, and enhanced comfort."
+        },
+        {
+            "published_date": "2025-10-13T09:22:14",
+            "title": "'I tried a smart dehumidifier and was shocked by how much moisture is in the air'",
+            "author": "Jada Jones",
+            "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/i-tried-smart-dehumidifier-shocked-32653284",
+            "url_media": "https://i2-prod.liverpoolecho.co.uk/article32654758.ece/ALTERNATES/s1200/1_IMG_3724-1jpeg.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "DREO",
+                "Amazon",
+                "M&S",
+                "Appliances Direct",
+                "ProBreeze"
+            ],
+            "summary": "DREO launched a new smart dehumidifier priced at £229.99 on Amazon, featuring a 3.4L tank and app control for humidity levels and scheduling. The dehumidifier is compared to alternatives like the electriQ Essential 12L and OmniDry 12L, noting their smaller capacities."
+        },
+        {
+            "published_date": "2025-10-13T09:20:06",
+            "title": "Why choose POCO: Real experiences behind the power of M7 and C85",
+            "author": "BI Africa",
+            "url": "https://africa.businessinsider.com/local/markets/why-choose-poco-real-experiences-behind-the-power-of-m7-and-c85/qwgt93c",
+            "url_media": "https://ocdn.eu/pulscms-transforms/1/2kSktkqTURBXy9iMDFlM2NjZWYxMjE0N2YxMDE4ZWI0ZDkwNDYyYjQwYy5qcGVnkpUDAMzXzQWOzQMfkwXNBLDNAnY",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "POCO",
+                "MIUI",
+                "TikTok"
+            ],
+            "summary": "POCO launched the POCO M7 and POCO C85 smartphones in Nigeria, targeting a new generation that values both style and substance. The POCO M7 features a 7000mAh battery, while the POCO C85 balances performance and elegance."
+        },
+        {
+            "published_date": "2025-10-13T09:20:00",
+            "title": "Sidewalk advertising company opens in central Pa.",
+            "author": "Daniel Urie",
+            "url": "https://www.pennlive.com/business/2025/10/sidewalk-advertising-company-opens-in-central-pa.html",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Stencil Wash",
+                "StencilWash"
+            ],
+            "summary": "Stencil Wash, a new company in Lancaster County, has launched a sidewalk stencil advertisement service. The company designs stencils with logos, slogans, or promotional calls-to-action, and power washes the ads onto sidewalks. Advertisers can choose locations outside storefronts or along busy pedestrian routes."
+        },
+        {
+            "published_date": "2025-10-13T09:14:58",
+            "title": "Lidl brings back popular GHD dupe that's £166 less than the real thing",
+            "author": "Roisin Chapman",
+            "url": "https://www.thesun.co.uk/money/36984393/lidl-middle-aisle-hair-styling-gadget-ghd-dupe",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/10/attractive-woman-curly-hair-long-813055701.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Lidl",
+                "Lidl Plus",
+                "LIDL",
+                "Revlon",
+                "Bristol",
+                "Derby",
+                "Liverpool",
+                "London",
+                "Manchester",
+                "Nottingham",
+                "Oxford",
+                "Southampton",
+                "Swansea",
+                "Birmingham",
+                "Sheffield",
+                "Cambridge",
+                "Edinburgh",
+                "Aldi"
+            ],
+            "summary": "Lidl is launching the Cien Beauty Hair Straightening Brush, a two-in-one hair styling device, for £16.99 (or £12.99 for Lidl Plus members), starting October 19. The brush features ceramic-coated bristles, a temperature range of 100-200 degrees Celsius, and a 360-degree swivelling cord."
+        },
+        {
+            "published_date": "2025-10-13T09:03:00",
+            "title": "Vodacom rolls out low-cost smartphone in Mozambique",
+            "author": "",
+            "url": "https://www.telecompaper.com/news/vodacom-rolls-out-low-cost-smartphone-in-mozambique--1550675",
+            "url_media": "https://ik.imagekit.io/tp/20220131-vodacom-tanzania-logo.jpg",
+            "country": "NL",
+            "language": "en",
+            "org": [
+                "Vodacom",
+                "Vodacom Mozambique"
+            ],
+            "summary": "Vodacom Mozambique has launched the Digit4G Z1, a low-cost smart feature phone, to enhance digital inclusion in Mozambique. The 4G device is priced at MZN 1,700 and features a keypad, touchscreen, 4,000 mAh battery, 2 GB RAM, 16 GB storage, and front/back cameras."
+        },
+        {
+            "published_date": "2025-10-13T09:01:31",
+            "title": "The lifetime cost of a Nespresso machine: Read this before you buy a Nespresso pod coffee machine - we break down how much your daily coffee habit really costs",
+            "author": "DANIELLE AMATO",
+            "url": "https://www.dailymail.co.uk/buyline/home-garden/article-15186725/The-lifetime-cost-Nespresso-machine-coffee-pods.html",
+            "url_media": "https://i.dailymail.co.uk/1s/2025/10/13/09/102936757-0-image-a-36_1760345564002.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Nespresso",
+                "Daily Mail",
+                "Starbucks",
+                "L'OR",
+                "Grind",
+                "Rave",
+                "Lavazza",
+                "Aldi"
+            ],
+            "summary": "The article compares the cost of Nespresso machines, specifically the Citiz and Vertuo Next, with Starbucks coffee and bean-to-cup machines. The Nespresso Citiz with third-party pods offers the best long-term value, while the Vertuo Next provides more variety at a higher cost. The analysis helps consumers understand the financial implications of choosing different coffee options."
+        },
+        {
+            "published_date": "2025-10-13T08:57:00",
+            "title": "Tokyo's noodle specialist eatery Udon Shin to make overseas debut in S'pore in November",
+            "author": "Eunice Quek",
+            "url": "https://www.straitstimes.com/life/food/tokyos-noodle-specialist-eatery-udon-shin-makes-overseas-debut-in-spore-in-november",
+            "url_media": "https://cassette.sphdigital.com.sg/image/straitstimes/f2509d40ef2eecab189535cb1bb4746f284e0e71010dc2eaa13c5c357d49e7e8",
+            "country": "SG",
+            "language": "en",
+            "org": [
+                "Udon Shin",
+                "Gaia Lifestyle Group",
+                "ST",
+                "GAIA LIFESTYLE GROUP",
+                "The Black Pearl",
+                "Odeon 333",
+                "Gyutan-Tan Izakaya",
+                "Koko Patisserie",
+                "Gyutan-Tan",
+                "Instagram",
+                "Gaia",
+                "Loca Niru",
+                "House of Tan Yeok Nee",
+                "Karim Family Foundation"
+            ],
+            "summary": "Udon Shin, a Tokyo-based udon restaurant, is launching its first overseas location in Singapore at Takashimaya Shopping Centre in mid-November. Gaia Lifestyle Group is introducing the brand, known for its handmade udon. The group is also launching Loca Niru, a restaurant offering contemporary innovative fine dining with Japanese and French techniques, on November 6."
+        },
+        {
+            "published_date": "2025-10-13T08:55:08",
+            "title": "Novita, a bathroom company, announced on the 13th that it has released a \"double sterilization bidet..",
+            "author": "Lee Yu-Jin",
+            "url": "https://www.mk.co.kr/en/economy/11440330",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202510/13/news-p.v1.20251013.4ed48ef7e929437589a0f882b77f9f22_P1.jpg",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Novita",
+                "Naver",
+                "Naver Brand Store",
+                "Colernovita"
+            ],
+            "summary": "Novita, a bathroom company, has launched its 'Double Sterilization Bidet,' which features electrolytic water and UV sterilization for enhanced hygiene. The bidet sterilizes the nozzle's interior and exterior twice daily and utilizes an instant direct water heating method to reduce power consumption. It will be exclusively available through Naver's 'New Week' for two weeks, followed by availability on Naver Brand Store and Novita's official website."
+        },
+        {
+            "published_date": "2025-10-13T08:46:07",
+            "title": "HeySanta: World's first AI Santa robot brings Christmas fun to kids",
+            "author": "Atharva Gosavi",
+            "url": "https://interestingengineering.com/innovation/worlds-first-ai-powered-santa-robot",
+            "url_media": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/ai-santa-robot.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "MangDang",
+                "YouTube",
+                "MangDang Technology",
+                "Boston Dynamics'"
+            ],
+            "summary": "MangDang Technology has launched HeySanta, an AI-powered Santa Claus robot designed for educational and entertainment purposes, with advanced versions and features. The product went live on Kickstarter on October 7 and company is now preparing for mass production of the robot, with shipping scheduled to begin in November 2025."
+        },
+        {
+            "published_date": "2025-10-13T08:45:42",
+            "title": "Infosys debuts AI-powered Customer Experience Suite for Salesforce",
+            "author": "Ranjithkumar Dharma",
+            "url": "https://www.verdict.co.uk/infosys-ai-customer-experience-suite-salesforce",
+            "url_media": "https://www.verdict.co.uk/wp-content/uploads/2025/10/Infosys-suite-shutterstock_2174412833.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Infosys",
+                "Salesforce",
+                "GlobalData",
+                "Fluido",
+                "Shutterstock.com",
+                "Infosys Topaz",
+                "VTT"
+            ],
+            "summary": "Infosys has launched the Infosys Customer Experience Suite for Salesforce, which is designed to automate and optimize customer engagement processes by leveraging Infosys Topaz and Salesforce's agentic AI.  The suite has been deployed in production environments, demonstrating reduced process inefficiencies and improved response times for its users. The new suite aims to help organizations enhance digital operations and implement AI-driven automation in sales, service, and marketing."
+        },
+        {
+            "published_date": "2025-10-13T08:44:05",
+            "title": "Watch the Honor X7d launch on Facebook and win a new phone",
+            "author": "Back End News",
+            "url": "https://backendnews.net/watch-the-honor-x7d-launch-on-facebook-and-get-a-chance-to-win-a-new-phone",
+            "url_media": "https://backendnews.net/wp-content/uploads/2025/10/PR-KV-Watch-Win.png",
+            "country": "HK",
+            "language": "en",
+            "org": [
+                "Honor",
+                "Facebook",
+                "Honor Philippines",
+                "HonorPhilippines",
+                "Instagram",
+                "Honorph",
+                "TikTok",
+                "Honorphilippines"
+            ],
+            "summary": "Honor Philippines is launching its new smartphone, the Honor X7d, on October 14th via a Facebook livestream event where viewers can win one. The Honor X7d features 5-star Premium Drop Protection, IP65 water resistance, a 6500mAh dual-cell battery, a 108MP main camera, and an Instant AI Button."
+        },
+        {
+            "published_date": "2025-10-13T08:14:40",
+            "title": "Why Choose POCO: Real Experiences Behind Power of M7, C85",
+            "author": "Daily Post Staff",
+            "url": "https://dailypost.ng/2025/10/13/why-choose-poco-real-experiences-behind-power-of-m7-c85",
+            "url_media": "https://dailypost.ng/wp-content/uploads/2025/10/1-1.jpeg",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "POCO",
+                "MIUI",
+                "TikTok"
+            ],
+            "summary": "POCO has launched the POCO M7 and POCO C85 smartphones in Nigeria. The POCO M7 features a 7000mAh battery for extended usage, while the POCO C85 balances performance and elegance with a lightweight design. Both devices include immersive high-definition displays and advanced camera systems."
+        },
+        {
+            "published_date": "2025-10-13T08:07:16",
+            "title": "iQOO 15 Release Date, Price In India, Full Specifications, Colors, Design And More: All We Know So Far",
+            "author": "",
+            "url": "https://www.timesnownews.com/technology-science/iqoo-15-release-date-price-in-india-full-specifications-colors-design-and-more-all-we-know-so-far-article-152992054",
+            "url_media": "https://images.timesnownews.com/thumb/msid-152992040,thumbsize-25062,width-1280,height-720,resizemode-75/152992040.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Qualcomm",
+                "Times Now"
+            ],
+            "summary": "iQOO is set to launch the iQOO 15 in China this week, with an India launch expected soon after. The iQOO 15 will feature the Snapdragon 8 Elite Gen 5 processor, a 6.85-inch QHD AMOLED display with a 144Hz refresh rate, a dual rear camera setup, and a 7000 mAh battery. The expected launch in India is between November 15 and 25, 2025, with a price starting under Rs 59,999."
+        },
+        {
+            "published_date": "2025-10-13T07:51:00",
+            "title": "[브레이크뉴스] 농심, 분식점 감칠맛 ‘생생납작떡볶이면' 출시",
+            "author": "최애리 기자",
+            "url": "http://breaknews.com/1153367",
+            "url_media": "https://www.breaknews.com/data/breaknews_com/mainimages/202510/2025101352258569.png?ti=1760350281",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Nongshim",
+                "농심",
+                "Google Translate",
+                "Saengsaeng",
+                "브레이크뉴스",
+                "농심이",
+                "농심의",
+                "농심에"
+            ],
+            "summary": "Nongshim is launching \"Saengsaeng Flat Tteokbokki Ramen\" on the 14th. This new product features flat noodles and a sauce made with gochujang, anchovy, and fish cake broth. It will be available nationwide and on e-commerce platforms."
+        },
+        {
+            "published_date": "2025-10-13T07:27:55",
+            "title": "HGS Opens a New Intelligent Experience Hub in Manila, Philippines",
+            "author": "Pr Newswire",
+            "url": "https://www.manilatimes.net/2025/10/13/tmt-newswire/pr-newswire/hgs-opens-a-new-intelligent-experience-hub-in-manila-philippines/2199344",
+            "url_media": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/13/780308.jpg",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "HGS",
+                "Hinduja Global Solutions",
+                "NXT DIGITAL",
+                "Hinduja Group",
+                "hgs.cx"
+            ],
+            "summary": "Hinduja Global Solutions (HGS) has launched a new \"intelligent experience hub\" in Manila. The hub is designed to support evolving, technology-driven business needs and new delivery models, featuring collaborative spaces and AI integration. The center initially has a capacity of 1,500 seats and can accommodate up to 3,000 employees."
+        },
+        {
+            "published_date": "2025-10-13T07:24:39",
+            "title": "Dreame F10 review: Effective robo vacuum cleaner that does its job",
+            "author": "",
+            "url": "https://www.theweek.in/review/gadgets/2025/10/13/dreame-f10-review-effective-robo-vacuum-cleaner-that-does-its-job.html",
+            "url_media": "https://www.theweek.in/content/dam/week/week/review/gadgets/images/2025/10/13/dreame-f10-review.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Dreame Technology",
+                "Amazon"
+            ],
+            "summary": "Dreame Technology has launched the Dreame F10 robotic vacuum cleaner, a budget-centric option available on Amazon for Rs 16,999. The F10 features dry and mop cleaning, a 5,200mAh battery, 13000Pa suction power, smartphone app control, and voice assistant support, making it effective for dust and floor cleaning."
+        },
+        {
+            "published_date": "2025-10-13T07:22:25",
+            "title": "Scaling Globally? This One AI Trend Could Be Your Secret Weapon",
+            "author": "Neel Achary",
+            "url": "https://businessnewsthisweek.com/technology/scaling-globally-this-one-ai-trend-could-be-your-secret-weapon",
+            "url_media": "https://businessnewsthisweek.com/wp-content/uploads/2025/06/businessnewsthisweek-logo-1.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Simulus AI",
+                "Google",
+                "OpenAI"
+            ],
+            "summary": "Simulus AI offers a service of creating enterprise-grade human digital twins, which are hyper-realistic AI-generated versions of real people (brand ambassadors, company leader, or spokesperson). Companies are using this technology for global product launches and internal training across multiple countries. The use of digital twins helps companies save costs and compress production time to hours instead of months."
+        },
+        {
+            "published_date": "2025-10-13T07:15:27",
+            "title": "\"Generation AI will be a general-purpose product like air. In order to make money in that situation,..",
+            "author": "A Prescription",
+            "url": "https://www.mk.co.kr/en/it/11440120",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202510/14/20251014_01110203000002_L00.jpg",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "Yanolja Cloud",
+                "Cloud",
+                "Maeil Business Newspaper",
+                "Yanolja"
+            ],
+            "summary": "Yanolja Cloud's business is divided into transaction, subscription, and data solutions. The subscription solutions involve supplying service operation software products to hotel operators, such as management solutions for room allocation and check-in/check-out management. Yanolja Cloud's integrated transaction volume and sales have significantly increased."
+        },
+        {
+            "published_date": "2025-10-13T07:00:00",
+            "title": "I Won't Let My Daughter Inherit a Landfill",
+            "author": "Yashovardhan Wagh",
+            "url": "https://www.geekwire.com/sponsor-post/i-wont-let-my-daughter-inherit-a-landfill",
+            "url_media": "https://cdn.geekwire.com/wp-content/uploads/2025/10/Thumbnail-1.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Gone.com",
+                "OfferUp",
+                "Gone",
+                "Amazon",
+                "Uber"
+            ],
+            "summary": "Gone.com, founded by the co-founder of OfferUp, is introducing an AI-powered Recommerce Engine designed to value, match, and route reusable items to give them a second life. The service aims to unify fragmented recommerce efforts and create a circular economy by providing a platform for individuals and businesses to redistribute unwanted items. The company is also looking for partnerships to achieve this goal."
+        },
+        {
+            "published_date": "2025-10-13T06:51:00",
+            "title": "POCO Redefines Affordable Technology with M7 and C85 Launch",
+            "author": "thecableng",
+            "url": "https://ng.headtopics.com/news/poco-redefines-affordable-technology-with-m7-and-c85-launch-74308714",
+            "url_media": "https://i.headtopics.com/images/2025/10/13/thecableng/poco-redefines-affordable-technology-with-m7-and-c-poco-redefines-affordable-technology-with-m7-and-c-D0579C2C2F37D8E71242ADD1D0065CA2.webp",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "POCO"
+            ],
+            "summary": "POCO has launched the M7 and C85 smartphones, targeting a dynamic generation with a blend of power, style, and accessibility. The POCO M7 focuses on robust performance for tasks like video editing and gaming, while the POCO C85 balances performance and elegance with a lightweight design and powerful processor."
+        },
+        {
+            "published_date": "2025-10-13T06:24:57",
+            "title": "YRC Unveils AI-Driven Site Selection Model for New Store Locations in Emerging Markets",
+            "author": "Ein News",
+            "url": "https://g20.einnews.com/pr_news/857732227/yrc-unveils-ai-driven-site-selection-model-for-new-store-locations-in-emerging-markets",
+            "url_media": "https://img.einnews.com/ampsize/971898/yrc-unveils-ai-driven-site-sele.png",
+            "country": "UA",
+            "language": "en",
+            "org": [
+                "YRC",
+                "EINPresswire.com",
+                "YourRetailCoach"
+            ],
+            "summary": "YourRetailCoach (YRC) has launched a new AI-based site selection algorithm. The AI tool helps brands to identify locations for new stores and expand into new regions. The AI model applies predictive analytics to create an expansion plan that aligns with a company's market entry strategy."
+        },
+        {
+            "published_date": "2025-10-13T05:24:10",
+            "title": "Singapore becomes China's culinary launchpad as restaurants flee home market woes",
+            "author": "Gemma Iso",
+            "url": "https://theindependent.sg/singapore-becomes-chinas-culinary-launchpad-as-restaurants-flee-home-market-woes",
+            "url_media": "https://media.theindependent.sg/wp-content/uploads/2025/10/pexels-cottonbro-7594075-e1760333020426-1068x601.jpg",
+            "country": "SG",
+            "language": "en",
+            "org": [
+                "ChaPanda",
+                "Nong Geng Ji",
+                "Mixue",
+                "Luckin Coffee",
+                "Starbucks",
+                "Starbucks'",
+                "Singapore Tenants United for Fairness",
+                "Google News"
+            ],
+            "summary": "Several Chinese food and beverage companies, including Mixue, ChaPanda, Luckin Coffee, and Nong Geng Ji, are expanding into Singapore to escape a competitive Chinese market. They are using Singapore as a launchpad to introduce their products and services to new markets, leveraging its Chinese community and global status for brand building and product testing. Some companies like Yong Fu, plan to use their Singapore success to expand to other international cities like London, New York, and Paris."
+        },
+        {
+            "published_date": "2025-10-13T04:49:22",
+            "title": "Samsung's new robot vacuum cleans and acts as security",
+            "author": "Marty Spargo",
+            "url": "https://creators.yahoo.com/lifestyle/story/samsungs-new-robot-vacuum-cleans-and-acts-as-security-044922482.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/9ZVlgKBeaEkedtVtdQDp.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/c8cbff00-a7ef-11f0-b4eb-d56fcf06146f",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung"
+            ],
+            "summary": "Samsung has launched the Bespoke AI Jet Bot Steam Ultra, a robot vacuum cleaner that cleans and acts as a security monitor. This new device, part of Samsung's Bespoke smart home lineup, uses AI for navigation, object recognition, and pet detection, offering remote monitoring and interaction features. The vacuum also incorporates Samsung's Knox protection platform and has earned Diamond-level IoT certification."
+        },
+        {
+            "published_date": "2025-10-13T04:31:01",
+            "title": "27 TikTok Beauty Products We Found *For You*",
+            "author": "Danielle Healy",
+            "url": "https://www.buzzfeed.com/daniellehealy/tiktok-beauty-products-we-found-for-you-so-you-can-know",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/09/02/thumb/cTsxeG07c.jpg?crop=3000:1571;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Olay",
+                "OTC",
+                "Belif",
+                "PanOxyl"
+            ],
+            "summary": "Numerous companies are launching new beauty-related products. Gold Bond introduces a hypoallergenic neck and chest cream, JiYu launches Toning Polish Pads, and E.l.f releases a tubing mascara. Olay presents a Super Serum body wash, while Lumify offers redness-reducing eye drops. Belif offers \"Aqua Bomb\" sleeping mask, PanOxyl Acne Banishing Body Spray, One/Size setting powder, Medicube Deep Vit. C Capsule Face Moisturizer, Lottabody's super fluffy mousse, Laneige Neo Blurring Powder compact, Clinique Almost Lipstick tinted lip balm, Juno & Co.'s Clean 10 Cleansing Balm, The Eos Shea Better Body Lotion, Kitsch's flat claw clip and Jerome Alexander airbrush foundation."
+        },
+        {
+            "published_date": "2025-10-13T04:30:00",
+            "title": "Ongles nude : 14 idées pour une manucure naturelle mais pas monotone",
+            "author": "Melanie Paukner",
+            "url": "https://www.vanityfair.fr/article/ongles-nude-idees-pour-une-manucure-naturelle-mais-pas-monotone",
+            "url_media": "https://media.vanityfair.fr/photos/68e8d1947db550cd6d4c79a4/16:9/w_1280,c_limit/091025-nude-nails-Aufm.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "6sense",
+                "ADYOULIKE",
+                "OpenWeb",
+                "Active Agent",
+                "AcuityAds",
+                "AdElement Media Solutions",
+                "Adara",
+                "Adex",
+                "Adform Adition",
+                "Adobe Advertising Cloud"
+            ],
+            "summary": "An apparel company is launching a new line of high-end baby clothes. They are using an agency to create profiles of wealthy young parents to target them with advertising within partner apps, promoting the new product line."
+        },
+        {
+            "published_date": "2025-10-13T04:01:02",
+            "title": "Must-Have Random Products: 42 Worthy Purchases",
+            "author": "Elizabeth Lilly",
+            "url": "https://www.buzzfeed.com/elizabethlilly/sure-these-things-are-random-but-theyre-also-100-worth-2025",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/09/15/thumb/qSuYpVY98.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Albanese"
+            ],
+            "summary": "Albanese is introducing Seasonal Apple Harvest gummies with apple flavors like Granny Smith and McIntosh. Elvira's Cookbook from Hell is a brand-new cookbook designed for Halloween enthusiasts. Additionally, a silent dog toy with an ultrasonic squeaker is launching, and a Magic Tap automatic drink dispenser is available to help kids to get drinks themselves."
+        },
+        {
+            "published_date": "2025-10-13T03:24:38",
+            "title": "B2B SaaS Retail Chief Marketing Officer Role Focused on Content Writing, Not Virtual Assistance",
+            "author": "Daniel Foster",
+            "url": "https://www.archyde.com/b2b-saas-retail-chief-marketing-officer-role-focused-on-content-writing-not-virtual-assistance",
+            "url_media": "https://cdn-images.welcometothejungle.com/PsFGej7TpQRv853GnEm5DnG7UALtKsNr6j1ueBtUWe4/rs:auto:1200:627:/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTNmNWRmYTcwLTAxZDUtNDViZi04NTM0LTE0ODYwZDhkYWIxMS5qcGc",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Cheese",
+                "LinkedIn"
+            ],
+            "summary": "B2B SaaS companies serving the retail sector use content to attract, engage, and convert retail businesses. SaaS solutions are critical in retail's digital change, requiring expertise in platforms like HubSpot, Marketo, and Contentful for SEO, analytics, and content management."
+        },
+        {
+            "published_date": "2025-10-13T03:21:55",
+            "title": "Transform Your Creativity with AI: From Virtual Wardrobes to Lip Sync Magic",
+            "author": "Nick Mwangi",
+            "url": "https://nairobiwire.com/2025/10/transform-your-creativity-with-ai-from-virtual-wardrobes-to-lip-sync-magic.html",
+            "url_media": "https://nairobiwire.com/wp-content/uploads/2025/10/trans.jpg",
+            "country": "KE",
+            "language": "en",
+            "org": [
+                "YouTube",
+                "TikTok"
+            ],
+            "summary": "The AI Clothes Changer allows users to virtually try on different clothing styles in photos, while Lip Sync AI Free synchronizes lip movements with audio in videos. These tools cater to fashion enthusiasts, eCommerce sellers, content creators, educators, and marketers who aim to enhance visual content, save time, and reduce costs. They empower users to produce professional-level visuals and engaging videos effortlessly."
+        },
+        {
+            "published_date": "2025-10-13T03:13:00",
+            "title": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Recent Developments",
+            "author": "Hastings Tribune",
+            "url": "https://article.wn.com/view/2025/10/13/Faraday_Future_Founder_and_CoCEO_YT_Jia_Shares_Weekly_Invest_l",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The company achieved an innovative breakthrough in its B2B2C sales with the ZEVO deposit agreement. The ZEVO deposit agreement is representing the new introduction of product or service."
+        },
+        {
+            "published_date": "2025-10-13T03:08:12",
+            "title": "Nubia Z80 Ultra Has A Battery Of 7,200mAh In A 7.8mm Thin Body",
+            "author": "Oktober",
+            "url": "https://voi.id/en/amp/523098",
+            "url_media": "https://imgsrv2.voi.id/alw7CqsmFUpJybBzLtas0_IoTkt3oP5_nKMYkhSsyLg/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81MjMwOTgvMjAyNTEwMTIyMDIzLW1haW4uY3JvcHBlZF8xNzYwMjc1NTI2LmpwZWc.jpg",
+            "country": "ID",
+            "language": "en",
+            "org": [
+                "Nubia",
+                "Weibo",
+                "nubia"
+            ],
+            "summary": "Nubia is set to launch the Red Magic 11 Pro, powered by Snapdragon 8 Elite Gen 5, on October 17 in China, featuring a massive 8,000mAh battery. Following this, the Nubia Z80 Ultra is expected to launch on October 22, packing a 7,200mAh battery, 90W fast charging, and a 144Hz flat AMOLED screen, available in colors like Phantom Black, Glacial White and Starry Collector's Edition variant."
+        },
+        {
+            "published_date": "2025-10-13T02:31:04",
+            "title": "27 Kitchen Products That Are So Handy, You'll Use Them Multiple Times A Day",
+            "author": "Heather Braga",
+            "url": "https://www.buzzfeed.com/hbraga/handy-kitchen-products-use-multiple-times-day-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/09/13/thumb/DPdSJEJcc.jpg?crop=2988:1992;6,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "The Jetsons"
+            ],
+            "summary": "Oxo introduced the compact Brew Rapid Brewer, a space-saving, plug-free coffee maker. Ninja launched the Foodi 2-in-1 Flip Toaster, which functions as both a standard toaster and a toaster oven."
+        },
+        {
+            "published_date": "2025-10-13T02:30:00",
+            "title": "Nobody Wants This saison 2 : la bande originale complète dévoilée",
+            "author": "Vanity Fair",
+            "url": "https://www.vanityfair.fr/article/nobody-wants-this-saison-2-la-bande-originale-complete-devoilee",
+            "url_media": "https://media.vanityfair.fr/photos/68e8d77d504a6b66c47a8b6e/16:9/w_1280,c_limit/nobody-wants-this-temporada-2-soundtrack.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "6sense",
+                "ADYOULIKE",
+                "OpenWeb",
+                "Active Agent",
+                "AcuityAds",
+                "AdElement Media Solutions",
+                "Adara",
+                "Adex",
+                "Adform Adition",
+                "Adobe Advertising Cloud"
+            ],
+            "summary": "An apparel company is introducing a new line of high-end baby clothes. To promote this product line, the company collaborates with an agency to create profiles of wealthy young parents. These profiles will be used to target advertising within partner apps."
+        },
+        {
+            "published_date": "2025-10-13T02:09:00",
+            "title": "Ampace Debuts Advanced Lithium and Next-Gen Semi-Solid-State Battery Technologies at Data Centre World Asia 2025",
+            "author": "",
+            "url": "https://www.straitstimes.com/paid-press-releases/ampace-debuts-advanced-lithium-and-next-gen-semi-solid-state-battery-technologies-at-data-centre-world-asia-2025-20251013",
+            "url_media": "https://www.straitstimes.com/favicon.ico",
+            "country": "SG",
+            "language": "en",
+            "org": [
+                "Ampace"
+            ],
+            "summary": "Ampace is debuting advanced lithium and next-generation semi-solid-state battery technologies. The debut occurred at Data Centre World Asia 2025."
+        },
+        {
+            "published_date": "2025-10-13T01:36:54",
+            "title": "3D for beginners Thursday October 16 from 7:30 PM to 10:00 PM",
+            "author": "",
+            "url": "https://www.archyde.com/holland-3d-for-beginners-thursday-october-16-from-730-pm-to-1000-pm",
+            "url_media": "https://www.archyde.com/wp-content/uploads/2025/05/archydegemini.jpeg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "HCC Delft",
+                "Cheese",
+                "ICICI"
+            ],
+            "summary": "HCC Delft 3D printing group is hosting a beginner workshop on October 16th, offering guidance on 3D printer purchase and practical printing steps. The workshop builds on the group's previous meeting focused on printing a soap dish, demonstrating ongoing support and collaborative learning within the 3D printing community."
+        },
+        {
+            "published_date": "2025-10-13T01:31:05",
+            "title": "These 35 Practical Products Must Have Been Crafted By A Genius",
+            "author": "Gabriela Manjarrez",
+            "url": "https://www.buzzfeed.com/gabrielamanjarrez/products-practical-crafted-genius-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/10/01/thumb/ZuL5fFTlh.jpg?crop=2988:1992;6,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The article highlights the introduction of several new products. These include an automatic can opener, a blackout stamp roller for document security, stainless-steel keychain car escape tool and gardening gloves with claws for easier gardening work. Also mentioned are a waterproof eyeliner stamp, adhesive garbage guard, pimple patches, and acne cover patches for personal care and a water bottle cup holder adapter and AirFly Pro wireless transmitter for travel needs. Other products mentioned are a robotic vacuum and Litter Robot for home and pet care, a flaming LED humidifier, reusable can lids, Bissell Stomp N' Go stain lifting pads, a wedge doorstop alarm, and a stain-repellent spray. Also mentioned are Wallet Ninja multi tool, UV black-light flashlight, L'Oreal root concealing spray, door-dampening bumper pads, hand-powered chopper, Nizoral dandruff shampoo, bagel guillotine, dongle holder, odor eliminators, heated eye massager, dry shampoo powder, Yonanas fruit soft serve maker, Snuggle Puppy, spray containing hypochlorous acid and PureWine Wand. These items aim to enhance convenience, security, personal care, and problem-solving across various aspects of life."
+        },
+        {
+            "published_date": "2025-10-13T00:30:00",
+            "title": "AI Is Collapsing the Funnel: What It Means for Brands and Consumers",
+            "author": "Anees Merchant",
+            "url": "https://www.freepressjournal.in/brandsutra/ai-is-collapsing-the-funnel-what-it-means-for-brands-and-consumers",
+            "url_media": "https://media.assettype.com/freepressjournal/2025-10-12/18n1b30z/Opinion4.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Flipkart",
+                "Klarna",
+                "Myntra",
+                "MakeMyTrip",
+                "Air India",
+                "IndiGo",
+                "Zomato"
+            ],
+            "summary": "Flipkart launched Flippi, a ChatGPT-powered shopping co-pilot. Myntra introduced MyFashionGPT for natural language fashion searches. MakeMyTrip released a multilingual GenAI planner. Air India uses the 'Maharaja' agent for customer queries, while IndiGo offers conversational booking via 6Eskai on WhatsApp. Klarna utilizes an AI assistant for customer service. Zomato experimented with AI-generated dish photos."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Nab this huge 8TB WD SN850X for a sublime price from Amazon USA",
+            "author": "Eurogamer",
+            "url": "https://article.wn.com/view/2025/10/13/Nab_this_huge_8TB_WD_SN850X_for_a_sublime_price_from_Amazon_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "WD's SN850X is an SSD known for its significantly fast transfer speeds and strong random performance."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Coke Rolling Out New Product – Featured in Louisiana Soon",
+            "author": "Bruce Mikells",
+            "url": "https://kpel965.com/ixp/33/p/coke-new-product-in-louisiana-soon",
+            "url_media": "https://townsquare.media/site/33/files/2025/10/attachment-small-coke-bottle-paul-gaudriault-via-unsplash.JPG?w=1200&format=natural",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Coca-Cola",
+                "Unsplash.com",
+                "KMDL-FM",
+                "Amazon Amazon",
+                "Diet Coke"
+            ],
+            "summary": "Coca-Cola is launching 7.5-ounce mini cans nationwide, featuring Coke Zero Sugar, Cherry Coke, Sprite, Fanta, and other flavors, with Diet Coke also available where it's a market leader. The suggested retail price for the mini cans is $1.29, aimed at offering consumers a beverage option under $2."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Smart Toaster Showdown: I Tested the $400 Revolution Toaster and a $120 Knockoff",
+            "author": "CNET",
+            "url": "https://article.wn.com/view/2025/10/13/Smart_Toaster_Showdown_I_Tested_the_400_Revolution_Toaster_a",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The Revolution smart toaster is a premium appliance being reviewed and compared against a cheaper alternative. The review helps consumers decide which smart toaster to buy, suggesting novelty and consumer interest in this product category."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Nvidia's ‘personal AI supercomputer' is now available to buy",
+            "author": "The Verge",
+            "url": "https://article.wn.com/view/2025/10/13/Nvidia_s_personal_AI_supercomputer_is_now_available_to_buy",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia",
+                "nvidia.com"
+            ],
+            "summary": "Nvidia is launching its DGX Spark 'personal AI supercomputer' this week, designed for sophisticated AI models yet small enough for a desktop. Orders for the DGX Spark can be placed online at nvidia.com starting Wednesday."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Video: ‘World's first' AI-powered Santa robot blends learning with holiday fun",
+            "author": "Interesting Engineering",
+            "url": "https://article.wn.com/view/2025/10/13/video_8216world_s_first_8217_aipowered_santa_robot_blends_le",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "MangDang Technology"
+            ],
+            "summary": "MangDang Technology, a robotics firm based in Hong Kong, has launched an AI-powered Santa Claus robot. This robot, designed for educational and entertainment, went live on Kickstarter on October 7."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "MG Motor expands its globally successful HS line-up with the Middle East launch of the All-New MG HS Hybrid+",
+            "author": "Al Bawaba",
+            "url": "https://article.wn.com/view/2025/10/13/MG_Motor_expands_its_globally_successful_HS_lineup_with_the_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "MG Motor"
+            ],
+            "summary": "MG Motor has launched the all-new MG HS Hybrid+ in the Middle East. The new product offers a combination of advanced hybrid performance, efficiency, striking design, and premium comfort."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "Rs 2.90 crore Mercedes-Benz G 450d launched in India: 3.0-litre diesel engine with 750 nm ...",
+            "author": "The Economic Times",
+            "url": "https://article.wn.com/view/2025/10/13/Rs_290_crore_MercedesBenz_G_450d_launched_in_India_30litre_d_m",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Mercedes-Benz India"
+            ],
+            "summary": "Mercedes-Benz India is introducing the G 450d, which is a new diesel luxury SUV. This vehicle promises to be a powerful addition to their lineup."
+        },
+        {
+            "published_date": "2025-10-13T00:00:00",
+            "title": "What Time Does Pokemon Legends Z-A Come Out?",
+            "author": "Game Rant",
+            "url": "https://article.wn.com/view/2025/10/13/What_Time_Does_Pokemon_Legends_ZA_Come_Out",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "Nintendo is preparing to release 'Pokemon Legends: Z-A'. The game will be available on both the Nintendo Switch and the upcoming Nintendo Switch 2."
+        }
+    ]
+}
