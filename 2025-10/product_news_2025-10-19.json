@@ -1,0 +1,934 @@
+{
+    "status": "ok",
+    "total_articles": 58,
+    "articles": [
+        {
+            "published_date": "2025-10-19T23:41:00",
+            "title": "This New Amazon Prime Benefit Could Be a Game Changer",
+            "author": "John Bromels",
+            "url": "https://finance.yahoo.com/news/amazon-prime-benefit-could-game-234100136.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Target",
+                "Walmart"
+            ],
+            "summary": "Amazon has introduced a new Prime perk called \"Add to Delivery\", allowing U.S. Prime members to add items to already-scheduled deliveries via the Amazon Shopping app or mobile website. This feature, accessible by tapping a button labeled \"Add to today's delivery\", aims to enhance convenience and could potentially increase the company's e-commerce revenue."
+        },
+        {
+            "published_date": "2025-10-19T21:15:42",
+            "title": "John Lewis shoppers can £300 gift card for the next 10 days",
+            "author": "Ray Bonsall",
+            "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/john-lewis-shoppers-can-300-32707585",
+            "url_media": "https://i2-prod.liverpoolecho.co.uk/article30717961.ece/ALTERNATES/s1200/1_john-lewis-storefrontJPG.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "My John Lewis",
+                "John Lewis",
+                "John Lewis & Partners",
+                "Sage",
+                "Miele",
+                "Waitrose & Partners",
+                "Dyson"
+            ],
+            "summary": "John Lewis is offering gift cards to My John Lewis loyalty scheme members for purchases of select electricals made between October 1st and 29th. Qualifying products include the Sage Oracle Dual Boiler Coffee Machine (earning a £200 gift card), the Dyson Supersonic Origin Hair Dryer (earning a £50 gift card), and the Miele Duoflex HX1 Allfloor Cordless Vacuum Cleaner (earning a £100 gift card)."
+        },
+        {
+            "published_date": "2025-10-19T21:00:00",
+            "title": "Car buying made simple: CarExpert launches a better way to buy a new car",
+            "author": "Carexpert.com.au",
+            "url": "https://www.bordermail.com.au/story/9092125/car-buying-made-simple-carexpert-launches-a-better-way-to-buy-a-new-car",
+            "url_media": "https://www.bordermail.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f777f583-d379-4b1e-9ca3-111bed0a1f3f.jpg/r0_136_1918_1143_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "CarExpert"
+            ],
+            "summary": "CarExpert has launched a new car buying experience tailored for Australian shoppers. This new service aims to improve the car buying process for customers."
+        },
+        {
+            "published_date": "2025-10-19T21:00:00",
+            "title": "Car buying made simple: CarExpert launches a better way to buy a new car",
+            "author": "Carexpert.com.au",
+            "url": "https://www.bunburymail.com.au/story/9092125/car-buying-made-simple-carexpert-launches-a-better-way-to-buy-a-new-car",
+            "url_media": "https://www.bunburymail.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f777f583-d379-4b1e-9ca3-111bed0a1f3f.jpg/r0_136_1918_1143_w1200_h630_fmax.jpg",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "CarExpert",
+                "Email",
+                "Google",
+                "Apple",
+                "Motoring News"
+            ],
+            "summary": "CarExpert has launched a new car buying experience designed for the way Australians shop today. Customers can create a free account to access the service."
+        },
+        {
+            "published_date": "2025-10-19T20:36:38",
+            "title": "Samsung Rugged Phone: Best Camera & Affordable Price!",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/samsung-rugged-phone-best-camera-affordable-price",
+            "url_media": "https://media.tycsports.com/files/2025/10/15/892537/celular-samsung_1440x810.webp",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung"
+            ],
+            "summary": "Samsung has introduced the Galaxy XCover7, a rugged smartphone designed for demanding work environments and users seeking durability. The phone features IP68 certification, reinforced design, extended battery life, and the Knox Matrix security platform. It targets industries like construction, field services, and logistics."
+        },
+        {
+            "published_date": "2025-10-19T20:31:02",
+            "title": "37 Kid-Friendly Treats They'll Absolutely Love",
+            "author": "Heather Braga",
+            "url": "https://www.buzzfeed.com/hbraga/treats-for-kids-2025",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/14/18/thumb/Akg3fDMuH.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Coco Wyo"
+            ],
+            "summary": "Crayola is offering Globbles and a set of Scribble Scrubbie pets, which are reusable coloring toys. LeapFrog has released a Touch and Learn eReader for children, along with a 100 Words Book for learning in English and Spanish. Craft-tastic offers a \"Make a Fox Friend\" sewing kit, and Coco Wyo is known for creating playful coloring books."
+        },
+        {
+            "published_date": "2025-10-19T20:23:43",
+            "title": "AWS News: QuickSuite, EC2, EKS & Oct '25 Updates",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/aws-news-quicksuite-ec2-eks-oct-25-updates",
+            "url_media": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Elden Ring",
+                "Supreme Court"
+            ],
+            "summary": "The article discusses how serverless computing, pioneered by services like AWS Lambda, allows developers to focus on code, abstracting server management, and accelerating innovation. The convergence of serverless, event-driven programming, and edge computing empowers developers to build innovative products, marking a shift in how innovation happens."
+        },
+        {
+            "published_date": "2025-10-19T20:15:00",
+            "title": "ROG Xbox Ally X review - Are the Nintendo Switch 2 and Steam Deck in serious trouble?",
+            "author": "Liam Martin",
+            "url": "https://www.express.co.uk/entertainment/gaming/2123125/asus-rog-xbox-ally-x-review-likes-dislikes-switch-2-steam-deck",
+            "url_media": "https://cdn.images.express.co.uk/img/dynamic/143/1200x630/6499679.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Epic Games",
+                "Steam"
+            ],
+            "summary": "ASUS has launched the ROG Xbox Ally X, a handheld gaming device that combines Windows versatility with the Xbox console experience. The device features an AMD Ryzen AI Z2 Extreme processor, AMD Radeon graphics, an 80Wh battery, and a 7-inch 1080p touchscreen with a 120Hz refresh rate. It aims to provide access to a wide range of games via Xbox Game Pass and other storefronts, offering both console-like interface and the option to switch to a traditional Windows desktop."
+        },
+        {
+            "published_date": "2025-10-19T19:01:03",
+            "title": "31 Home Products You'll Regret Not Buying Sooner (Sorry In Advance)",
+            "author": "Courtney Lynch",
+            "url": "https://www.buzzfeed.com/courtney_lynch/sorry-home-items-youll-regret-not-buying-sooner-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-07/07/21/thumb/nHiutTXyE.jpg?crop=1245:830;3,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Anthropologie",
+                "HGTV"
+            ],
+            "summary": "The content presents multiple cleaning and household gadgets. These include: Capri Blue Volcano-scented multipurpose cleaner, reusable screen-cleaning brush, all-in-one decor paint, handy-dandy food savers, instant mold and mildew stain remover spray, bedsheet tags, white caulk tape, Pikk-it tool, crack weeder tool, Command spray bottle hangers, hidden, plug-in fly trap, Tibet Almond scratch remover stick, battery-operated patio umbrella light, veggie chopper, hoodie hanger, ceiling fan carbon filter, outlet extender, detergent cup holders, foaming drain cleaner, silicone clip-on strainer, roll of waterproof 10M wood grain tape, plant cleaning wipes with neem oil, dryer vent cleaning system, washing machine cleaning gel, cheeky doorbell cover, mattress lifter, combo berry basket and colander, Snug Plugs, Miss Mouth's Messy Eater Stain Treater Spray, and 2-in-1 knife and cutting board."
+        },
+        {
+            "published_date": "2025-10-19T18:35:39",
+            "title": "Mini Nissan Patrol Trademarked in Australia: Embracing Renault DNA",
+            "author": "Daniel Foster",
+            "url": "https://www.archyde.com/mini-nissan-patrol-trademarked-in-australia-embracing-renault-dna",
+            "url_media": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/6aeda4c5-d755-58e3-85d6-b7894e650000",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Renault",
+                "Elden Ring",
+                "Nissan",
+                "BYDFi",
+                "renault",
+                "Renault-Nissan-Mitsubishi Alliance",
+                "Supreme Court",
+                "Embryolisse",
+                "nissan",
+                "Embr"
+            ],
+            "summary": "Nissan is planning to launch a new compact SUV named 'Mini Patrol,' leveraging Renault's CMF-B platform for cost savings and efficient production. The Mini Patrol will incorporate design elements from the larger Patrol model and is expected to offer a range of petrol and hybrid powertrain options, with a focus on off-road capability to compete in the small SUV segment."
+        },
+        {
+            "published_date": "2025-10-19T18:33:47",
+            "title": "Samsung's Latest Special Offer For Galaxy Phone Buyers",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/10/19/Samsung_s_Latest_Special_Offer_For_Galaxy_Phone_Buyers",
+            "url_media": "https://ecdn4.wn.com/or/assets/assets/wn/img/logo.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Samsung"
+            ],
+            "summary": "Samsung is providing new offers to customers purchasing Galaxy phones in the U.S."
+        },
+        {
+            "published_date": "2025-10-19T18:30:02",
+            "title": "Taylor Swift Uses This $28 Body Wash for Smooth, Luxurious Skin",
+            "author": "Olivia Hanson",
+            "url": "https://www.usmagazine.com/shopping/news/taylor-swift-ouai-body-wash-amazon",
+            "url_media": "https://www.usmagazine.com/wp-content/uploads/2025/10/GettyImages-1836506214.jpg?crop=0px%2C65px%2C4723px%2C2481px&resize=1200%2C630&quality=86&strip=all",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Ouai",
+                "Us Weekly",
+                "Instagram",
+                "InStyle",
+                "Charlotte Tilbury",
+                "Google News",
+                "Apple News"
+            ],
+            "summary": "Ouai St. Barts Body Wash is becoming popular, with over 6,000 shoppers buying it in the last month and over 1,500 perfect ratings. Taylor Swift is a user of the Ouai St. Barts Body Wash, packed with jojoba seed oil and rosehip oil, transforming every shower into a self-care ritual. The body wash also has notes of dragonfruit, orange blossom and musk."
+        },
+        {
+            "published_date": "2025-10-19T18:30:02",
+            "title": "Taylor Swift Quietly Revealed the $28 Body Wash She Uses for Smooth, Luxurious Skin",
+            "author": "Olivia Hanson",
+            "url": "https://www.newsbreak.com/us-weekly-561366/4301227904347-taylor-swift-quietly-revealed-the-28-body-wash-she-uses-for-smooth-luxurious-skin",
+            "url_media": "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=256&q=75",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "Amazon",
+                "Ouai",
+                "Us Weekly"
+            ],
+            "summary": "Ouai St. Barts Body Wash, used by Taylor Swift, is highlighted for its skin-loving ingredients and tropical aroma. The body wash is available on Amazon for $28 and has gained popularity among shoppers, receiving positive reviews and high sales volume."
+        },
+        {
+            "published_date": "2025-10-19T17:52:28",
+            "title": "Create Fast Growth Companies With Growth Loops",
+            "author": "Brian Wang",
+            "url": "https://www.nextbigfuture.com/2025/10/create-fast-growth-companies-with-growth-loops.html",
+            "url_media": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/10/Screenshot-2025-10-19-at-10.35.54-AM.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Lovable",
+                "PLG",
+                "Coca-Cola",
+                "Google",
+                "G2",
+                "DocuSign",
+                "Salesforce",
+                "Slack",
+                "Glean"
+            ],
+            "summary": "Lovable, a 10-month-old AI coding platform, is experiencing growth through a word-of-mouth loop, focusing on positive initial user experiences. The company emphasizes distribution strategies, including leveraging its brand through customer experiences and encouraging social media engagement by its founder and employees. Furthermore, a legal issue arose when a Lovable user replicated e-signatures, a feature provided by DocuSign."
+        },
+        {
+            "published_date": "2025-10-19T17:20:30",
+            "title": "Four cheap tricks to keep your fabric fresh without pricey cleaning products",
+            "author": "Mel Hunter",
+            "url": "https://www.thesun.co.uk/money/37059716/sun-savers-washing-clothes-money-tips-hacks",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/10/laundry-basket-front-washing-machine-1031974086_731450.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Boots",
+                "B&Q",
+                "Poundland",
+                "Dunelm",
+                "Superdrug",
+                "Clarks Howard",
+                "Tesco",
+                "The Sun"
+            ],
+            "summary": "Boots offers the Philips Sonicare 5300 Electric Toothbrush at a reduced price of £59.99, previously £169.99. Tesco introduces Tilda Taste Travellers Mild Thai Green Curry Rice (220g) for £2. Superdrug sells M&Co Grip Primer as a dupe for Milk Makeup Hydro Grip Primer."
+        },
+        {
+            "published_date": "2025-10-19T16:28:33",
+            "title": "Robot Vacuum Cleaner",
+            "author": "Abdul",
+            "url": "https://www.stl.news/robot-vacuum-cleaner-free-delivery-offer",
+            "url_media": "https://n3n9b4f6.delivery.rocketcdn.me/wp-content/uploads/2025/04/1721852957596.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The Robot Vacuum Cleaner is introduced as an automatic vacuum and mop combo featuring high-performance suction and smart mapping technology. It offers app and voice control via Alexa and Google Assistant, operates for up to 150 minutes, and is designed for various surfaces like carpet, wood, and tile."
+        },
+        {
+            "published_date": "2025-10-19T16:03:49",
+            "title": "BAX INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Baxter International, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+            "author": "Bronstein",
+            "url": "https://apnews.com/press-release/globenewswire-mobile/bax-investor-alert-bronstein-gewirtz-grossman-llc-announces-that-baxter-international-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-6465b26ad98e7495a27c974f17379c0f",
+            "url_media": "https://assets.apnews.com/19/66/bc546486408c8595f01753a9fbeb/ap-logo-176-by-208.svg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Baxter",
+                "Bronstein, Gewirtz & Grossman",
+                "LLC",
+                "Defendants",
+                "GLOBE NEWSWIRE",
+                "Baxter International, Inc",
+                "Company",
+                "Bronstein, Gewirtz & Grossman, LLC",
+                "LinkedIn"
+            ],
+            "summary": "Baxter International is facing a class action lawsuit due to alleged defects in its Novum LVP pumps, which caused malfunctions and potential harm to patients. The lawsuit claims Baxter misled investors about the safety and efficacy of the Novum LVPs, leading to a risk of customers removing the pumps from service and a pause in new sales."
+        },
+        {
+            "published_date": "2025-10-19T15:05:00",
+            "title": "Early reviews praise Nvidia DGX Spark as a compact local AI workstation",
+            "author": "Tech Radar",
+            "url": "https://ground.news/article/early-reviews-praise-nvidia-dgx-spark-as-a-compact-local-ai-workstation",
+            "url_media": "https://ground.news/_next/static/media/googlePlayStoreBlack.62bce67b.svg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Nvidia"
+            ],
+            "summary": "Nvidia's DGX Spark is a new product featuring a compact design. It runs large AI models locally, removing the need for cloud infrastructure or external GPUs."
+        },
+        {
+            "published_date": "2025-10-19T14:14:09",
+            "title": "Lidl Ireland set to sell major Ninja air fryer dupe with 6 pre-set programs for just €49.99",
+            "author": "",
+            "url": "https://www.thesun.ie/fabulous/15984814/lidl-ireland-ninja-air-fryer-dupe-euro-bargain",
+            "url_media": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/10/newspress-collage-l0kvftqex-1760879195161.jpg?quality=80&strip=all&1760882804&w=1920&h=1080&crop=1",
+            "country": "IE",
+            "language": "en",
+            "org": [
+                "LIDL Ireland",
+                "The Irish Sun",
+                "Lidl Ireland",
+                "Ninja",
+                "Lidl"
+            ],
+            "summary": "Lidl Ireland is launching the Silvercrest XL Air Fryer on October 23rd. This air fryer, a dupe of the Ninja brand, offers six cooking presets, a 6.7-liter capacity, and a temperature range of 60-200 degrees Celsius, all for €49.99. The air fryer includes a 60-minute timer and a dishwasher-safe basket."
+        },
+        {
+            "published_date": "2025-10-19T14:00:01",
+            "title": "12 Things That Delighted Us Last Week: From Pearl Steak Knives to Beaded Grouses",
+            "author": "The Editors",
+            "url": "https://nymag.com/strategist/article/strategist-circular-pearl-steak-knives-beaded-grouses.html",
+            "url_media": "https://pyxis.nymag.com/v1/imgs/8d6/710/280cb196a8fa5cd0581216c1261a4728f4-sunday-circular-10-17-25.1x.rsocial.w1200.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Strategist",
+                "Canopy",
+                "Rimowa",
+                "Made In",
+                "Vermont Country Store"
+            ],
+            "summary": "Canopy launched a bedside air purifier, Rimowa released ballerina pink luggage, and Eric Wareheim collaborated with Made In to create attractive steak knives. Toniebox released a new version of their audio player for younger kids. Satisfy has running shoes built for races. CCRM recommends WHOOP fitness tracker. Prequel launched a moisturizing, non-stripping face wash. John Derian for Target released a new collection. J.Crew launched a children's sweater. Andrew Carmellini offers dried oregano at Locanda Verde and Bar Primi."
+        },
+        {
+            "published_date": "2025-10-19T13:32:24",
+            "title": "'I took a chance on the sexiest perfume ever made and it's an instant classic'",
+            "author": "Rachel Williams",
+            "url": "https://www.dailyrecord.co.uk/lifestyle/fashion-beauty/i-took-chance-sexiest-perfume-36087381",
+            "url_media": "https://i2-prod.dailyrecord.co.uk/article36087207.ece/ALTERNATES/s1200/0_Rachel-Williams-Youth-Dew-Perfume-review.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Daily Record",
+                "Estée",
+                "Savers",
+                "Amazon",
+                "Boots",
+                "The Perfume Shop",
+                "Estee Lauder"
+            ],
+            "summary": "Estée Lauder launched Youth Dew, an oriental-inspired fragrance, initially as a bath oil in 1958. The fragrance includes notes of rose, lavender, jasmine, moss, vetiver, and patchouli. It is available at multiple retailers including Amazon, Savers, The Perfume Shop, and Boots."
+        },
+        {
+            "published_date": "2025-10-19T13:19:57",
+            "title": "Lidl's £18 middle aisle gadget is a genius way to shave money off your food shop every week",
+            "author": "Roisin Chapman",
+            "url": "https://www.thesun.co.uk/money/37040024/lidl-gadget-save-money-food-shop-vacuum-sealer",
+            "url_media": "https://www.thesun.co.uk/wp-content/uploads/2025/09/cropped-shot-young-woman-carrying-1025864211_c214cd.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Lidl",
+                "LIDL",
+                "Bristol",
+                "Derby",
+                "Liverpool",
+                "London",
+                "Manchester",
+                "Nottingham",
+                "Oxford",
+                "Southampton",
+                "Swansea",
+                "Birmingham",
+                "Sheffield",
+                "Cambridge",
+                "Edinburgh"
+            ],
+            "summary": "Lidl is launching the Silvercrest Kitchen Tools Black Vacuum Sealer for £17.99 on October 23rd. The vacuum sealer preserves food flavor and is suitable for sous-vide cooking, featuring a removable drip tray, wet and soft functions and a three-year warranty."
+        },
+        {
+            "published_date": "2025-10-19T13:19:27",
+            "title": "Opera's Neon Browser Highlights the Complexity of AI Integration",
+            "author": "Internewscast",
+            "url": "https://internewscast.com/tech/operas-neon-browser-highlights-the-complexity-of-ai-integration",
+            "url_media": "https://internewscast.com/wp-content/uploads/2025/10/Operas-Neon-shows-just-how-confusing-AI-browsers-still-are.png",
+            "country": "NG",
+            "language": "en",
+            "org": [
+                "Opera",
+                "Verge",
+                "Google",
+                "internewscast.com",
+                "Perplexity",
+                "The Browser Company",
+                "OpenAI",
+                "The Verge",
+                "CrossFit"
+            ],
+            "summary": "Opera launched Neon, an AI-enhanced browser with three AI bots, including Chat, Do, and Make. Neon shares many features with other Opera browsers, such as an integrated ad blocker, VPN, and a customizable sidebar. Neon is priced at $19.90 per month."
+        },
+        {
+            "published_date": "2025-10-19T13:00:17",
+            "title": "#TECH: Raising the bar for mid-range smartphone",
+            "author": "Izwan Ismail",
+            "url": "https://www.nst.com.my/lifestyle/bots/2025/10/1298170/tech-raising-bar-mid-range-smartphone",
+            "url_media": "https://assets.nst.com.my/images/articles/F6248467448A29E36A6127369AEF13AF_low.jpg",
+            "country": "MY",
+            "language": "en",
+            "org": [
+                "Honor"
+            ],
+            "summary": "Honor has launched the X9d 5G smartphone, a mid-range device with a 108MP camera, enhanced durability with Corning Gorilla Glass Victus 2, and an 8300mAh battery.  The phone features a 6.79-inch OLED display and is powered by the Snapdragon 6 Gen 4 chipset, retailing from RM1,499."
+        },
+        {
+            "published_date": "2025-10-19T13:00:00",
+            "title": "Agency wants to ‘blow things up' and rewire marketing for new era",
+            "author": "Danielle Long",
+            "url": "https://www.theaustralian.com.au/business/growth-agenda/rga-wants-to-blow-things-up-and-rewire-marketing-for-the-ai-era/news-story/8031b53d9a22b4b1634058983df7a9d5",
+            "url_media": "https://content.api.news/v3/images/bin/7924f6b4e3b9361bee12c104ce50c060",
+            "country": "AU",
+            "language": "en",
+            "org": [
+                "TaDa",
+                "R/GA",
+                "The Australian",
+                "Sydney",
+                "AB InBev"
+            ],
+            "summary": "R/GA agency is promoting a new approach to marketing using AI to rethink entire marketing products. They showcased 'Abandoned Nights' experience for AB InBev's eCommerce platform TaDa, creating personalized animated videos to address cart abandonment. These AI-created videos use customer's cart items and personal details to encourage purchase completion."
+        },
+        {
+            "published_date": "2025-10-19T12:00:00",
+            "title": "How To Stay Ahead In A Market That Is Changing Faster Than Ever",
+            "author": "John Hall",
+            "url": "https://www.forbes.com/sites/johnhall/2025/10/19/how-to-stay-ahead-in-a-market-that-is-changing-faster-than-ever",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/647910df1473fdd31f88d95d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The 'Do What Works' platform leverages AI to enhance website conversion rate optimization. It enables companies to rapidly test design and messaging variations, providing data-driven insights for quicker decisions. This technology facilitates website optimization, ensuring alignment with evolving consumer behaviors and preferences."
+        },
+        {
+            "published_date": "2025-10-19T12:00:00",
+            "title": "Stay Fresh & Confident: Top 4 Men's Deodorants You Need in 2025",
+            "author": "Zee Media Bureau",
+            "url": "https://zeenews.india.com/top-deals/personal-care/stay-fresh-confident-top-4-men-s-deodorants-you-need-in-2025-2966903.html",
+            "url_media": "https://english.cdn.zeenews.com/sites/default/files/2025/10/01/1838975-njn-34.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Myntra.com",
+                "Bombay Shaving Company",
+                "Wild Stone",
+                "Wild Stone Code",
+                "Zee News",
+                "Denver"
+            ],
+            "summary": "Bombay Shaving Company launched Men Desire Deodorant Spray, engineered to provide long-lasting freshness with a masculine scent. Wild Stone Code introduced Titanium No Gas Body Perfume offering a strong and long-lasting fragrance in an eco-friendly spray. AXE released Dark Temptation Deodorant, a body spray with a sweet chocolate-like scent and Denver Hamilton released deodorant body sprays offering a crisp scent and long lasting freshness."
+        },
+        {
+            "published_date": "2025-10-19T10:26:37",
+            "title": "**Stuff Quiz: Ultimate Challenge of Tough Words for October 19, 2025**",
+            "author": "Marina Collins",
+            "url": "https://www.archyde.com/stuff-quiz-ultimate-challenge-of-tough-words-for-october-19-2025",
+            "url_media": "https://pixel.wp.com/g.gif?v=ext&blog=170321185&post=8195801&tz=0&srv=www.archyde.com&j=1%3A15.1.1&host=www.archyde.com&ref=&fcp=3783&rand=0.429533654082044",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Apple",
+                "Supreme Court",
+                "BYDFi"
+            ],
+            "summary": "The article mentions a quiz covering various topics like activewear, bloodstock market reports, and fitness tracking wearables. It also includes a list of products and services such as Embryolisse Cicalisse cream, financial services, and video game consoles. The quiz also includes products such as Apple smart home devices and iPhone 17."
+        },
+        {
+            "published_date": "2025-10-19T10:00:14",
+            "title": "ChatGPT 6 Set To Release Early : Why GPT-6 AI Could Change Everything",
+            "author": "",
+            "url": "https://ground.news/article/chatgpt-6-set-to-release-early-why-gpt-6-ai-could-change-everything",
+            "url_media": "https://ground.news/_next/image?url=https%3A%2F%2Fgrnd.b-cdn.net%2Finterests%2Fd2ce81aa9d39b3491d893cc3c21fa0c6f895781d.jpg%3Fwidth%3D48&w=128&q=75",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "ChatGPT 6, the successor to GPT-5, is anticipated for an earlier release. This new AI model could redefine the capabilities of machines."
+        },
+        {
+            "published_date": "2025-10-19T09:50:14",
+            "title": "7 millions d'Américains dans la rue pour manifester contre Donald Trump",
+            "author": "Séraphine Roger",
+            "url": "https://www.vanityfair.fr/article/7-millions-damericains-dans-la-rue-pour-manifester-contre-donald-trump",
+            "url_media": "https://media.vanityfair.fr/photos/68f4b13f8ab2f576407d19a8/16:9/w_1280,c_limit/GettyImages-2241653369.jpg",
+            "country": "FR",
+            "language": "en",
+            "org": [
+                "6sense",
+                "ADYOULIKE",
+                "OpenWeb",
+                "Active Agent",
+                "AcuityAds",
+                "AdElement Media Solutions",
+                "Adara",
+                "Adex",
+                "Adform Adition",
+                "Adobe Advertising Cloud"
+            ],
+            "summary": "An apparel company intends to promote its new line of high-end baby clothes by targeting wealthy young parents and couples through profile-based advertising within partner apps. The company collaborates with an agency to create profiles of potential customers with high income and new children to present relevant ads."
+        },
+        {
+            "published_date": "2025-10-19T08:53:56",
+            "title": "Amelia Liu of realme: ‘Don't be intimidated by AI-powered smartphones'",
+            "author": "Francine Y. Medina",
+            "url": "https://businessmirror.com.ph/2025/10/18/freshly-brewed-amelia-liu-of-realme-dont-be-intimidated-by-ai-powered-smartphones",
+            "url_media": "https://businessmirror.com.ph/wp-content/uploads/2025/10/screenshot-2025-10-19-at-4.39.39-pm.jpg",
+            "country": "PH",
+            "language": "en",
+            "org": [
+                "realme",
+                "Science",
+                "BusinessMirror",
+                "Oppo"
+            ],
+            "summary": "realme launched the realme 15 series 5G, equipped with a 7000mAh battery, 80W fast charging, and 50MP AI cameras. The series, priced between P18,999 and P30,999, targets young Filipinos, offering flagship-level features at an accessible price, and emphasizing AI-driven user experience enhancements."
+        },
+        {
+            "published_date": "2025-10-19T08:44:02",
+            "title": "Ooredoo Surprises First Mega Promo Winner with BYD Car at MGM",
+            "author": "",
+            "url": "https://www.albawaba.com/business/pr/ooredoo-surprises-first-mega-promo-1614823",
+            "url_media": "https://www.albawaba.com/sites/default/files/styles/default/public/2025-10/BYD%20First%20winner%201.jpg?itok=LH2uhmeU",
+            "country": "JO",
+            "language": "en",
+            "org": [
+                "Ooredoo",
+                "BYD",
+                "Grand Mall",
+                "MGM",
+                "Ooredoo App",
+                "Al Bawaba",
+                "Signal PressWire"
+            ],
+            "summary": "Ooredoo launched its Mega Promo in September 2025, offering customers the chance to win prizes like BYD cars by signing up for or upgrading to an O Plus plan. The first grand prize, a BYD car, was awarded to Bilarab Saeed Al Maskary during a surprise celebration. The promotion is designed to create real moments and joy for Ooredoo's customers."
+        },
+        {
+            "published_date": "2025-10-19T08:35:00",
+            "title": "International Technology Night: OMODA&JAECOO Leverage Power and Smart Mobility to Lead a New Wave of User Co-Creation",
+            "author": "PR Newswire",
+            "url": "https://uk.finance.yahoo.com/news/international-technology-night-omoda-jaecoo-083500385.html",
+            "url_media": "https://media.zenfs.com/en/prnewswire.com/c39ad77cb0c16bbdae5ea8df11f392cd",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "OMODA&JAECOO",
+                "PRNewswire",
+                "OMODA JAECOO",
+                "Ch"
+            ],
+            "summary": "OMODA&JAECOO unveiled AIMOGA, an intelligent service platform featuring AI and human-machine interaction. They also presented their hybrid vehicle technology equipped with the SHS Super Hybrid System. OMODA JAECOO will introduce more new models in Malaysia."
+        },
+        {
+            "published_date": "2025-10-19T08:26:33",
+            "title": "HONOR unveils its innovative ALPHA flagship store in Shenzhen",
+            "author": "Mapaseka Mogotsi",
+            "url": "https://iol.co.za/technology/2025-10-19-honor-unveils-its-innovative-alpha-flagship-store-in-shenzhen",
+            "url_media": "https://iol-prod.appspot.com/image/800fe53d1d306b031591732275c123aae9905163/1280/jpeg",
+            "country": "ZA",
+            "language": "en",
+            "org": [
+                "HONOR",
+                "HONOR Device Co. Ltd",
+                "ALPHA Global Flagship Store",
+                "HONOR ALPHA",
+                "HONOR SA"
+            ],
+            "summary": "HONOR launched its ALPHA global flagship store in Shenzhen, China, showcasing its AI device ecosystem. The store features an all-scenario experience zone and a YOYO Zone dedicated to HONOR's AI assistant, YOYO. The company also plans to open a store in South Africa, inspired by the Shenzhen model."
+        },
+        {
+            "published_date": "2025-10-19T08:26:00",
+            "title": "The Next Is A High Design Campervan For Off The Grid Living",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/10/19/The_Next_Is_A_High_Design_Campervan_For_Off_The_Grid_Living",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Noovo"
+            ],
+            "summary": "Noovo announced the Next, a high-design Class B RV. The RV is built on a Mercedes Sprinter 170 chassis. The interiors are designed like a boutique hotel."
+        },
+        {
+            "published_date": "2025-10-19T08:03:12",
+            "title": "Enhancing Supplier Events Through TNI's Content Writing Services: Focus on Content, Not Virtual Assistance",
+            "author": "Marina Collins",
+            "url": "https://www.archyde.com/enhancing-supplier-events-through-tnis-content-writing-services-focus-on-content-not-virtual-assistance",
+            "url_media": "https://www.archyde.com/wp-content/uploads/2025/05/archydegemini.jpeg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "TNI",
+                "Supreme"
+            ],
+            "summary": "TNI provides content writing services for supplier events, offering support for event descriptions, speaker briefs, presentation scriptwriting, email marketing, and post-event summaries. These services are designed to improve supplier engagement and deliver impactful content, focusing on strategic communication and moving beyond simple logistical support."
+        },
+        {
+            "published_date": "2025-10-19T07:29:52",
+            "title": "vivo launches OriginOS globally, setting a new standard for seamless mobile experiences. Letem svetem Applem",
+            "author": "Marina Collins",
+            "url": "https://www.archyde.com/vivo-launches-originos-globally-setting-a-new-standard-for-seamless-mobile-experiences-letem-svetem-applem",
+            "url_media": "https://www.letemsvetemapplem.eu/wp-content/uploads/2025/10/OS-KV-horizon.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Vivo",
+                "IDC",
+                "SGS",
+                "Google"
+            ],
+            "summary": "Vivo has launched OriginOS, a new operating system featuring the Origin Smooth Engine for enhanced speed and stability, and Origin Design inspired by nature for intuitive use. The OS integrates Vivo AI, powered by Google's Gemini, featuring Origin Island for dynamic, context-aware notifications and action suggestions."
+        },
+        {
+            "published_date": "2025-10-19T07:02:00",
+            "title": "The Next Is A High Design Campervan For Off The Grid Living",
+            "author": "Everett Potter",
+            "url": "https://www.forbes.com/sites/everettpotter/2025/10/19/the-next-is-a-high-design-campervan-for-off-the-grid-living",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/68f259f77840033058935d58/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Noovo",
+                "Starlink",
+                "Garmin"
+            ],
+            "summary": "Noovo has launched the 'Next', a luxury campervan built on the Mercedes Sprinter 170 chassis. This all-wheel drive model features a stylish interior and amenities such as a fully equipped kitchen, indoor shower, and optional satellite internet. The Noovo Next is available for pre-order now for $232,750, with production beginning in Spring 2026."
+        },
+        {
+            "published_date": "2025-10-19T07:00:00",
+            "title": "EXCLUSIVE: 'My daughter inspired my baby skincare brand - now it's an international success'",
+            "author": "Shannon Miller",
+            "url": "https://www.mirror.co.uk/lifestyle/my-daughter-inspired-baby-skincare-36065427",
+            "url_media": "https://i2-prod.mirror.co.uk/article36065457.ece/ALTERNATES/s1200/0_My-daughter-inspired-my-baby-skincare-brand-now-its-an-international-success.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Nala's Baby",
+                "The Mirror",
+                "Boots",
+                "GRM Daily",
+                "Manchester United",
+                "Audience U35"
+            ],
+            "summary": "Nala's Baby, a skincare brand created by Krept and Sasha Ellese Gilbert, launched in 2020 after they identified a need for safe and affordable baby skincare products. After securing investment from high-profile figures, they launched with Boots, the brand has expanded its product line, launching Nala's Kids, and is pushing distribution further into Europe and America."
+        },
+        {
+            "published_date": "2025-10-19T06:37:39",
+            "title": "AI: Businesses to Avoid & Lose Money On 📉",
+            "author": "Daniel Foster",
+            "url": "https://www.archyde.com/ai-businesses-to-avoid-lose-money-on-%f0%9f%93%89",
+            "url_media": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "BYDFi",
+                "Elden Ring",
+                "Apple"
+            ],
+            "summary": "The business landscape is shifting due to AI, creating opportunities for companies that leverage it. AI-powered solutions, such as personalized chatbots, automated content generation, and AI-powered agencies, are emerging as promising ventures. Businesses can use AI to streamline operations, personalize customer experiences, and create new revenue streams."
+        },
+        {
+            "published_date": "2025-10-19T06:20:00",
+            "title": "New Android phone with unique sci-fi perk revealed",
+            "author": "Henry Burrell",
+            "url": "https://www.express.co.uk/life-style/science-technology/2122780/new-android-phone-unique-scifi-perk-honor-robot-phone",
+            "url_media": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/6496827.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Honor",
+                "HONOR",
+                "Honorglobal",
+                "Samsung"
+            ],
+            "summary": "Honor has teased the 'Robot Phone,' an AI-powered device with robotic functionality and advanced imaging capabilities. The phone is designed to be an emotional companion and is scheduled for a full reveal at Mobile World Congress in March 2026. It is part of Honor's 'Alpha Plan' to link devices and services with AI."
+        },
+        {
+            "published_date": "2025-10-19T06:20:00",
+            "title": "New Android phone with unique sci-fi perk revealed",
+            "author": "Daily Express",
+            "url": "https://ground.news/article/new-android-phone-with-unique-sci-fi-perk-revealed",
+            "url_media": "https://ground.news/_next/image?url=https%3A%2F%2Fgrnd.b-cdn.net%2Finterests%2F7629df4eea39c4ddb51cdbcbe076dcf02ee4cdeb.jpg%3Fwidth%3D48&w=128&q=75",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Honor"
+            ],
+            "summary": "Honor has teased a new smartphone. This smartphone features an extending robot arm."
+        },
+        {
+            "published_date": "2025-10-19T06:00:26",
+            "title": "LG U+ announced on the 19th that it has simplified the roaming subscription process from 10 steps to..",
+            "author": "Jeong Hojun",
+            "url": "https://www.mk.co.kr/en/it/11445254",
+            "url_media": "https://wimg.mk.co.kr/news/cms/202510/19/news-p.v1.20251019.0c40a4433f554d2f8ad42cfa9af1d81c_P1.jpg",
+            "country": "KR",
+            "language": "en",
+            "org": [
+                "LG U+",
+                "LG U+'",
+                "LG U+]",
+                "LG Uplus"
+            ],
+            "summary": "LG U+ has launched an AI-powered chatbot to streamline its roaming subscription process. The chatbot, enhanced with a large language model (LLM), can understand interactive sentence requests and recommend appropriate pricing plans, reducing the subscription process from 10 steps to 4. This improvement has significantly increased the net customer recommendation index (NPS) for roaming chatbots."
+        },
+        {
+            "published_date": "2025-10-19T06:00:00",
+            "title": "Molly-Mae uses this residue-free dry shampoo to style her new ‘cool girl' bob",
+            "author": "Meghan Coon",
+            "url": "https://www.mirror.co.uk/3am/style/molly-mae-hague-dry-shampoo-36073761",
+            "url_media": "https://i2-prod.mirror.co.uk/article36073775.ece/ALTERNATES/s1200/0_new-canva-2025-10-15T142441477.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "Lookfantastic"
+            ],
+            "summary": "Molly-Mae Hague is promoting Living Proof's Perfect Hair Day PHD Advanced Clean Dry Shampoo, emphasizing its residue-free formula, ability to refresh hair between washes, and other benefits like oil and sweat removal. The dry shampoo is available at retailers such as Lookfantastic, Amazon, Sephora, and Cult Beauty."
+        },
+        {
+            "published_date": "2025-10-19T05:56:00",
+            "title": "Top Hair Dryers for Styling at Home – Pick on Myntra's Diwali Sale",
+            "author": "Zee Media Bureau",
+            "url": "https://zeenews.india.com/top-deals/electronics/top-hair-dryers-for-styling-at-home-pick-on-myntra-s-diwali-sale-2971691.html",
+            "url_media": "https://english.cdn.zeenews.com/sites/default/files/2025/10/14/1845713-create-an-horizontal-image-of-a-women-wearing-green-shirt-15.png",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "Myntra.com",
+                "Philips"
+            ],
+            "summary": "Ikonic Professional offers the Blaze Hair Dryer with AC motor and interchangeable nozzles. Philips introduces a 1600W Hair Dryer with multiple settings. Winston presents the Ionic 1200W Foldable Hair Dryer featuring ionic technology, and Dyson promotes the Supersonic Hair Dryer with smart heat control for all hair types."
+        },
+        {
+            "published_date": "2025-10-19T05:50:52",
+            "title": "OnePlus 15 set to launch soon, Know details about it",
+            "author": "Ankshita Rout",
+            "url": "https://kalingatv.com/technology/oneplus-15-set-to-launch-soon-know-details-about-it",
+            "url_media": "https://www.kalingatv.com/wp-content/uploads/2025/10/one-plus-15.webp",
+            "country": "IN",
+            "language": "en",
+            "org": [
+                "One plus",
+                "Qualcomm",
+                "Oppo"
+            ],
+            "summary": "OnePlus will launch its flagship smartphone, the OnePlus 15, in China on October 27, along with the OnePlus Ace 6. The OnePlus 15 features a Qualcomm Snapdragon 8 Elite Gen 5 chipset and a 165Hz display. The OnePlus Ace 6, expected to be more affordable, may use an older chipset and offer 100W fast charging."
+        },
+        {
+            "published_date": "2025-10-19T05:47:33",
+            "title": "Global Startups Tap Avenue Sangma for Remote Marketing Strategy",
+            "author": "",
+            "url": "https://www.digitaljournal.com/pr/news/indnewswire/global-startups-tap-avenue-sangma-1574270147.html",
+            "url_media": "https://indnewswire.com/wp-content/uploads/2025/10/unnamed-40-500x341.png",
+            "country": "CA",
+            "language": "en",
+            "org": [
+                "Avenue Sangma",
+                "IndNewsWire"
+            ],
+            "summary": "Avenue Sangma, a remote-first marketing consulting firm, launched to serve startups, SaaS companies, and digital brands globally. The firm focuses on providing strategic partnership to align marketing with business goals and drive revenue-focused outcomes, offering services like CAC reduction, LTV growth, and go-to-market strategies."
+        },
+        {
+            "published_date": "2025-10-19T05:34:00",
+            "title": "The Body Shop Advent Calendar cuts product prices to just £4.80 each",
+            "author": "Callum Crumlish",
+            "url": "https://www.mirror.co.uk/money/shopping-deals/body-shop-advent-calendar-cuts-36060677",
+            "url_media": "https://i2-prod.mirror.co.uk/article36060673.ece/ALTERNATES/s1200/0_24c8b1a4-1882-4c09-b35d-83aa36fd214ejpeg.jpg",
+            "country": "GB",
+            "language": "en",
+            "org": [
+                "The Body Shop",
+                "Asda",
+                "Essex Live",
+                "Body Shop"
+            ],
+            "summary": "The Body Shop is launching its Ultimate Beauty Advent Calendar for 2025, priced at £120 but containing 25 beauty products with a reported value of £238. The calendar includes items like the Passionfruit Shower Gel, full-sized shampoo and conditioner, hand creams, lip balms, body scrubs, and face masks."
+        },
+        {
+            "published_date": "2025-10-19T05:30:00",
+            "title": "Top Washing Machines for 2025: Smart, Efficient, and Powerful",
+            "author": "",
+            "url": "https://zeenews.india.com/web-stories/top-washing-machines-for-2025-smart-efficient-and-powerful-2972220.html",
+            "url_media": "https://english.cdn.zeenews.com/sites/default/files/2025/10/15/1846513-2h0.jpg",
+            "country": "IN",
+            "language": "en",
+            "org": [],
+            "summary": "Various washing machine technologies are highlighted, including Deep Clean Technology and ActivMix for superior washing, Aqua Energie for soft water washing, and Wave Drum technology for efficient cleaning. Eco Bubble technology coupled with Digital Inverter Motors aim for energy-saving and quieter washes, while Magic Clean technology and a 5-star energy rating promote efficient cleaning. Features like Turbodrum, Auto Prewash, and Smart Diagnosis provide a powerful and smart laundry experience."
+        },
+        {
+            "published_date": "2025-10-19T05:01:04",
+            "title": "25 Products To Help Solve Gross Parenting Problems",
+            "author": "John Mihaly",
+            "url": "https://www.buzzfeed.com/jmihaly/target-products-solve-gross-parenting-problems",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/09/19/thumb/Ue60XQ1Hr.jpg?crop=3000:1571;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Munchkin",
+                "AmberPrice",
+                "KatiePrice"
+            ],
+            "summary": "Mr. Clean offers Extra Durable Erasers for stain removal. OxiClean provides solutions for laundry stains. Munchkin introduces faucet extenders. Oxo Tot launches a foldable 2-in-1 Go Potty. Aveeno offers hydrating detangling spray. FridaBaby provides a 3-in-1 nose, nail, and ear picker along with a pacifier medicine dispenser, and \"Control the Flow\" rinser. Aquaphor presents Baby healing ointment. Dr. Brown's launches an All-in-One Sterilizer & Dryer. Skip Hop introduces a baby changing station and diaper clutch. Kleenex offers \"On-the-Go\" tissues. Folex presents an instant carpet spot remover. Pampers provides Aqua Pure sensitive baby wipes. Reel Paper offers bamboo paper towels, and Yummy Pouches introduces silicone pouches."
+        },
+        {
+            "published_date": "2025-10-19T03:31:03",
+            "title": "From Lululemon To Drunk Elephant: 34 Alternatives To Pricey Brand-Name Items That Are So Good, You May Say \"Buh-Bye\" To The Originals",
+            "author": "Curtis Teegardin",
+            "url": "https://www.buzzfeed.com/curtisteegardin/good-alts-to-pricey-brand-name-items-an",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/09/18/thumb/z17TJh3zV.jpg?crop=2988:1992;6,0&resize=1250:830",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Clinique",
+                "Apple",
+                "Aritzia",
+                "E.l.f.",
+                "Elf",
+                "Crate & Barrel",
+                "Ugg",
+                "L'Oréal Paris",
+                "Dossier",
+                "YSL"
+            ],
+            "summary": "E.l.f. introduces the Halo Glow Liquid Filter, an affordable alternative to Charlotte Tilbury's Flawless Filter, designed to provide glowing skin, blur pores, and add moisture. L'Oréal Paris presents the Makeup True Match Lumi Glotion, a rival to Drunk Elephant's bronzing drops, offering an illuminating glow that can be used alone, under foundation, or as a highlighter. Dossier launches \"Ambery Vanilla\" perfume, inspired by YSL Black Opium, providing a luxury scent experience at a lower price point."
+        },
+        {
+            "published_date": "2025-10-19T03:22:56",
+            "title": "CHANDO Group: Over $40 Million Raised From Harvest Capital And L'Oréal Partnership Signed",
+            "author": "Amit Chowdhry",
+            "url": "https://pulse2.com/chando-group-over-40-million-raised-from-harvest-capital-and-loreal-partnership-signed",
+            "url_media": "https://cdn.pulse2.com/cdn/2025/10/Harvest-Capital-Logo.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "CHANDO",
+                "CHANDO Group",
+                "Harvest Capital",
+                "L'Oréal",
+                "Frost & Sullivan",
+                "sourcing",
+                "Perfection Research",
+                "Chunxia",
+                "Meisu",
+                "Jichu",
+                "Huashan Hospital",
+                "Fudan University Children's Hospital",
+                "DTC"
+            ],
+            "summary": "CHANDO Group, a leading Chinese beauty company, has developed proprietary ingredients like Ximoin, Blue Copper Peptide, and Space Ginseng Yeast through extensive R&D.  Their digital transformation, initiated in 2019, has created a fully digitalized operation, significantly improving efficiency and customer engagement.  This includes integrating tools for supply chain management and sales."
+        },
+        {
+            "published_date": "2025-10-19T01:45:00",
+            "title": "Aldi's ‘Awesome Pot' is So Similar to a Popular Artisan Style That's Nearly 4x the Price",
+            "author": "Julie Andrews",
+            "url": "https://www.mensjournal.com/food/aldi-crofton-nonstick-awesome-pot",
+            "url_media": "https://www.mensjournal.com/.image/w_1200,h_630,g_auto,c_fill/NDI6MDAwMDAwMDAwOTcyNDQ5/aldi-storefront-8.jpg",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Aldi",
+                "Aldi Reviewer",
+                "Our Place"
+            ],
+            "summary": "Aldi is relaunching the Crofton Awesome Pot, a nonstick Dutch oven, on October 22, for $36.99. The 6.5-quart pot, available in green and cream, is made of cast aluminum with 'FusionTi' nonstick coating and is oven safe. User reviews have been mostly positive about the Crofton Awesome Pot."
+        },
+        {
+            "published_date": "2025-10-19T00:31:02",
+            "title": "20 Sex Toys From Lovehoney Just Too Good To Gatekeep",
+            "author": "Cierra Cowan",
+            "url": "https://www.buzzfeed.com/cierracowan/sex-toys-from-lovehoney-just-too-good-to-gatekeep",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/14/21/thumb/nGmKCI-T_.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [],
+            "summary": "The article showcases a variety of sex toys ranging from clitoral stimulators and wands to dildos and cock rings. Key brands such as Womanizer and We-Vibe are mentioned, with product features like air technology, vibration settings, app control, and dual stimulation emphasized. Prices vary across the selection, offering options for different preferences and budgets."
+        },
+        {
+            "published_date": "2025-10-19T00:01:03",
+            "title": "35 Unexpected New Product Finds",
+            "author": "Emma Lord",
+            "url": "https://www.buzzfeed.com/emmalord9/unexpected-new-products",
+            "url_media": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/15/15/thumb/hEed1v1J3.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "Ulta",
+                "Amazon",
+                "Needoh"
+            ],
+            "summary": "Clinique introduced Almost Lipstick Tinted Lip Balm in NUDE Honey, a new shade of its iconic Black Honey lipstick. Liquid I.V. launched a limited edition Hydration Multiplier Hot Chocolate. Olay has released new Wicked hyaluronic serum body washes. Native Aluminum-Free Buttercream & Vanilla Deodorant is now available."
+        },
+        {
+            "published_date": "2025-10-19T00:00:00",
+            "title": "HONOR unleashes the HONOR X9d, the Unbreakable AI Smartphone built for everyday resilience",
+            "author": "Battery Life",
+            "url": "https://www.arabtimesonline.com/news/honor-unleashes-the-honor-x9d-the-unbreakable-ai-smartphone-built-for-everyday-resilience",
+            "url_media": "https://www.arabtimesonline.com/arabtimes/uploads/images/2025/10/18/thumbs/400x400/93737.jpg",
+            "country": "KW",
+            "language": "en",
+            "org": [
+                "HONOR"
+            ],
+            "summary": "HONOR is launching the new HONOR X9d smartphone, featuring industry-leading durability, a large 8300mAh battery, and advanced photography capabilities. The phone boasts dust and water ejection and will be available in four colors: Forest Green, Sunrise Gold, Midnight Black, and Reddish Brown."
+        },
+        {
+            "published_date": "2025-10-19T00:00:00",
+            "title": "I tried shopping for a gift using a new ChatGPT feature. It only got more ...",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/10/19/I_tried_shopping_for_a_gift_using_a_new_ChatGPT_feature_It_o",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "org": [
+                "ChatGPT",
+                "NurPhoto",
+                "Getty ImagesI",
+                "OpenAI"
+            ],
+            "summary": "OpenAI's ChatGPT launched a shopping feature for US users. This new feature enables users to buy items directly within their chat conversations. The initial user experience revealed limitations in determining Instant Checkout eligibility."
+        },
+        {
+            "published_date": "2025-10-19T00:00:00",
+            "title": "Nusuk App Launches Zamzam Home Delivery Across Saudi Arabia",
+            "author": "",
+            "url": "https://cairoscene.com/Buzz/Nusuk-App-Launches-Zamzam-Home-Delivery-Across-Saudi-Arabia",
+            "url_media": "https://cairoscene.com/Content/Admin/Uploads/Articles/ArticlesMainPhoto/1171143/d37e5fe0-d8f7-4714-a7a7-1e6e80f4a5a7.jpg",
+            "country": "EG",
+            "language": "en",
+            "org": [
+                "Zamzam"
+            ],
+            "summary": "Nusuk app launched a home delivery service for Zamzam water across Saudi Arabia. Users can order Zamzam water directly through the app with no limit on quantity or order frequency. The in-app ordering process streamlines selection and confirmation for users to complete requests from start to finish."
+        }
+    ]
+}
